@@ -3,30 +3,79 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="http://gmpg.org/xfn/11">
 <?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
-<div id="page" class="site">
 
-	<header id="masthead" class="site-header">
-		<div class="site-branding">
-			<?php
-			if ( is_front_page() || is_home() ) : ?>
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-			<?php else : ?>
-				<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
-			<?php
-			endif;
-			?>
 
-		</div><!-- .site-branding -->
+	<!--=== Start Preloader Area ===-->
+	<div class="preloader">
+		<div class="content">
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+			<div class="ball"></div>
+		</div>
+	</div>
+	<!--=== End Preloader Area ===-->
 
-		<nav id="site-navigation" class="main-navigation">
-			<?php wp_nav_menu( array( 'theme_location' => 'menu-main', 'menu_id' => 'menu-main' ) ); ?>
-		</nav><!-- #site-navigation -->
-	</header><!-- #masthead -->
+	<!--=== Start Navbar Area ===-->
+	<nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<div class="container">
+			<a class="navbar-brand p-0" href="index.html">
+				<img class="d-md-none " src="assets/images/logo-2.png" alt="logo-2">
+				<img class="d-none d-md-block" src="assets/images/logo.png" alt="logo">
+			</a>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+				data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+				aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon">
+					<i class="icofont-navigation-menu"></i>
+				</span>
+			</button>
 
-	<div id="content" class="site-content">
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav me-auto">
+					<?php wp_nav_menu( array( 'theme_location' => 'menu-main', 'menu_id' => 'menu-main' ) ); ?>
+
+					<li class="nav-item">
+						<a class="nav-link active" aria-current="page" href="fultium.html">Fultium</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="accrete.html">Accrete</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="binosto.html">Binosto</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="movymia.html">Reviews</a>
+					</li> 
+					<li class="dropdown nav-item">
+						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
+							id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+							<span>Resources</span>
+							<img src="assets/images/polygon.png" class="ms-3 chevron-down" alt="polygon">
+						</a>
+
+						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
+							<li><a class="dropdown-item" href="#">Bone Health Algorithm</a></li>
+							<li><a class="dropdown-item border-0" href="#">Webinar Platform</a></li> 
+						</ul>
+					</li>
+				</ul>
+
+				<div class="others-option d-none d-xl-block" role="search">
+					<img src="assets/images/logo-2.png" alt="logo-2">
+				</div>
+			</div>
+		</div>
+	</nav>
+	<!--=== End Navbar Area ===-->
