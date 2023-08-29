@@ -31,8 +31,8 @@
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container">
 			<a class="navbar-brand p-0" href="index.html">
-				<img class="d-md-none " src="assets/images/logo-2.png" alt="logo-2">
-				<img class="d-none d-md-block" src="assets/images/logo.png" alt="logo">
+				<img class="d-md-none " src="<?php echo img_dir (); ?>/logo-2.png" alt="logo-2">
+				<img class="d-none d-md-block" src="<?php echo img_dir (); ?>/logo.png" alt="logo">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 				data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -62,7 +62,7 @@
 						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
 							id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
 							<span>Resources</span>
-							<img src="assets/images/polygon.png" class="ms-3 chevron-down" alt="polygon">
+							<img src="<?php echo img_dir (); ?>/polygon.png" class="ms-3 chevron-down" alt="polygon">
 						</a>
 
 						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
@@ -73,7 +73,7 @@
 				</ul>
 
 				<div class="others-option d-none d-xl-block" role="search">
-					<img src="assets/images/logo-2.png" alt="logo-2">
+					<img src="<?php echo img_dir (); ?>/logo-2.png" alt="logo-2">
 				</div>
 			</div>
 		</div>

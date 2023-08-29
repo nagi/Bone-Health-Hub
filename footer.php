@@ -1,21 +1,3 @@
-
-	</div><!-- #content -->
-
-	<footer id="colophon" class="site-footer">
-		
-	</footer><!-- #colophon -->
-</div><!-- #page -->
-
-<?php wp_footer(); ?>
-
-</body>
-</html>
-
-
-
-///////////////////////////
-
-
 	<!--=== Start References Area ===-->
 	<div class="references-area ptb-100">
 		<div class="container">
@@ -112,7 +94,7 @@
 				<div class="col-lg-4 col-sm-6 col-md-4">
 					<div class="single-footer py-4">
 						<a href="#" class="d-block text-md-center">
-							<img src="assets/images/footer-logo.png" alt="footer-logo">
+							<img src="<?php echo img_dir (); ?>/footer-logo.png" alt="footer-logo">
 						</a>
 					</div>
 				</div>
@@ -151,12 +133,7 @@
 	</div>
 	<!--=== End Copyright Area ===-->
 
-	<!--=== JS Link ===-->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/bootstrap.bundle.min.js"></script>
-	<script src="assets/js/owl.carousel.min.js"></script>
-	<script src="assets/js/scrollcue.js"></script>
-	<script src="assets/js/custom.js"></script>
+	<?php wp_footer(); ?>
 </body>
 
 </html>

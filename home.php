@@ -10,27 +10,6 @@ get_header();
 $page_id = get_option( 'page_for_posts' );
 ?>
 
-<!doctype html>
-<html>
-
-<head>
-	<!--=== Required meta tags ===-->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-	<!--=== CSS Link ===-->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<link rel="stylesheet" href="assets/css/icofont.min.css">
-	<link rel="stylesheet" href="assets/css/scrollcue.css">
-	<link rel="stylesheet" href="assets/css/custom-fonts.css">
-	<link rel="stylesheet" href="assets/css/style.css">
-	<link rel="stylesheet" href="assets/css/responsive.css">
-	<title>STADA - HTML Template</title>
-</head>
-
-<body>
 	<!--=== Start Preloader Area ===-->
 	<div class="preloader">
 		<div class="content">
@@ -52,8 +31,8 @@ $page_id = get_option( 'page_for_posts' );
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container">
 			<a class="navbar-brand p-0" href="index.html">
-				<img class="d-md-none " src="assets/images/logo-2.png" alt="logo-2">
-				<img class="d-none d-md-block" src="assets/images/logo.png" alt="logo">
+				<img class="d-md-none " src="<?php echo img_dir (); ?>/logo-2.png" alt="logo-2">
+				<img class="d-none d-md-block" src="<?php echo img_dir (); ?>/logo.png" alt="logo">
 			</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
 				data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -81,7 +60,7 @@ $page_id = get_option( 'page_for_posts' );
 						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
 							id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
 							<span>Resources</span>
-							<img src="assets/images/polygon.png" class="ms-3 chevron-down" alt="polygon">
+							<img src="<?php echo img_dir (); ?>/polygon.png" class="ms-3 chevron-down" alt="polygon">
 						</a>
 
 						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
@@ -92,7 +71,7 @@ $page_id = get_option( 'page_for_posts' );
 				</ul>
 
 				<div class="others-option d-none d-xl-block" role="search">
-					<img src="assets/images/logo-2.png" alt="logo-2">
+					<img src="<?php echo img_dir (); ?>/logo-2.png" alt="logo-2">
 				</div>
 			</div>
 		</div>
@@ -123,7 +102,7 @@ $page_id = get_option( 'page_for_posts' );
 		<div class="scroll-down">
 			<a href="#prevention">
 				<span class="d-block">Scroll to learn more about <br> our product range</span>
-				<img src="assets/images/down.png" alt="down">
+				<img src="<?php echo img_dir (); ?>/down.png" alt="down">
 			</a>
 		</div>
 
@@ -140,7 +119,7 @@ $page_id = get_option( 'page_for_posts' );
 				<div class="row align-items-center">
 					<div class="col-xxl-6" data-cues="slideInLeft">
 						<div class="preventing-img-1">
-							<img src="assets/images/img-1.png" alt="img-1">
+							<img src="<?php echo img_dir (); ?>/img-1.png" alt="img-1">
 						</div>
 					</div>
 					<div class="col-xxl-6">
@@ -191,29 +170,29 @@ $page_id = get_option( 'page_for_posts' );
 	<div class="prevention-area pt-100 pb-70 text-center" id="prevention">
 		<div class="container">
 			<div class="prevention-title mb-5" data-cues="slideInUp">
-				<h3> <img src="assets/images/shape-1.png" alt="shape-1"> Prevention, treatment and management across the
+				<h3> <img src="<?php echo img_dir (); ?>/shape-1.png" alt="shape-1"> Prevention, treatment and management across the
 					osteoporosis patient pathway</h3>
 			</div>
 
 			<div class="row" data-cues="slideInUp">
 				<div class="col-lg-3 col-sm-6">
 					<div class="partner-logo mb-30">
-						<img src="assets/images/partner-1.png" alt="partner-1">
+						<img src="<?php echo img_dir (); ?>/partner-1.png" alt="partner-1">
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
 					<div class="partner-logo mb-30">
-						<img src="assets/images/partner-2.png" alt="partner-2">
+						<img src="<?php echo img_dir (); ?>/partner-2.png" alt="partner-2">
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
 					<div class="partner-logo mb-30">
-						<img src="assets/images/partner-3.png" alt="partner-3">
+						<img src="<?php echo img_dir (); ?>/partner-3.png" alt="partner-3">
 					</div>
 				</div>
 				<div class="col-lg-3 col-sm-6">
 					<div class="partner-logo mb-30">
-						<img src="assets/images/partner-4.png" alt="partner-4">
+						<img src="<?php echo img_dir (); ?>/partner-4.png" alt="partner-4">
 					</div>
 				</div>
 			</div>
@@ -238,14 +217,14 @@ $page_id = get_option( 'page_for_posts' );
 										from as little as 6p per day5,6</p>
 									<a href="#" class="main-btn">
 										More information
-										<img src="assets/images/right-1.png" alt="right-1">
+										<img src="<?php echo img_dir (); ?>/right-1.png" alt="right-1">
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-7" data-cues="slideInRight">
 							<div class="features-img one">
-								<img src="assets/images/img-2.png" alt="img-2">
+								<img src="<?php echo img_dir (); ?>/img-2.png" alt="img-2">
 							</div>
 						</div>
 					</div>
@@ -261,7 +240,7 @@ $page_id = get_option( 'page_for_posts' );
 					<div class="row">
 						<div class="col-lg-7" data-cues="slideInLeft">
 							<div class="features-img-3">
-								<img src="assets/images/img-3.png" alt="img-3">
+								<img src="<?php echo img_dir (); ?>/img-3.png" alt="img-3">
 							</div>
 						</div>
 						<div class="col-lg-5">
@@ -275,7 +254,7 @@ $page_id = get_option( 'page_for_posts' );
 										from as little as 6p per day5,6</p>
 									<a href="#" class="main-btn">
 										More information
-										<img src="assets/images/right-2.png" alt="right-1">
+										<img src="<?php echo img_dir (); ?>/right-2.png" alt="right-1">
 									</a>
 								</div>
 							</div>
@@ -294,7 +273,7 @@ $page_id = get_option( 'page_for_posts' );
 							<div class="single-features pt-4">
 								<div class="features-header bg-74378c">
 									<div class="d-flex align-items-center">
-										<img src="assets/images/shape-2.png" alt="shape-2">
+										<img src="<?php echo img_dir (); ?>/shape-2.png" alt="shape-2">
 										<div class="ms-2">
 											<span>Buffered</span>
 											<h3>Binosto</h3>
@@ -307,14 +286,14 @@ $page_id = get_option( 'page_for_posts' );
 										tolerability and persistence8,9</p>
 									<a href="#" class="main-btn">
 										More information
-										<img src="assets/images/right-3.png" alt="right-3">
+										<img src="<?php echo img_dir (); ?>/right-3.png" alt="right-3">
 									</a>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-7" data-cues="slideInRight">
 							<div class="features-img-4">
-								<img src="assets/images/img-4.png" alt="img-4">
+								<img src="<?php echo img_dir (); ?>/img-4.png" alt="img-4">
 							</div>
 						</div>
 					</div>
@@ -330,7 +309,7 @@ $page_id = get_option( 'page_for_posts' );
 					<div class="row">
 						<div class="col-lg-7" data-cues="slideInLeft">
 							<div class="features-img-5">
-								<img src="assets/images/img-5.png" alt="img-5">
+								<img src="<?php echo img_dir (); ?>/img-5.png" alt="img-5">
 							</div>
 						</div>
 						<div class="col-lg-5" data-cues="slideInRight">
@@ -344,7 +323,7 @@ $page_id = get_option( 'page_for_posts' );
 										reusable, multi-dose pen10,11</p>
 									<a href="#" class="main-btn">
 										More information
-										<img src="assets/images/right-4.png" alt="right-4">
+										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
 								</div>
 							</div>
@@ -371,7 +350,7 @@ $page_id = get_option( 'page_for_posts' );
 					</div>
 					<div class="col-lg-6" data-cues="slideInRight">
 						<div class="webinar-platform-img">
-							<img src="assets/images/img-6.png" alt="img-6">
+							<img src="<?php echo img_dir (); ?>/img-6.png" alt="img-6">
 						</div>
 					</div>
 				</div>
@@ -387,7 +366,7 @@ $page_id = get_option( 'page_for_posts' );
 				<div class="row align-items-center">
 					<div class="col-xxl-6" data-cues="slideInLeft">
 						<div class="algorithm-img">
-							<img src="assets/images/algorithm-img.png" alt="algorithm-img">
+							<img src="<?php echo img_dir (); ?>/algorithm-img.png" alt="algorithm-img">
 						</div>
 					</div>
 					<div class="col-xxl-6" data-cues="slideInRight">
@@ -414,7 +393,7 @@ $page_id = get_option( 'page_for_posts' );
 		<div class="container">
 			<div class="row align-items-center" data-cues="slideInUp">
 				<div class="col-xl-2 col-sm-6">
-					<img src="assets/images/logo-3.png" alt="logo-3">
+					<img src="<?php echo img_dir (); ?>/logo-3.png" alt="logo-3">
 				</div>
 				<div class="col-xl-4 col-sm-6">
 					<div class="royal-content">
@@ -530,7 +509,7 @@ $page_id = get_option( 'page_for_posts' );
 				<div class="col-lg-4 col-sm-6 col-md-4">
 					<div class="single-footer py-4">
 						<a href="#" class="d-block text-md-center">
-							<img src="assets/images/footer-logo.png" alt="footer-logo">
+							<img src="<?php echo img_dir (); ?>/footer-logo.png" alt="footer-logo">
 						</a>
 					</div>
 				</div>
@@ -568,13 +547,6 @@ $page_id = get_option( 'page_for_posts' );
 		</div>
 	</div>
 	<!--=== End Copyright Area ===-->
-
-	<!--=== JS Link ===-->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/bootstrap.bundle.min.js"></script>
-	<script src="assets/js/owl.carousel.min.js"></script>
-	<script src="assets/js/scrollcue.js"></script>
-	<script src="assets/js/custom.js"></script>
 </body>
 
 </html>
