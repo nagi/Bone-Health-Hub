@@ -10,85 +10,9 @@ get_header();
 $page_id = get_option( 'page_for_posts' );
 ?>
 
-	<!--=== Start Preloader Area ===-->
-	<div class="preloader">
-		<div class="content">
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-		</div>
-	</div>
-	<!--=== End Preloader Area ===-->
-
-	<!--=== Start Navbar Area ===-->
-	<nav class="navbar navbar-expand-lg bg-body-tertiary">
-		<div class="container">
-			<a class="navbar-brand p-0" href="index.html">
-				<img class="d-md-none " src="<?php echo img_dir (); ?>/logo-2.png" alt="logo-2">
-				<img class="d-none d-md-block" src="<?php echo img_dir (); ?>/logo.png" alt="logo">
-			</a>
-			<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-				data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
-				aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon">
-					<i class="icofont-navigation-menu"></i>
-				</span>
-			</button>
-
-			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav me-auto">
-					<li class="nav-item">
-						<a class="nav-link active" aria-current="page" href="fultium.html">Fultium</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="accrete.html">Accrete</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="binosto.html">Binosto</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="movymia.html">Reviews</a>
-					</li> 
-					<li class="dropdown nav-item">
-						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
-							id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
-							<span>Resources</span>
-							<img src="<?php echo img_dir (); ?>/polygon.png" class="ms-3 chevron-down" alt="polygon">
-						</a>
-
-						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
-							<li><a class="dropdown-item" href="#">Bone Health Algorithm</a></li>
-							<li><a class="dropdown-item border-0" href="#">Webinar Platform</a></li> 
-						</ul>
-					</li>
-				</ul>
-
-				<div class="others-option d-none d-xl-block" role="search">
-					<img src="<?php echo img_dir (); ?>/logo-2.png" alt="logo-2">
-				</div>
-			</div>
-		</div>
-	</nav>
-	<!--=== End Navbar Area ===-->
-
 	<!--=== Start Banner Area ===-->
 	<div class="hero-slider-wrap position-relative">
-		<div class="hero-slider-area hero-slider owl-carousel owl-theme">
-			<div class="hero-slider-item bg-1">
-				<div class="container">
-					<div class="banner-content">
-						<h2>Bone Health Hub</h2>
-						<p>Preventing Fractures. Preserving Resources.</p>
-					</div>
-				</div>
-			</div>
+		<div class="hero-slider-area hero-slider owl-carousel-disabled owl-theme">
 			<div class="hero-slider-item bg-1">
 				<div class="container">
 					<div class="banner-content">

@@ -44,7 +44,7 @@
 
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav me-auto">
-					<?php wp_nav_menu( array( 'theme_location' => 'menu-main', 'menu_id' => 'menu-main' ) ); ?>
+					<!-- Disabled <?php wp_nav_menu( array( 'theme_location' => 'menu-main', 'menu_id' => 'menu-main' ) ); ?> -->
 
 					<li class="nav-item">
 						<a class="nav-link active" aria-current="page" href="fultium.html">Fultium</a>
