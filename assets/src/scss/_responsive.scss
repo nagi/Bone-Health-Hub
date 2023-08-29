@@ -1,0 +1,725 @@
+$body-color: #707070;
+$main-color: #23185B;
+$heading-color: #000000;
+$white-color: #ffffff;
+$black-color: #000000;
+$font-size: 18px;
+$transition: all ease .5s;
+$border-radius: 4px;
+$box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
+
+/* Max width 767px
+<<<<=====================================================================>>>>*/
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: $font-size;
+    }
+
+    .ptb-100 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .pt-100 {
+        padding-top: 60px;
+    }
+
+    .pb-100 {
+        padding-bottom: 60px;
+    }
+
+    .pt-70 {
+        padding-top: 30px;
+    }
+
+    .pb-70 {
+        padding-bottom: 30px;
+    }
+
+    p {
+        font-size: $font-size  !important;
+        line-height: 35px !important;
+    }
+
+    .me-15 {
+        margin-right: 0;
+    }
+
+    .ms-15 {
+        margin-left: 0;
+    }
+
+    .p-0 {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+    }
+
+    .pe-0 {
+        padding-right: 12px !important;
+    }
+
+    .ps-0 {
+        padding-left: 12px !important;
+    }
+
+    .shape {
+        display: none;
+    }
+
+    .main-btn {
+        font-size: 14px;
+        padding: 15px 30px;
+    }
+
+    .banner-content {
+        text-align: center;
+        margin: auto;
+
+        h2 {
+            font-size: 60px;
+            line-height: 55px;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 20px;
+            line-height: 30px;
+        }
+    }
+
+    .hero-slider.owl-theme .owl-nav .owl-next,
+    .owl-prev {
+        width: 20px;
+    }
+
+    .scroll-down {
+        span {
+            font-size: 15px !important;
+        }
+    }
+
+    .global-side-wrap {
+        margin-left: 0;
+    }
+
+    .global-side-wrap-right {
+        margin-right: 0;
+    }
+
+    .preventing-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .factor-content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .prevention-title h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .pt-150 {
+        padding-top: 60px;
+    }
+
+    .single-features .features-header h3 {
+        font-size: 30px;
+    }
+
+    .features-img-3 {
+        margin-top: 0;
+    }
+
+    .single-features .main-btn {
+        font-size: 14px;
+    }
+
+    .features-img-5 {
+        margin-top: 0;
+    }
+
+    .features-img-4 {
+        margin-top: 0;
+    }
+
+    .webinar-platform-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .webinar-platform-area.overflow-hidden {
+        padding-top: 60px;
+    }
+
+    .algorithm-content {
+        margin-bottom: 50px;
+
+        h2 {
+            font-size: 30px;
+            line-height: 40px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .algorithm-img {
+        margin-bottom: 30px;
+    }
+
+    .references-title {
+        margin-bottom: 30px;
+    }
+
+    .hero-slider-item {
+        padding-top: 110px;
+    }
+
+
+    .stay-in-touch-wrap {
+        display: none;
+    }
+
+    .webinar-platform-content.style-two h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .webinar-platform-content.style-two h4 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .top-shape::before {
+        display: none;
+    }
+
+    .webinar-platform-content.style-three {
+        margin-left: 0;
+    }
+
+    .request-cost-content {
+        margin-top: 40px;
+
+        h2 {
+            font-size: 30px;
+            line-height: 40px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .request-cost-form {
+        padding: 20px;
+    }
+
+    .label {
+        font-size: 16px;
+    }
+}
+
+/* Min width 768px to Max width 991px 
+<<<<=====================================================================>>>>*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    body {
+        font-size: $font-size;
+    }
+
+    .ptb-100 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .pt-100 {
+        padding-top: 60px;
+    }
+
+    .pb-100 {
+        padding-bottom: 60px;
+    }
+
+    .pt-70 {
+        padding-top: 30px;
+    }
+
+    .pb-70 {
+        padding-bottom: 30px;
+    }
+
+    p {
+        font-size: $font-size  !important;
+        line-height: 35px !important;
+    }
+
+    .me-15 {
+        margin-right: 0;
+    }
+
+    .ms-15 {
+        margin-left: 0;
+    }
+
+    .p-0 {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+    }
+
+    .pe-0 {
+        padding-right: 12px !important;
+    }
+
+    .ps-0 {
+        padding-left: 12px !important;
+    }
+
+    .shape {
+        display: none;
+    }
+
+    .main-btn {
+        font-size: 14px;
+        padding: 15px 30px;
+    }
+
+    .banner-content {
+        text-align: center;
+        margin: auto;
+
+        h2 {
+            font-size: 60px;
+            line-height: 55px;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 20px;
+            line-height: 30px;
+        }
+    }
+
+    .hero-slider.owl-theme .owl-nav .owl-next,
+    .owl-prev {
+        width: 20px;
+    }
+
+    .scroll-down {
+        span {
+            font-size: 15px !important;
+        }
+    }
+
+    .global-side-wrap {
+        margin-left: 0;
+    }
+
+    .global-side-wrap-right {
+        margin-right: 0;
+    }
+
+    .preventing-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .factor-content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .prevention-title h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .pt-150 {
+        padding-top: 60px;
+    }
+
+    .single-features .features-header h3 {
+        font-size: 30px;
+    }
+
+    .features-img-3 {
+        margin-top: 0;
+    }
+
+    .single-features .main-btn {
+        font-size: 14px;
+    }
+
+    .features-img-5 {
+        margin-top: 0;
+    }
+
+    .features-img-4 {
+        margin-top: 0;
+    }
+
+    .webinar-platform-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 20px;
+    }
+
+    .webinar-platform-area.overflow-hidden {
+        padding-top: 60px;
+    }
+
+    .algorithm-content {
+        margin-bottom: 50px;
+
+        h2 {
+            font-size: 30px;
+            line-height: 40px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .algorithm-img {
+        margin-bottom: 30px;
+    }
+
+    .references-title {
+        margin-bottom: 30px;
+    }
+
+    .hero-slider-item {
+        padding-top: 110px;
+    }
+
+    .single-features {
+        max-width: 100%;
+    }
+
+
+    .stay-in-touch-wrap {
+        display: none;
+    }
+
+    .webinar-platform-content.style-two h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .webinar-platform-content.style-two h4 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .top-shape::before {
+        display: none;
+    }
+
+    .webinar-platform-content.style-three {
+        margin-left: 0;
+    }
+
+    .request-cost-content {
+        margin-top: 40px;
+
+        h2 {
+            font-size: 30px;
+            line-height: 40px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .request-cost-form {
+        padding: 20px;
+    }
+
+    .label {
+        font-size: 16px;
+    }
+
+}
+
+/* Min width 992px to Max width 1199px 
+<<<<=====================================================================>>>>*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .global-side-wrap {
+        margin-left: 0;
+    }
+
+    .dropdown {
+        &-item {
+            border-bottom: 2px solid #ddd !important;
+            font-size: 16px !important;
+            text-align: end;
+            padding: 13px 0;
+            padding-right: 0;
+            background-color: transparent !important;
+
+
+            &.border-0 {
+                border: 0 !important;
+            }
+
+            &:hover {
+                color: #ec691d;
+            }
+        }
+    }
+
+    .navbar-nav .dropdown-menu {
+        border-radius: 0 0 12px 12px !important;
+        border: 0;
+        box-shadow: 0 9px 12px rgba(0, 0, 0, 0.0509803922);
+        padding: 6px 18px;
+        width: 226px;
+        margin-top: 22px;
+        margin-right: 5px;
+        position: relative;
+        z-index: 1;
+
+        &::after {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            background: #fff;
+            box-shadow: inset 0px 13px 11px rgba(0, 0, 0, 0.03);
+            content: '';
+            z-index: -1;
+            width: 100%;
+            border-radius: 0 0 12px 12px;
+        }
+    }
+
+    .global-side-wrap-right {
+        margin-right: 0;
+    }
+
+    .features-img-3 {
+        margin-top: 0;
+    }
+
+    .features-img-5 {
+        margin-top: 0;
+    }
+
+    .features-img-4 {
+        margin-top: 0;
+    }
+
+    .webinar-platform-area.overflow-hidden {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .algorithm-content {
+        max-width: 100%;
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
+
+    .webinar-platform-content.style-three {
+        margin-left: 0;
+    }
+
+    .webinar-platform-content {
+        max-width: 100%;
+    }
+
+    .request-cost-content p {
+        max-width: 100%;
+    }
+}
+
+/* Min width 1200px to Max width 1320px 
+<<<<=====================================================================>>>>*/
+@media only screen and (min-width: 1200px) and (max-width: 1550px) {
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .dropdown {
+        &-item {
+            border-bottom: 2px solid #ddd !important;
+            font-size: 16px !important;
+            text-align: end;
+            padding: 13px 0;
+            padding-right: 0;
+            background-color: transparent !important;
+
+
+            &.border-0 {
+                border: 0 !important;
+            }
+
+            &:hover {
+                color: #ec691d;
+            }
+        }
+    }
+
+    .navbar-nav .dropdown-menu {
+        border-radius: 0 0 12px 12px !important;
+        border: 0;
+        box-shadow: 0 9px 12px rgba(0, 0, 0, 0.0509803922);
+        padding: 6px 18px;
+        width: 226px;
+        margin-top: 39px;
+        margin-right: 5px;
+        position: relative;
+        z-index: 1;
+
+        &::after {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            background: #fff;
+            box-shadow: inset 0px 13px 11px rgba(0, 0, 0, 0.03);
+            content: '';
+            z-index: -1;
+            width: 100%;
+            border-radius: 0 0 12px 12px;
+        }
+    }
+
+    .navbar .others-option {
+        .resume-btn {
+            margin-right: 20px;
+            font-size: 16px;
+        }
+
+        .main-btn {
+            padding: 16px 15px;
+        }
+    }
+
+    .global-side-wrap {
+        margin-left: 0;
+    }
+
+    .global-side-wrap-right {
+        margin-right: 0;
+    }
+
+    .features-img-3 {
+        margin-top: 0;
+    }
+
+    .features-img-5 {
+        margin-top: 0;
+    }
+
+    .features-img-4 {
+        margin-top: 0;
+    }
+
+    .webinar-platform-area.overflow-hidden {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    .algorithm-content {
+        max-width: 100%;
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
+
+    .webinar-platform-content {
+        max-width: 100%;
+    }
+
+    .webinar-platform-content.style-three {
+        margin-left: 0;
+    }
+
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1550px) {
+
+    .preventing-content h2 {
+        font-size: 55px;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up) Only Mobil Menu
+===========================================================*/
+@media only screen and (max-width: 991px) {
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+        .navbar-toggler .navbar-toggler-icon {
+            position: relative;
+            top: 11px;
+        }
+    }
+
+    .navbar-nav .dropdown-menu {
+        position: static;
+        border: 0;
+        margin-left: 25px;
+        padding-top: 0;
+    }
+}
+
+@media only screen and (min-width: 1401px) {
+
+    .container {
+        max-width: 1750px;
+        padding-left: 30px;
+        padding-right: 30px;
+    } 
+
+
+}
+@media only screen and (min-width: 1500px) {
+ 
+    .dropdown {
+        &-item {
+            border-bottom: 2px solid #ddd !important;
+            font-size: 16px !important;
+            text-align: end;
+            padding: 13px 0;
+            padding-right: 0;
+            background-color: transparent !important;
+
+
+            &.border-0 {
+                border: 0 !important;
+            }
+
+            &:hover {
+                color: #ec691d;
+            }
+        }
+    }
+
+    .navbar-nav .dropdown-menu {
+        border-radius: 0 0 12px 12px !important;
+        border: 0;
+        box-shadow: 0 9px 12px rgba(0, 0, 0, 0.0509803922);
+        padding: 6px 18px;
+        width: 226px;
+        margin-top: 39px;
+        margin-right: 25px;
+        position: relative;
+        z-index: 1;
+
+        &::after {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            background: #fff;
+            box-shadow: inset 0px 13px 11px rgba(0, 0, 0, 0.03);
+            content: '';
+            z-index: -1;
+            width: 100%;
+            border-radius: 0 0 12px 12px;
+        }
+    }
+
+
+}

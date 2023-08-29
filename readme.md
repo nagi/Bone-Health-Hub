@@ -1,3 +1,11 @@
+# Bone Health Wordpress Theme by Seven Stones
+
+* Wordpress theme for Stada (https://www.stada.com)
+* Highly coupled to database data
+* Forms submit to a remote CMS
+
+Theme README follows...
+
 # WordPress Gulp and Webpack starter theme
 
 ![](screenshot.png)

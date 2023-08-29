@@ -1,0 +1,15 @@
+// Fonts
+@font-face {
+    font-family: 'Omnes';
+    src: url('../fonts/Omnes-Semibold.eot');
+    src: url('../fonts/Omnes-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Omnes-Semibold.woff2') format('woff2'),
+        url('../fonts/Omnes-Semibold.woff') format('woff'),
+        url('../fonts/Omnes-Semibold.ttf') format('truetype'),
+        url('../fonts/Omnes-Semibold.svg#Omnes-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');

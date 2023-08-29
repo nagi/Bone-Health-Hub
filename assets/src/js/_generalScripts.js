@@ -1,13 +1,17 @@
 
 class General {
 	constructor() {
-		this.testVariable = 'script working';
-		this.init();
+		this.makeNavSticky();
 	}
 
-	init() {
-		// for tests purposes only
-		console.log(this.testVariable);
+	makeNavSticky() {
+		$(window).on('scroll', () => {
+			if ($(this).scrollTop() > 150) {
+				$('.navbar').addClass('is-sticky');
+			} else {
+				$('.navbar').removeClass('is-sticky');
+			}
+		});
 	}
 }
 

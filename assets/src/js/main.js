@@ -1,20 +1,28 @@
 import General from './_generalScripts';
+import GateKeeper from './_gateKeeper';
+import '@popperjs/core';
+import 'bootstrap';
 
-const App = {
-
+class App {
 	/**
 	 * App.init
 	 */
-	init() {
+	static init() {
 		// General scripts
-		function initGeneral() {
-			return new General();
+		function initGateKeeper() {
+			return new GateKeeper();
 		}
-		initGeneral();
-	}
 
-};
+		initGateKeeper();
+		const generalScripts = new General();
+	}
+}
 
 document.addEventListener('DOMContentLoaded', () => {
 	App.init();
+
+	// eslint-disable-next-line no-undef
+	scrollCue.init();
 });
+
+
