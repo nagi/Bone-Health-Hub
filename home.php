@@ -189,7 +189,7 @@ $page_id = get_option( 'page_for_posts' );
 		</div>
 		<!--=== End Features Area ===-->
 
-		<div class="features-area bg-color-f5f5f5 position-relative">
+		<div class="features-area bg-color-f5f5f5 position-relative z-2">
 			<div class="container">
 				<div class="global-side-wrap-right">
 					<div class="row">
@@ -227,7 +227,7 @@ $page_id = get_option( 'page_for_posts' );
 		<!--=== End Features Area ===-->
 
 		<!--=== Start Features Area ===-->
-		<div class="features-area bg-color-f5f5f5 position-relative z-1">
+		<div class="features-area bg-color-f5f5f5 position-relative z-3">
 			<div class="container">
 				<div class="global-side-wrap">
 					<div class="row">
