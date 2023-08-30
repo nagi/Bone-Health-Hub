@@ -41,11 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
 		$('.navbar-collapse').collapse('hide');
 	});
 
-	/** <<=== Preloader JS ==>>* */
-	$(window).on('load', () => {
-		$('.preloader').addClass('preloader-deactivate');
-	});
-
 	/** <<=== scrollCue JS ==>>* */
 	scrollCue.init();
 }(jQuery));

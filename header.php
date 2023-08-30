@@ -8,25 +8,6 @@
 
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
-
-
-	<!--=== Start Preloader Area ===-->
-	<div class="preloader">
-		<div class="content">
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-			<div class="ball"></div>
-		</div>
-	</div>
-	<!--=== End Preloader Area ===-->
-
 	<!--=== Start Navbar Area ===-->
 	<nav class="navbar navbar-expand-lg bg-body-tertiary">
 		<div class="container">
