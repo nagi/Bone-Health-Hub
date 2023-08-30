@@ -19,38 +19,33 @@ document.addEventListener('DOMContentLoaded', () => {
 	App.init();
 });
 
-(function($) {
-
-	'use strict';
-	
-	/**<<=== Header Sticky JS ==>>**/
-	$(window).on('scroll', function() {
-		if ($(this).scrollTop() >150){  
-			$('.navbar').addClass("is-sticky");
+(function ($) {
+	/** <<=== Header Sticky JS ==>>* */
+	$(window).on('scroll', function () {
+		if ($(this).scrollTop() > 150) {
+			$('.navbar').addClass('is-sticky');
+		} else {
+			$('.navbar').removeClass('is-sticky');
 		}
-		else{
-			$('.navbar').removeClass("is-sticky");
-		};
 	});
-	
-	$('.scroll-btn, .navbar .navbar-nav li a').on('click', function(e){
-		var anchor = $(this);
+
+	$('.scroll-btn, .navbar .navbar-nav li a').on('click', function (e) {
+		const anchor = $(this);
 		$('html, body').stop().animate({
 			scrollTop: $(anchor.attr('href')).offset().top - 100
 		}, 100);
 		e.preventDefault();
 	});
 
-	$('.navbar .navbar-nav li a').on('click', function(){
+	$('.navbar .navbar-nav li a').on('click', () => {
 		$('.navbar-collapse').collapse('hide');
 	});
 
-	/**<<=== Preloader JS ==>>**/
-	$(window).on('load', function() {
+	/** <<=== Preloader JS ==>>* */
+	$(window).on('load', () => {
 		$('.preloader').addClass('preloader-deactivate');
-	}) 
+	});
 
-	/**<<=== scrollCue JS ==>>**/
+	/** <<=== scrollCue JS ==>>* */
 	scrollCue.init();
-
-})(jQuery);
+}(jQuery));
