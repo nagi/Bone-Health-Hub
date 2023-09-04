@@ -145,17 +145,20 @@
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script> -->
 
 	<!--=== Start address lookup scripts ===-->
-	<script src="https://cdn.jsdelivr.net/npm/@ideal-postcodes/address-finder-bundled@4"></script>
 	<script>
-	IdealPostcodes.AddressFinder.setup({
-		apiKey: "ak_l1yyyagtRtL66EZaHha06pnILaAwk",
-		outputFields: {
-		line_1: "#streetAddress",
-		line_2: "#streetAddress2",
-		post_town: "#city",
-		postcode: "#postCode",
-		},
-	});
+		if(!!$('.wpcf7').length) { // Looking for Contact Form 7 form
+			(function() {
+				IdealPostcodes.AddressFinder.setup({
+						apiKey: "ak_l1yyyagtRtL66EZaHha06pnILaAwk",
+						outputFields: {
+						line_1: "#streetAddress",
+						line_2: "#streetAddress2",
+						post_town: "#city",
+						postcode: "#postCode",
+					}
+				});
+			})()
+		}
 	</script>
 	<!--=== End address lookup scripts ===-->
 

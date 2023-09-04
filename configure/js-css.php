@@ -7,6 +7,7 @@ function _add_javascript() {
     remove_action('wp_head', 'wp_enqueue_scripts', 1);
 
     // wp_enqueue_script('owl', get_template_directory_uri() . '/assets/vendor/owl.carousel.min.js', null, null, true );
+    wp_enqueue_script('address', "https://cdn.jsdelivr.net/npm/@ideal-postcodes/address-finder-bundled@4", null, null, true );
     wp_enqueue_script('scroll', get_template_directory_uri() . '/assets/vendor/scrollcue.js', null, null, true );
 	wp_enqueue_script('bone', get_template_directory_uri() . '/assets/dist/js/main.js', null, null, true );
 }

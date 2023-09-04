@@ -14,9 +14,7 @@ $page_id = get_option( 'page_for_posts' );
 <div class="page-banner-area position-relative">
     <div class="container-fluid p-0">
         <img src="<?php echo img_dir (); ?>/banner-bg-3.png" class="w-100" alt="banner-bg-3">
-        <div class="stay-in-touch-wrap">
-            <a href="#" class="stay-in-touch">Stay in touch!</a>
-        </div>
+        <?php get_template_part('/partials/stay-in-touch-tab'); ?>
     </div>
 </div>
 <!--=== End Page Banner Area ===-->

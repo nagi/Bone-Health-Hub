@@ -30,9 +30,7 @@ $page_id = get_option( 'page_for_posts' );
 			</a>
 		</div>
 
-		<div class="stay-in-touch-wrap z-1">
-			<a href="#" class="stay-in-touch" data-bs-toggle="modal" data-bs-target="#crmModal">Stay in touch!</a>
-		</div>
+		<?php get_template_part('/partials/stay-in-touch-tab'); ?>
 	</div>
 	<!--=== End Banner Area ===-->
 
