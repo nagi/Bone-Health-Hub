@@ -27,7 +27,7 @@ $page_id = get_option( 'page_for_posts' );
                 <div class="webinar-platform-content style-two">
                     <h2>Accrete-D<sub>3</sub></h2>
                     <h4>The least expensive calcium + vitamin 
-                        D3 brand offering a choice of swallowable and chewable tablets7</h4>
+                        D3 brand offering a choice of swallowable and chewable tablets <sup>7</sup></h4>
                     <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; the cost/patient is 6x higher than with diabetes medication.18 Flavour, texture, and pill burden can impact on adherence.19</p>
                 </div>
             </div>

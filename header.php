@@ -40,7 +40,7 @@
 						<a class="nav-link" href="/binosto">Binosto</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="/movymia">Movymia</a>
+						<a href="https://movymia.co.uk/" target="_blank" class="nav-link" href="/movymia">Movymia</a>
 					</li> 
 					<li class="dropdown nav-item">
 						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
@@ -50,8 +50,8 @@
 						</a>
 
 						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
-							<li><a class="dropdown-item" href="#">Bone Health Algorithm</a></li>
-							<li><a class="dropdown-item border-0" href="#">Webinar Platform</a></li> 
+							<li><a class="dropdown-item" href="https://theros.org.uk/risk-checker/">Bone Health Algorithm</a></li>
+							<li><a class="dropdown-item border-0" href="https://www.stadahcp.co.uk/webinars">Webinar Platform</a></li> 
 						</ul>
 					</li>
 				</ul>

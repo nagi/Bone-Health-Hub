@@ -46,26 +46,31 @@ $page_id = get_option( 'page_for_posts' );
 					</div>
 					<div class="col-xxl-6">
 						<div class="preventing-content pb-lg-5" data-cues="slideInUp">
-							<h2>Preventing fractures. Preserving resources.</h2>
-							<p class="text-color">Every minute, someone in the UK suffers a fragility fracture.1 With
+							<h2>Preventing fractures. <br>
+							Preserving resources.</h2>
+							<p class="tiny">The STADA Bone Health Hub contains information and bone health resources that aim to support
+								Healthcare Professionals in preventing fractures and preserving NHS resources.</p>
+							
+							<p class="semibold">Every minute, someone in the UK suffers a fragility fracture.<sup>1</sup> With
 								direct healthcare costs already >£5 billion each year, the burden on the NHS is set to
-								increase markedly as the population ages.1,2</p>
+								increase markedly as the population ages. <sup>1,2</sup></p>
+							
 
-							<p>For patients too, the consequences can be devastating. Hip and vertebral fractures tend
+							
+							<p class="regular">For patients too, the consequences can be devastating. Hip and vertebral fractures tend
 								to have the most worrying repercussions, but fractures at any site can impact on
-								survival.3,4</p>
+								survival.<sup>3,4</sup></p>
 
-							<p>Since there is no clinical specialty dedicated solely to bone health, sharing essential
+							<p class="regular">Since there is no clinical specialty dedicated solely to bone health, sharing essential
 								knowledge and tools to support the provision of optimal care for patients assumes
 								particular importance.</p>
 
-							<p>That is where our Bone Health Hub fits in. As well as providing you with information on
-								our four treatments spanning the osteoporosis management pathway, you will find clinical
-								and patient guides, links to our webinar platform and our Bone Health Algorithm, a
-								useful tool that aims to provide a framework to aid decision-making around treatments,
-								developed in conjunction with the Royal Osteoporosis Society.</p>
+							<p class="regular">That is where our Bone Health Hub fits in. As well as providing you with information on our 
+								four treatments spanning the osteoporosis management pathway, you will find clinical and patient guides, 
+								links to our webinar platform and our Bone Health Algorithm, a useful tool that aims to provide a framework
+								 to aid decision-making around treatments, developed in conjunction with the Royal Osteoporosis Society.</p>
 
-							<p>Just scroll down to explore the hub.</p>
+							<p class="semibold">Just scroll down to explore the hub.</p>
 						</div>
 					</div>
 				</div>
@@ -98,24 +103,32 @@ $page_id = get_option( 'page_for_posts' );
 
 			<div class="row" data-cues="slideInUp">
 				<div class="col-lg-3 col-sm-6">
-					<div class="partner-logo mb-30">
-						<img src="<?php echo img_dir (); ?>/partner-1.png" alt="partner-1">
-					</div>
+					<a href="#fulti">
+						<div class="partner-logo mb-30">
+							<img src="<?php echo img_dir (); ?>/partner-1.png" alt="partner-1">
+						</div>
+					</a>
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="partner-logo mb-30">
-						<img src="<?php echo img_dir (); ?>/partner-2.png" alt="partner-2">
-					</div>
+					<a href="#accre">
+						<div class="partner-logo mb-30">
+							<img src="<?php echo img_dir (); ?>/partner-2.png" alt="partner-2">
+						</div>
+					</a>
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="partner-logo mb-30">
-						<img src="<?php echo img_dir (); ?>/partner-3.png" alt="partner-3">
-					</div>
+					<a href="#binos">
+						<div class="partner-logo mb-30">
+							<img src="<?php echo img_dir (); ?>/partner-3.png" alt="partner-3">
+						</div>
+					</a>
 				</div>
 				<div class="col-lg-3 col-sm-6">
-					<div class="partner-logo mb-30">
-						<img src="<?php echo img_dir (); ?>/partner-4.png" alt="partner-4">
-					</div>
+					<a href="#movym">
+						<div class="partner-logo mb-30">
+							<img src="<?php echo img_dir (); ?>/partner-4.png" alt="partner-4">
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -128,16 +141,16 @@ $page_id = get_option( 'page_for_posts' );
 			<div class="xcontainer">
 				<div class="global-side-wrap-right">
 					<div class="row">
-						<div class="col-lg-5" data-cues="slideInLeft">
+						<div id="fulti" class="col-lg-5" data-cues="slideInLeft">
 							<div class="single-features pt-150 mb-30">
 								<div class="features-header">
 									<h3>Fultium-D <sub>3</sub></h3>
 									<span>Colecalciferol</span>
 								</div>
 								<div class="features-content">
-									<p>The UK’s #1 prescribed licensed vitamin D brand, with a range of doses costing
-										from as little as 6p per day5,6</p>
-									<a href="#" class="main-btn">
+									<p>The UK’s #1 prescribed licensed vitamin D brand, with a simple 360 day 
+										loading and maintenance regimen for only £66.51<sup>9,10</sup></p>
+									<a href="/fultium" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-1.png" alt="right-1">
 									</a>
@@ -160,7 +173,7 @@ $page_id = get_option( 'page_for_posts' );
 			<div class="xcontainer">
 				<div class="global-side-wrap">
 					<div class="row">
-						<div class="col-lg-7" data-cues="slideInLeft">
+						<div id="accre" class="col-lg-7" data-cues="slideInLeft">
 							<div class="features-img-3">
 								<img src="<?php echo img_dir (); ?>/img-3.png" alt="img-3">
 							</div>
@@ -172,9 +185,11 @@ $page_id = get_option( 'page_for_posts' );
 									<span>Calcium/Colecalciferol</span>
 								</div>
 								<div class="features-content">
-									<p>The UK’s #1 prescribed licensed vitamin D brand, with a range of doses costing
-										from as little as 6p per day5,6</p>
-									<a href="#" class="main-btn">
+									<p>
+										The least expensive calcium + vitamin D3 brand offering
+										a choice of swallowable and chewable tablets<sup>11</sup>
+									</p>
+									<a href="/accrete" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-2.png" alt="right-1">
 									</a>
@@ -191,7 +206,7 @@ $page_id = get_option( 'page_for_posts' );
 			<div class="xcontainer">
 				<div class="global-side-wrap-right">
 					<div class="row">
-						<div class="col-lg-5" data-cues="slideInLeft">
+						<div id="binos" class="col-lg-5" data-cues="slideInLeft">
 							<div class="single-features pt-4">
 								<div class="features-header bg-74378c">
 									<div class="d-flex align-items-center">
@@ -204,9 +219,9 @@ $page_id = get_option( 'page_for_posts' );
 									</div>
 								</div>
 								<div class="features-content">
-									<p>A buffered, soluble, effervescent alendronate tablet formulation, enhancing GI
-										tolerability and persistence8,9</p>
-									<a href="#" class="main-btn">
+									<p>A buffered, soluble, effervescent alendronate tablet formulation, 
+										enhancing GI tolerability and persistence<sup>12,13</sup></p>
+									<a href="/binosos" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-3.png" alt="right-3">
 									</a>
@@ -229,10 +244,10 @@ $page_id = get_option( 'page_for_posts' );
 			<div class="xcontainer">
 				<div class="global-side-wrap">
 					<div class="row">
-						<div class="col-lg-7" data-cues="slideInLeft">
+						<div id="movym" class="col-lg-7" data-cues="slideInLeft">
 							<div class="features-img-5">
 								<img src="<?php echo img_dir (); ?>/img-5.png" alt="img-5">
-							</div>
+							</div>						
 						</div>
 						<div class="col-lg-5" data-cues="slideInRight">
 							<div class="single-features ms-auto me-0 mt-4 mb-30">
@@ -241,9 +256,9 @@ $page_id = get_option( 'page_for_posts' );
 									<span>Teriparatide</span>
 								</div>
 								<div class="features-content">
-									<p>An affordable teriparatide biosimilar treatment, minimising waste with a
-										reusable, multi-dose pen10,11</p>
-									<a href="#" class="main-btn">
+									<p>An affordable teriparatide biosimilar treatment,
+										minimising waste with a reusable, multi-dose pen<sup>8,14</sup></p>
+									<a href="https://movymia.co.uk/" target="_blank" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
@@ -267,7 +282,7 @@ $page_id = get_option( 'page_for_posts' );
 							<h2>Webinar Platform </h2>
 							<p>Access a curated series of educational sessions presented by experts in the field of bone
 								health, supporting your ongoing professional learning and development.</p>
-							<a href="#" class="main-btn">Click Here</a>
+							<a href="https://www.stadahcp.co.uk/webinars" target="_blank" class="main-btn">Click Here</a>
 						</div>
 					</div>
 					<div class="col-lg-6" data-cues="slideInRight">
@@ -301,7 +316,7 @@ $page_id = get_option( 'page_for_posts' );
 								followed by a suggested treatment pathway. The aim is to optimise patient outcomes by
 								delivering the appropriate treatment at the appropriate time in line with national NICE,
 								SIGN and NOGG guidelines.</p>
-							<a href="#" class="main-btn">Click Here</a>
+							<a href="https://theros.org.uk/risk-checker/" class="main-btn">Click Here</a>
 						</div>
 					</div>
 				</div>

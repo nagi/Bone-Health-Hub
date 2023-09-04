@@ -21,26 +21,30 @@
 								<li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser/amp/view/153616 and </li>
 								<li>Calame W et al. Nutrients 2020; 12(6): 1868.</li>
 								<li>Fultium-D3 800IU Capsules Summary of Product Characteristics, January 2018.</li>
+								<li>Fultium-D3 3200IU Capsules Summary of Product Characteristics, January 2018.</li>
+								<li>Fultium-D3 20KIU Capsules Summary of Product Characteristics, January 2018.</li>
 							</ol>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="references-content">
-							<ol class="references-list">
-								<li>Fultium-D3 3200IU Capsules Summary of Product Characteristics, January 2018.</li>
-								<li>Fultium-D3 20KIU Capsules Summary of Product Characteristics, January 2018.</li>
+							<ol class="references-list" start="16">
 								<li>Fultium-D3 Drops Summary of Product Characteristics, August 2015.</li>
 								<li>Wan M et al. Br J Clin Pharmacol 2021; 87(3): 1338-46.</li>
+								<li>Cutler RL et al. BMJ Open 2018; 8(1): e016982.</li>
+								<li>Shariff Z et al. Pharmaceutics 2020; 12(10): 905.</li>
 								<li>Martin LR et al. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
-								<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics, December 2022.
-								</li>
+								<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics, December 2022.</li>
 								<li>Accrete D3 One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product</li>
-								<li>Reid IR, Bolland MJ. Nutrients 2020; 12(4): 1011.</li>
+								<li>HSCIC IQVIA RXA Unit Sales ending December 2022</li>
+								<li>NHS List Price, Drug Tariff February 2023</li>
+								<li>Adcal-D3® Chewable Tablets. Summary of Product Characteristics, February 2017.</li>
 								<li>Bastounis A et al. Osteoporos Int 2022; 33(6): 1223-33.</li>
 								<li>Morley J et al. Osteoporos Int 2020; 31(3): 533-45.</li>
 								<li>Fuggle N et al. Aging Clin Exp Res 2022; 34(11): 2625-34.</li>
 								<li>Hodges LA et al. Int J Pharm 2012; 432(1-2): 57-62.</li>
 								<li>Binosto 70 mg Effervescent Tablets Summary of Product Characteristics, June.</li>
+								<li class="plain">Adcal-D3® is a registered trademark of Kyowa Kirin Services Ltd.</li>
 							</ol>
 						</div>
 					</div>
