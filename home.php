@@ -390,20 +390,41 @@ $page_id = get_option( 'page_for_posts' );
 					<div class="col-lg-6">
 						<div class="references-content">
 							<ol class="references-list">
-								<li>International Osteoporosis Foundation. Available at: 
-									<a href="https://www.osteoporosis.foundation/sites/iofbonehealth/files/scope-2021/UK%20report.pdf">www.osteoporosis.foundation</a>
-									<br>Accessed on: 17.08.23.
+								<li>
+									<a href="https://www.osteoporosis.foundation/sites/iofbonehealth/files/scope-2021/UK%20report.pdf">International Osteoporosis foundation</a>.
+									<br>Accessed: August 2023.
 								</li>
 								<li>Odén A et al. Osteoporos Int 2015; 26(9): 2243-8.</li>
-
-								
+								<li>Migliorini F et al. Medicina (Kaunas) 2021; 57(10): 1119.</li>
+								<li>Brown JP et al. BMC Musculoskelet Disord 2021; 22(1): 105.</li>
+								<li> 
+									<a href="https://www.medicines.org.uk/emc/product/2813/smpc">Fultium-D3 800IU Capsules Summary of Product Characteristics</a>.
+									<br>Accessed: September 2023.
+								</li>
+								<li>
+									<a href="https://www.medicines.org.uk/emc/product/2766">Accrete D3 Film-Coated Tablets Summary of Product Characteristics</a>.
+									<br>Accessed: September 2023.
+								</li>
+								<li>
+									<a href="https://www.medicines.org.uk/emc/product/7113">Binosto 70 mg Effervescent Tablets Summary of Product Characteristics</a>.
+									<br>Accessed: September 2023.
+								</li>
 							</ol>
 						</div>
 					</div>
 					<div class="col-lg-6">
 						<div class="references-content">
-							<ol class="references-list" start="16">
-
+							<ol class="references-list" start="8">
+								<li><a href="https://www.medicines.org.uk/emc/product/10780">Movymia Summary of Product Characteristics, January 2021</a>.
+								<br>Accessed September 2023.</li>
+								<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
+								<li>360 days’ treatment & maintenance on Fultium-D3: 90x3200IU (£39.96) + 3x90x800IU (3x£8.85) = £39.96 + £26.55 = £66.51.
+									Source NHS DM+D, Accessed: September 2023. </li>
+								<li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: September 2023.</li>
+								<li>Minisola S et al. JBMR Plus 2021; 5(7): e10510.</li>
+								<li>Giusti A et al. Aging Clin Exp Res 2021; 33(9): 2529-37.</li>
+								<li>DM+D. Available <a href="https://services.nhsbsa.nhs.uk/dmd-browser/amp/view/153616">services.nhsbsa.nhs.uk</a> and 
+								<a href="services.nhsbsa.nhs.uk/dmd-browser/amp/view/153615">here</a><br> Accessed: September 2023</li>
 							</ol>
 						</div>
 					</div>
