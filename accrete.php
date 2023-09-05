@@ -80,25 +80,34 @@ $page_id = get_option( 'page_for_posts' );
                     <p>Please complete this form and a member of our team will contact you with specific cost-savings information for your locality.</p>
                 </div>
             </div>
+            <div class="col-xxl-5" data-cues="slideInLeft">
+                <?php if(isRegistered()) {
+                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+                } else {
+                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                }
+                ?>
+            </div>
         </div>
     </div>
-    <button class="btn btn-primary">Download</button>
 </div>
 <!--=== End Request Area ===-->
 
 <!--=== Start Request Area ===-->
 <div class="request-cost-area pt-100">
     <div class="container">
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col-xxl-5" data-cues="slideInLeft">
                 <div class="request-cost-content">
                     <h2>Patient Guide download</h2>
                     <p>Please register for an instant to download of the Accrete patient guide for more information on the importance of a calcium-vitamin D treatment and tips on how to improve bone health alongside the treatment.</p>
                 </div>
             </div>
+            <div class="col-xxl-5" data-cues="slideInLeft">
+                <a href="/register" class="btn btn-primary rounded-5">Register to download</a>
+            </div>
         </div>
     </div>
-    <button class="btn btn-primary">Download</button>
 </div>
 <!--=== End Request Area ===-->
 

@@ -24,3 +24,11 @@ function isHCP() {
 		return False;
 	}
 }
+
+function isRegistered() {
+	if(isset($_COOKIE['registration-status'])) {
+		return $_COOKIE['registration-status'] == 'registered';
+	} else {
+		return False;
+	}
+}
