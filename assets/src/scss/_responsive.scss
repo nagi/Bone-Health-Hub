@@ -636,11 +636,9 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 }
 
 @media only screen and (min-width: 1400px) and (max-width: 1550px) {
-
     .preventing-content h2 {
         font-size: 55px;
     }
-
 }
 
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
@@ -723,3 +721,9 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
 
 }
+
+@include media-breakpoint-up(lg) { 
+    #elips {
+        display: block !important;
+    }
+ }

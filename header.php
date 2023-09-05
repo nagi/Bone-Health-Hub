@@ -40,7 +40,7 @@
 						<a class="nav-link" href="/binosto">Binosto</a>
 					</li>
 					<li class="nav-item">
-						<a href="https://movymia.co.uk/" target="_blank" class="nav-link" href="/movymia">Movymia</a>
+						<a href="https://movymia.co.uk/" target="_blank" class="nav-link" href="/movymia">Movymia<span class="movy-tri">▼</span></a>
 					</li> 
 					<li class="dropdown nav-item">
 						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"

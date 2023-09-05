@@ -26,9 +26,15 @@ $page_id = get_option( 'page_for_posts' );
 		<div class="row align-items-center">
 			<div class="col-xxl-6" data-cues="slideInLeft">
 				<div class="webinar-platform-content style-two">
-					<h2>Fultium-D3<sub>3</sub></h2>
+					<h2 class="c-black">Fultium-D3<sub>3</sub></h2>
 					<h4>The UK’s #1 prescribed licensed <br> vitamin D brand5</h4>
-					<p>Vitamin D is pivotal in the well-being of every individual.12 During the winter, 30–40% of the UK population have vitamin D levels that fall below those recommended, and 2-13% in the summer.12</p>
+					<p>
+						Vitamin D is pivotal in the well-being of every individual.<sup>2</sup> During the winter, 
+						30–40% of the UK population have vitamin D levels that fall below those recommended, and 2-13% in the summer.<sup>2<sup>
+					</p>
+					<p>
+						<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf">Fultium Prescribing Information</a>
+					</p>
 				</div>
 			</div>
 			<div class="col-xxl-6" data-cues="slideInRight">
@@ -53,15 +59,17 @@ $page_id = get_option( 'page_for_posts' );
 				</div>
 				<div class="col-xxl-6" data-cues="slideInRight">
 					<div class="webinar-platform-content style-three">
-						<p>Prescribe Fultium-D3 by name for a simple approach to prevention and treatment of vitamin D deficiency:13-16</p>
+						<p class="semibold">Prescribe Fultium-D3 by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup>3-6</sup></p>
 						<ul>
-							<li>Range of loading and maintenance doses to support all patients13-16</li>
-							<li>Daily drops (3 drops=200IU), suitable for vegetarians, from birth onwards16</li>
-							<li>Daily, weekly or monthly colour-coded capsules, halal and kosher certified, from 12 years13-15</li>
-							<li>Doses up to 3200IU approved for pregnant and lactating women13-16</li>
-							<li>A licensed product, ensuring acceptable standards of efficacy, safety, and quality13-17</li>
-							<li>From as little as 6p per day6</li>
+							<li>Range of loading and maintenance doses to support all patients<sup<>3-6</sup></li>
+							<li>Daily drops (3 are equivalent to 200IU of colecalciferol) meet vegetarian standards<sup>6</sup>; they can be used from birth onwards</li>
+							<li>Capsules come in 800IU, 3200IU and 20,000IU strengths offering flexible daily, weekly or monthly dosing<sup>3-5</sup></li>
+							<li>Colour coded to aid dosing<sup>3-5</sup>, capsules are halal and kosher certified<sup>7,8</sup>: they can be used from 12 years</li>
+							<li>Doses up to 3200IU approved for pregnant and lactating women<sup>3-6</sup></li>
+							<li>A licensed product, ensuring acceptable standards of efficacy, safety, and quality<sup>3-6,9</sup></li>
 						</ul>
+						<p class="caution">Always use care when prescribing in pregnancy as high doses of colecalciferol may affect the foetus. Children up to the age of 
+							six months who are formula fed are not as at risk of deficiency. </p>
 					</div>
 				</div>
 			</div>

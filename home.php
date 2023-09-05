@@ -16,8 +16,10 @@ $page_id = get_option( 'page_for_posts' );
 			<div class="hero-slider-item bg-1">
 				<div class="container">
 					<div class="banner-content">
-						<h2>Bone Health Hub</h2>
-						<p>Preventing Fractures. Preserving Resources.</p>
+						<h2>STADA Bone Health Hub</h2>
+						<p>Preventing Fractures. <br> Preserving Resources.</p>
+						<p class="blurb">The STADA Bone Health Hub contains information and bone health resources that aim to 
+							support Healthcare Professionals in preventing fractures and preserving NHS resources.</p>
 					</div>
 				</div>
 			</div>
@@ -51,8 +53,9 @@ $page_id = get_option( 'page_for_posts' );
 							<p class="tiny">The STADA Bone Health Hub contains information and bone health resources that aim to support
 								Healthcare Professionals in preventing fractures and preserving NHS resources.</p>
 							
-							<p class="semibold">Every minute, someone in the UK suffers a fragility fracture.<sup>1</sup> With
-								direct healthcare costs already >£5 billion each year, the burden on the NHS is set to
+							<p class="semibold">Every minute, someone in the UK suffers a fragility fracture.<sup>1</sup>
+							    <br><br>
+								With direct healthcare costs already >£5 billion each year, the burden on the NHS is set to
 								increase markedly as the population ages. <sup>1,2</sup></p>
 							
 
@@ -65,13 +68,15 @@ $page_id = get_option( 'page_for_posts' );
 								knowledge and tools to support the provision of optimal care for patients assumes
 								particular importance.</p>
 
-							<p class="regular">That is where our Bone Health Hub fits in. As well as providing you with information on our 
-								four treatments spanning the osteoporosis management pathway, you will find clinical and patient guides, 
-								links to our webinar platform and our Bone Health Algorithm, a useful tool that aims to provide a framework
-								 to aid decision-making around treatments, developed in conjunction with the Royal Osteoporosis Society.</p>
+							<p class="regular">
+								That’s where our STADA Bone Health Hub fits in. As well as providing you with information on our four treatments 
+								spanning the bone health patient pathway, you will find clinical and patient guides, access to HCP educational 
+								webinars and our Bone Health Algorithm, a useful tool that aims to provide a framework to aid decision-making
+								around treatments, developed in conjunction with the Royal Osteoporosis Society.
+							</p>
 
-							<p class="semibold">Just scroll down to explore the hub.</p>
 						</div>
+						<p class="semibold">Just scroll down to explore the hub.</p>
 					</div>
 				</div>
 			</div>
@@ -97,12 +102,20 @@ $page_id = get_option( 'page_for_posts' );
 	<div class="prevention-area pt-100 pb-70 text-center" id="prevention">
 		<div class="container">
 			<div class="prevention-title mb-5" data-cues="slideInUp">
-				<h3> <img src="<?php echo img_dir (); ?>/shape-1.png" alt="shape-1"> Prevention, treatment and management across the
-					osteoporosis patient pathway</h3>
+				<h3>Our portfolio offers Prevention, Treatment and Management across the bone health patient pathway</h3>
+			</div>
+
+			<div class="row" data-cues="slideInUp">
+				<div id="elips" class="col-lg-12" style="display: none;">
+					<img src="<?php echo svg_dir (); ?>/elips.svg" alt="">
+				</div>
 			</div>
 
 			<div class="row" data-cues="slideInUp">
 				<div class="col-lg-3 col-sm-6">
+					<p class="purpose">
+						Prevent & treat vitamin D deficiency<sup>5</sup>
+					</p>
 					<a href="#fulti">
 						<div class="partner-logo mb-30">
 							<img src="<?php echo img_dir (); ?>/partner-1.png" alt="partner-1">
@@ -110,6 +123,9 @@ $page_id = get_option( 'page_for_posts' );
 					</a>
 				</div>
 				<div class="col-lg-3 col-sm-6">
+					<p class="purpose">
+						Prevent & treat vitamin D and calcium deficiency<sup>6</sup>
+					</p>
 					<a href="#accre">
 						<div class="partner-logo mb-30">
 							<img src="<?php echo img_dir (); ?>/partner-2.png" alt="partner-2">
@@ -117,6 +133,9 @@ $page_id = get_option( 'page_for_posts' );
 					</a>
 				</div>
 				<div class="col-lg-3 col-sm-6">
+					<p class="purpose">
+						Treat osteoporosis in women after menopause<sup>7</sup>
+					</p>
 					<a href="#binos">
 						<div class="partner-logo mb-30">
 							<img src="<?php echo img_dir (); ?>/partner-3.png" alt="partner-3">
@@ -124,6 +143,9 @@ $page_id = get_option( 'page_for_posts' );
 					</a>
 				</div>
 				<div class="col-lg-3 col-sm-6">
+					<p class="purpose">
+						Treatment of osteoporosis in post-menopausal women and in men at increased risk of fracture<sup>8</sup>
+					</p>
 					<a href="#movym">
 						<div class="partner-logo mb-30">
 							<img src="<?php echo img_dir (); ?>/partner-4.png" alt="partner-4">
@@ -154,6 +176,8 @@ $page_id = get_option( 'page_for_posts' );
 										More information
 										<img src="<?php echo img_dir (); ?>/right-1.png" alt="right-1">
 									</a>
+									<br>
+									<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf">Fultium Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -189,10 +213,13 @@ $page_id = get_option( 'page_for_posts' );
 										The least expensive calcium + vitamin D3 brand offering
 										a choice of swallowable and chewable tablets<sup>11</sup>
 									</p>
+									<br>
 									<a href="/accrete" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-2.png" alt="right-1">
 									</a>
+									<br>
+									<a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf">Accrete Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -225,6 +252,8 @@ $page_id = get_option( 'page_for_posts' );
 										More information
 										<img src="<?php echo img_dir (); ?>/right-3.png" alt="right-3">
 									</a>
+									<br>
+									<a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf">Binosto Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -262,6 +291,9 @@ $page_id = get_option( 'page_for_posts' );
 										More information
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
+									<br>
+									<a href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf">Movymia Prescribing Information</a>
+
 								</div>
 							</div>
 						</div>
@@ -282,7 +314,7 @@ $page_id = get_option( 'page_for_posts' );
 							<h2>Webinar Platform </h2>
 							<p>Access a curated series of educational sessions presented by experts in the field of bone
 								health, supporting your ongoing professional learning and development.</p>
-							<a href="https://www.stadahcp.co.uk/webinars" target="_blank" class="main-btn">Click Here</a>
+							<a href="https://www.stadahcp.co.uk/webinars" target="_blank" class="main-btn">More Information</a>
 						</div>
 					</div>
 					<div class="col-lg-6" data-cues="slideInRight">
@@ -309,13 +341,11 @@ $page_id = get_option( 'page_for_posts' );
 					<div class="col-xxl-6" data-cues="slideInRight">
 						<div class="algorithm-content">
 							<h2>Bone Health Algorithm</h2>
-							<p>Created in collaboration with the Royal Osteoporosis Society, this valuable tool
-								establishes a structured framework to facilitate treatment decision-making. Supporting
-								consistency across populations, the algorithm asks a series of questions to guide
-								clinicians through a potential diagnosis of vitamin D deficiency and/or osteoporosis
-								followed by a suggested treatment pathway. The aim is to optimise patient outcomes by
-								delivering the appropriate treatment at the appropriate time in line with national NICE,
-								SIGN and NOGG guidelines.</p>
+							<p>Created in collaboration with the Royal Osteoporosis Society, this valuable tool establishes a structured framework 
+								to facilitate treatment decision-making. Supporting consistency across populations, the algorithm asks a series of 
+								questions to guide clinicians through a potential diagnosis of vitamin D deficiency and/or osteoporosis followed by 
+								a suggested treatment pathway. The aim is to optimise patient outcomes by delivering the appropriate treatment at the 
+								appropriate time in line with national NICE, SIGN and NOGG guidelines.</p>
 							<a href="https://theros.org.uk/risk-checker/" class="main-btn">Click Here</a>
 						</div>
 					</div>
@@ -339,7 +369,8 @@ $page_id = get_option( 'page_for_posts' );
 				</div>
 				<div class="col-xl-4 col-sm-6">
 					<div class="royal-content">
-						<p>We are proud to be a partner of the Royal Osteoporosis Society.</p>
+						<p class="more">For more information on the ROS’s mission, research academy, patient support 
+							and other initiatives, please click the link</p>
 					</div>
 				</div>
 				<div class="col-xl-2 col-sm-6 mt-3 mt-md-0">
@@ -350,5 +381,36 @@ $page_id = get_option( 'page_for_posts' );
 	</div>
 	<!--=== End Royal Area ===-->
 
+	<!--=== Start References Area ===-->
+	<div class="references-area ptb-100">
+		<div class="container">
+			<span class="d-block text-center references-title">References</span>
+			<div class="references-wrapper">
+				<div class="row" data-cues="slideInUp">
+					<div class="col-lg-6">
+						<div class="references-content">
+							<ol class="references-list">
+								<li>International Osteoporosis Foundation. Available at: 
+									<a href="https://www.osteoporosis.foundation/sites/iofbonehealth/files/scope-2021/UK%20report.pdf">www.osteoporosis.foundation</a>
+									<br>Accessed on: 17.08.23.
+								</li>
+								<li>Odén A et al. Osteoporos Int 2015; 26(9): 2243-8.</li>
+
+								
+							</ol>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="references-content">
+							<ol class="references-list" start="16">
+
+							</ol>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--=== End References Area ===-->
 <?php
 get_footer();

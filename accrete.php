@@ -27,8 +27,10 @@ $page_id = get_option( 'page_for_posts' );
                 <div class="webinar-platform-content style-two">
                     <h2>Accrete-D<sub>3</sub></h2>
                     <h4>The least expensive calcium + vitamin 
-                        D3 brand offering a choice of swallowable and chewable tablets <sup>7</sup></h4>
-                    <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; the cost/patient is 6x higher than with diabetes medication.18 Flavour, texture, and pill burden can impact on adherence.19</p>
+                        D<sub>3</sub> brand offering a choice of swallowable and chewable tablets <sup>1,2</sup></h4>
+                    <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; 
+                        the cost/patient is 6x higher than with diabetes medication.3 Flavour, texture, 
+                        and pill burden can impact on adherence.<sup>4</sup></p>
                 </div>
             </div>
             <div class="col-xxl-6" data-cues="slideInRight">
@@ -53,14 +55,22 @@ $page_id = get_option( 'page_for_posts' );
                 </div>
                 <div class="col-xxl-6" data-cues="slideInRight">
                     <div class="webinar-platform-content style-three">
-                        <p>Respecting patient preference is an important way to support treatment persistence.20 <br> With Accrete-D3, patients at risk of calcium and vitamin D3 deficiency have a choice:</p>
+                        <p>Respecting patient preference is an important way to support treatment persistence.<sup>5</sup><br><br>
+                         With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
                         <ul>
-                            <li>Bi-daily, film-coated, swallowable tablets21</li>
-                            <li>Once daily, orange-flavoured, chewable tablets22</li>
-                            <li>For the 1 in 200 people in the UK on chronic glucocorticoid treatment22</li>
-                            <li>For bisphosphonate-related hypocalcaemia in those with vitamin D deficiency23</li>
-                            <li>For frail, elderly patients, particularly if institutionalised or housebound23</li>
+                            <li>Twice-daily, film-coated, swallowable tablets<sup>6</sup></li>
+                            <li>Once daily, orange-flavoured, chewable tablets<sup>7</sup></li>
+                            <li>The cost of 30 days treatment is just £2.95 (approximately £35.40 a year)</li>
+                            <li>Provides savings of up to 24% compared with the market leading brand<sup>2,6-9</sup></li>
                         </ul>
+                        <p class="smallprint">
+                            During pregnancy, daily dose should not exceed 1500 mg calcium and 600 IU vitamin D. See SMPC for more information.
+                        </p>
+                        <p class="smallprint">
+                            Savings of up to 24% with Accrete-D3 One a Day (1000mg/880IU) chewable tablets at £2.95 for 30 tablets vs Adcal-D3 (600mg/400IU)
+                            twice daily chewable tablets at £3.91, this is an equivalent cost for 30 days treatment. Adcal-D3 (600mg/400IU) twice daily chewable 
+                            tablets are listed at £3.65 for 56 tablets
+                        </p>
                     </div>
                 </div>
             </div>
@@ -76,7 +86,7 @@ $page_id = get_option( 'page_for_posts' );
             <div class="col-xxl-5" data-cues="slideInLeft">
                 <div class="request-cost-content">
                     <h2>Request Cost <br> Savings Report</h2>
-                    <p>Accrete is the least expensive calcium + vitamin D3 brand offering a choice of swallowable and chewable tablets.7</p>
+                    <p>Accrete is the least expensive calcium + vitamin D<sub>3</sub> brand offering a choice of swallowable and chewable tablets.<sup>1</sup></p>
                     <p>Please complete this form and a member of our team will contact you with specific cost-savings information for your locality.</p>
                 </div>
             </div>
@@ -100,11 +110,18 @@ $page_id = get_option( 'page_for_posts' );
             <div class="col-xxl-5" data-cues="slideInLeft">
                 <div class="request-cost-content">
                     <h2>Patient Guide download</h2>
-                    <p>Please register for an instant to download of the Accrete patient guide for more information on the importance of a calcium-vitamin D treatment and tips on how to improve bone health alongside the treatment.</p>
+                    <p>Please register for an instant to download of the Accrete patient guide for more 
+                        information on the importance of a calcium-vitamin D treatment and tips on how to 
+                        improve bone health alongside the treatment.</p>
                 </div>
             </div>
             <div class="col-xxl-5" data-cues="slideInLeft">
-                <a href="/register" class="btn btn-primary rounded-5">Register to download</a>
+                <?php if(isRegistered()) {
+                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+                } else {
+                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                }
+                ?>
             </div>
         </div>
     </div>

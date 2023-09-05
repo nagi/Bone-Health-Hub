@@ -155,6 +155,9 @@ p {
 	&.regular {
 		font-size: 23px;
 	}
+	&.smallprint {
+		font-size: 12px;
+	}
 }
 
 img {
@@ -365,6 +368,11 @@ Main Navbar Style
 					}
 				}
 			}
+			.movy-tri {
+				font-size: 11px;
+				position: relative;
+				bottom: 8px;
+			}
 		}
 	}
 
@@ -420,7 +428,7 @@ Banner Style
 	max-width: 410px;
 
 	h2 {
-		font-size: 127px;
+		font-size: 111px;
 		color: $white-color;
 		max-width: 300px;
 		line-height: 98px;
@@ -432,6 +440,10 @@ Banner Style
 		color: $white-color;
 		font-size: 40px;
 		line-height: 45px;
+		&.blurb {
+			font-size: 15px;
+			line-height: 25px;
+		}
 	}
 }
 
@@ -585,11 +597,18 @@ Prevention Style
 	text-align: center;
 
 	h3 {
-		font-size: 38px;
+		font-size: 28px;
 		line-height: 45px;
 		font-family: $body-font-family;
 		font-weight: 700;
+		color: $blue;
 	}
+}
+
+p.purpose {
+	font-size: 15px;
+    min-height: 67px;
+    line-height: 20px;
 }
 
 /*
@@ -692,10 +711,17 @@ Platform Style
 		font-size: 68px;
 		line-height: 90px;
 		margin-bottom: 40px;
+		color: $blue;
+		&.c-black {
+			color: black;
+		}
 	}
 
 	p {
 		margin-bottom: 45px;
+		&.caution {
+			font-size: 18px;
+		}
 	}
 }
 
@@ -709,6 +735,7 @@ Algorithm Style
 		font-size: 68px;
 		line-height: 90px;
 		margin-bottom: 30px;
+		color: $blue;
 	}
 
 	p {
@@ -725,6 +752,10 @@ Royal Style
 
 	p {
 		color: $white-color;
+		&.more {
+			font-size: 0.6em;
+			line-height: 1.2em;
+		}
 	}
 }
 
