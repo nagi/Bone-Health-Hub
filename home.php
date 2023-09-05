@@ -420,7 +420,7 @@ $page_id = get_option( 'page_for_posts' );
 								<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
 								<li>360 days’ treatment & maintenance on Fultium-D3: 90x3200IU (£39.96) + 3x90x800IU (3x£8.85) = £39.96 + £26.55 = £66.51.
 									Source NHS DM+D, Accessed: September 2023. </li>
-								<li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: September 2023.</li>
+								<li><a href="services.nhsbsa.nhs.uk/dmd-browser">DM+D.</a><br>Accessed: September 2023.</li>
 								<li>Minisola S et al. JBMR Plus 2021; 5(7): e10510.</li>
 								<li>Giusti A et al. Aging Clin Exp Res 2021; 33(9): 2529-37.</li>
 								<li>DM+D. Available <a href="https://services.nhsbsa.nhs.uk/dmd-browser/amp/view/153616">services.nhsbsa.nhs.uk</a> and 

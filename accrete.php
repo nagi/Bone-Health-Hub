@@ -134,5 +134,52 @@ $page_id = get_option( 'page_for_posts' );
     </div>
 </div>
 
+<!--=== Start References Area ===-->
+<div class="references-area ptb-100">
+	<div class="container">
+		<span class="d-block text-center references-title">References</span>
+		<div class="references-wrapper">
+			<div class="row" data-cues="slideInUp">
+				<div class="col-lg-6">
+					<div class="references-content">
+						<ol class="references-list">
+                            <li><a href="http://services.nhsbsa.nhs.uk/dmd-browser">DM+D.</a><br>Accessed: September 2023.</li>
+                            <li>NHS List Price, Drug Tariff February 2023</li>
+                            <li>Cutler RL et al. BMJ Open 2018; 8(1): e016982.</li>
+							<li>Shariff Z et al. Pharmaceutics 2020; 12(10): 905.</li>
+							<li>Martin LR et al. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
+							<li>
+                                <a href="https://www.medicines.org.uk/emc/product/2766">Accrete D3 Film-Coated Tablets Summary of Product Characteristics</a>
+                                <br>Accessed: September 2023.
+                            </li>
+						</ol>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="references-content">
+						<ol class="references-list" start="7">
+                            <li
+                                <a href="https://www.medicines.org.uk/emc/product/8506"></a>Accrete D3 One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics
+                               <br>Accessed September 2023.</li>
+                            </li>
+                            <li>HSCIC IQVIA RXA Unit Sales ending December 2022.</li>
+
+
+                            <li>
+                                <a href="https://www.medicines.org.uk/emc/product/1356/smpc">Adcal-D3® Chewable Tablets. Summary of Product Characteristics</a>
+                                <br>Accessed September 2023.</li>
+                            </li>
+                            <li class="plain">
+                                Adcal-D3® is a registered trademark of Kyowa Kirin Services Ltd.
+                            </li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--=== End References Area ===-->
+
 <?php
 get_footer();
