@@ -991,3 +991,17 @@ Footer Style
 	color: #000000;
 	margin-bottom: 8px;
 }
+
+.all_downloads {
+	h1 {
+		font-size: 4rem;
+		color: $blue;
+	}
+	h3 {
+		color: $blue;
+		margin-top: 18px;
+	}
+	.download {
+		min-height: 300px;
+	}
+}
