@@ -346,7 +346,7 @@ $page_id = get_option( 'page_for_posts' );
 								questions to guide clinicians through a potential diagnosis of vitamin D deficiency and/or osteoporosis followed by 
 								a suggested treatment pathway. The aim is to optimise patient outcomes by delivering the appropriate treatment at the 
 								appropriate time in line with national NICE, SIGN and NOGG guidelines.</p>
-							<a href="https://theros.org.uk/risk-checker/" class="main-btn">Click Here</a>
+							<a href="https://bonehealth.rxdetail.io/" class="main-btn">Click Here</a>
 						</div>
 					</div>
 				</div>
