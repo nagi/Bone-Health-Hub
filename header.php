@@ -49,7 +49,7 @@
 							<img src="<?php echo img_dir (); ?>/polygon.png" class="ms-3 chevron-down" alt="polygon">
 						</a>
 
-						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
+						<ul class="resources dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
 							<li><a class="dropdown-item" href="https://bonehealth.rxdetail.io/">Bone Health Algorithm</a></li>
 							<li><a class="dropdown-item border-0" href="https://www.stadahcp.co.uk/">Webinar Platform</a></li> 
 						</ul>

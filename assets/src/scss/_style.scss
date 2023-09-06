@@ -374,6 +374,10 @@ Main Navbar Style
 				bottom: 8px;
 			}
 		}
+
+		.resources {
+			z-index: 2;
+		}
 	}
 
 	&.is-sticky {
