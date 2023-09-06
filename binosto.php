@@ -88,50 +88,19 @@ $page_id = get_option( 'page_for_posts' );
 <div class="request-cost-area">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-xxl-5" data-cues="slideInLeft">
+            <div class="col-xxl-8" data-cues="slideInLeft">
                 <div class="request-cost-content">
                     <h2>Patient Guide download</h2>
                     <p>Please register for an instant to download of the Binosto patient guide for more information on Binosto, how to take it, osteoporosis, tips to help manage the condition and links to further sources.</p>
                 </div>
             </div>
-            <div class="col-xxl-7" data-cues="slideInRight">
-                <div class="request-cost-form">
-                    <form>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="form-group mb-30">
-                                    <input type="text" class="form-control" placeholder="First Name (required)">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="form-group mb-30">
-                                    <input type="text" class="form-control" placeholder="Last Name (required)">
-                                </div>
-                            </div>
-                            <div class="col-lg-12"> 
-                                <div class="form-group mb-30">
-                                    <input type="text" class="form-control" placeholder="Email (required)">
-                                </div>
-                            </div>
-
-                            <div class="col-lg-12">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-8">
-                                        <div class="form-check mb-sm-0 mb-4">
-                                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                                            <label class="form-check-label" for="flexCheckDefault">
-                                                I accept the Thornton and Ross <a href="#">terms of service</a>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 text-end">
-                                        <button class="main-btn" type="submit">Download</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
+            <div class="col-xxl-4" data-cues="slideInRight">
+            <?php if(isRegistered()) {
+                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+                } else {
+                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                }
+                ?>
             </div>
         </div>
     </div>
@@ -142,50 +111,19 @@ $page_id = get_option( 'page_for_posts' );
 <div class="request-cost-area pt-100">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-xxl-5" data-cues="slideInRight">
+            <div class="col-xxl-8" data-cues="slideInRight">
                 <div class="request-cost-content">
                     <h2>HCP Information Guide download</h2>
                     <p>Please register for instant access to our repository of guides, interactive materials and on-demand webinars, written by STADA Thornton & Ross experts and designed to offer education and training to HCPs on our treatment areas.</p>
                 </div>
             </div>
-            <div class="col-xxl-7" data-cues="slideInLeft">
-                <div class="request-cost-form">
-                    <form>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="form-group mb-30">
-                                    <input type="text" class="form-control" placeholder="First Name (required)">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="form-group mb-30">
-                                    <input type="text" class="form-control" placeholder="Last Name (required)">
-                                </div>
-                            </div>
-                            <div class="col-lg-12"> 
-                                <div class="form-group mb-30">
-                                    <input type="text" class="form-control" placeholder="Email (required)">
-                                </div>
-                            </div>
-
-                            <div class="col-lg-12">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-8">
-                                        <div class="form-check mb-sm-0 mb-4">
-                                            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                                            <label class="form-check-label" for="flexCheckDefault">
-                                                I accept the Thornton and Ross <a href="#">terms of service</a>
-                                            </label>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 text-end">
-                                        <button class="main-btn" type="submit">Download</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
+            <div class="col-xxl-4" data-cues="slideInLeft">
+                <?php if(isRegistered()) {
+                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+                } else {
+                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                }
+                ?>
             </div>
         </div>
     </div>

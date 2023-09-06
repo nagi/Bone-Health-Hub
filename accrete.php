@@ -93,7 +93,7 @@ $page_id = get_option( 'page_for_posts' );
 <!--=== End Webinar Platform Area ===-->
 
 <!--=== Start Request Area ===-->
-<div class="request-cost-area">
+<div id="cost_report" class="request-cost-area">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xxl-5" data-cues="slideInLeft">
@@ -104,11 +104,8 @@ $page_id = get_option( 'page_for_posts' );
                 </div>
             </div>
             <div class="col-xxl-5" data-cues="slideInLeft">
-                <?php if(isRegistered()) {
-                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
-                } else {
-                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
-                }
+                <?php 
+                    echo '<a href="/cost-savings" class="btn btn-primary rounded-5">Register for Cost Savings</a>';
                 ?>
             </div>
         </div>
