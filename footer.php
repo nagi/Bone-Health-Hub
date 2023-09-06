@@ -50,19 +50,19 @@
 					<div class="single-footer d-sm-flex justify-content-end">
 						<ul class="ps-0 mb-0">
 							<li>
-								<a href="#">Privacy Policy</a>
+								<a href="https://www.thorntonross.com/privacy-policy">Privacy Policy</a>
 							</li>
 							<li>
-								<a href="#">LinkedIn</a>
+								<a href="https://www.linkedin.com/company/thornton-&-ross/">LinkedIn</a>
 							</li>
 							<li>
-								<a href="#">Data Protection Notice</a>
+								<a href="https://www.thorntonross.com/data-protection-notice">Data Protection Notice</a>
 							</li>
 							<li>
-								<a href="#">Terms and Conditions</a>
+								<a href="https://www.thorntonross.com/terms-conditions">Terms and Conditions</a>
 							</li>
 							<li>
-								<a href="#">Adverse Event Reporting</a>
+								<a href="https://www.thorntonross.com/adverse-event-reporting">Adverse Event Reporting</a>
 							</li>
 						</ul>
 					</div>
@@ -92,10 +92,6 @@
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.6.0/umd/popper.min.js"></script> -->
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script> -->
 	
-	<!-- prod only
-	<script defer data-domain="stadabonehealthhub.co.uk" src="https://plausible.io/js/script.js"></script>
-	-->
-
 	<!--=== Start address lookup scripts ===-->
 	<script>
 		if(!!$('.wpcf7').length) { // Looking for Contact Form 7 form
