@@ -42,9 +42,12 @@ $page_id = get_option( 'page_for_posts' );
             <div class="col-xxl-6" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two mw-100">
                     <h2>Binosto</h2>
-                    <h4>A novel alendronate formulation, with a 36% list price reduction to support the NHS8,9*</h4>
-                    <p>While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is crucial.9,24 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.25</p>
+                    <h4>An effervescent alendronate formulation, with a 36% list price reduction to support the NHS<sup>1,2*</sup></h4>
+                    <p>While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
+                         crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup></p>
                     <p>* Price reduction live from July 2021.</p>
+                    <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf">Binosto Prescribing Information</a>
+
                 </div>
             </div>
         </div>

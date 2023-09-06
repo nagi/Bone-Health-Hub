@@ -314,7 +314,7 @@ $page_id = get_option( 'page_for_posts' );
 							<h2>Webinar Platform </h2>
 							<p>Access a curated series of educational sessions presented by experts in the field of bone
 								health, supporting your ongoing professional learning and development.</p>
-							<a href="https://www.stadahcp.co.uk/webinars" target="_blank" class="main-btn">More Information</a>
+							<a href="https://www.stadahcp.co.uk/" target="_blank" class="main-btn">More Information</a>
 						</div>
 					</div>
 					<div class="col-lg-6" data-cues="slideInRight">

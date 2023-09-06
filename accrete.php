@@ -40,8 +40,10 @@ $page_id = get_option( 'page_for_posts' );
                     <h4>The least expensive calcium + vitamin 
                         D<sub>3</sub> brand offering a choice of swallowable and chewable tablets <sup>1,2</sup></h4>
                     <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; 
-                        the cost/patient is 6x higher than with diabetes medication.3 Flavour, texture, 
-                        and pill burden can impact on adherence.<sup>4</sup></p>
+                        the cost/patient is 6x higher than with diabetes medication.<sup>3</sup> Flavour, texture, 
+                        and pill burden can impact on adherence.<sup>4</sup>
+                    </p>
+                    <a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf">Accrete Prescribing Information</a>
                 </div>
             </div>
             <div class="col-xxl-6" data-cues="slideInRight">

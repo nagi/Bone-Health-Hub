@@ -51,7 +51,7 @@
 
 						<ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
 							<li><a class="dropdown-item" href="https://theros.org.uk/risk-checker/">Bone Health Algorithm</a></li>
-							<li><a class="dropdown-item border-0" href="https://www.stadahcp.co.uk/webinars">Webinar Platform</a></li> 
+							<li><a class="dropdown-item border-0" href="https://www.stadahcp.co.uk/">Webinar Platform</a></li> 
 						</ul>
 					</li>
 				</ul>
