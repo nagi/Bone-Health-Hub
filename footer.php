@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="information-content text-center" data-cues="slideInUp">
 				<span class="d-block title">Information</span>
-				<p class="dis-one">For information on our products please visit EMC, https://www.medicines.org.uk/emc/
+				<p class="dis-one">For information on our products please visit <a href="https://www.medicines.org.uk/emc/company/2554">EMC</a>
 					and search the product for a Summary of Product Characteristics</p>
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
@@ -22,19 +22,19 @@
 					<div class="single-footer">
 						<ul class="ps-0 mb-0">
 							<li>
-								<a href="#">Fultium</a>
+								<a href="/fultium">Fultium</a>
 							</li>
 							<li>
-								<a href="#">Accrete</a>
+								<a href="/accrete">Accrete</a>
 							</li>
 							<li>
-								<a href="#">Binosto</a>
+								<a href="/binosto">Binosto</a>
 							</li>
 							<li>
-								<a href="#">Movymia</a>
+								<a href="https://www.stadaspecialtybiosimilars.co.uk/movymia">Movymia</a>
 							</li>
 							<li>
-								<a href="#">Contact Us</a>
+								<a href="https://www.thorntonross.com/contact-us">Contact Us</a>
 							</li>
 						</ul>
 					</div>
@@ -91,6 +91,10 @@
 	<?php wp_footer(); ?>
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.6.0/umd/popper.min.js"></script> -->
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script> -->
+	
+	<!-- prod only
+	<script defer data-domain="stadabonehealthhub.co.uk" src="https://plausible.io/js/script.js"></script>
+	-->
 
 	<!--=== Start address lookup scripts ===-->
 	<script>

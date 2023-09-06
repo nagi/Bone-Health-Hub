@@ -287,7 +287,7 @@ $page_id = get_option( 'page_for_posts' );
 								<div class="features-content">
 									<p>An affordable teriparatide biosimilar treatment,
 										minimising waste with a reusable, multi-dose pen<sup>8,14</sup></p>
-									<a href="https://movymia.co.uk/" target="_blank" class="main-btn">
+									<a href="http://www.stadaspecialtybiosimilars.co.uk/movymia" target="_blank" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
@@ -360,7 +360,9 @@ $page_id = get_option( 'page_for_posts' );
 		<div class="container">
 			<div class="row align-items-center" data-cues="slideInUp">
 				<div class="col-xl-2 col-sm-6">
-					<img src="<?php echo img_dir (); ?>/logo-3.png" alt="logo-3">
+					<a href="https://theros.org.uk/">
+						<img src="<?php echo img_dir (); ?>/logo-3.png" alt="r.o.s logo">
+					</a>
 				</div>
 				<div class="col-xl-4 col-sm-6">
 					<div class="royal-content">
@@ -374,7 +376,7 @@ $page_id = get_option( 'page_for_posts' );
 					</div>
 				</div>
 				<div class="col-xl-2 col-sm-6 mt-3 mt-md-0">
-					<a href="#" class="main-btn royal-bttn">Click Here</a>
+					<a href="https://theros.org.uk/" class="main-btn royal-bttn">Click Here</a>
 				</div>
 			</div>
 		</div>
