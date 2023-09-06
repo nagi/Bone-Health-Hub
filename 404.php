@@ -8,9 +8,17 @@ get_header();
 		<main id="main" class="site-main">
 
             <section>
-                <p>
-                    <?php esc_attr_e('Error 404, Ooops ! Cette page n’existe pas !','textdomaintomodify'); ?>
-                </p>
+                <div class="container">
+                    <div class="row text-center py-5" style="margin-top:175px;">
+                        <br><br><br>
+                        <h1>404 - page not found</h1>
+                        <p class="py-5">Please check you have typed the address correctly or try our <a href="/">homepage</a>.</p>
+                        <br><br><br>
+
+                        <br><br><br>
+
+                    </div>
+                </div>
             </section>
 
 		</main><!-- #main -->
