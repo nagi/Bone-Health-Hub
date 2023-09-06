@@ -11,11 +11,22 @@ $page_id = get_option( 'page_for_posts' );
 ?>
 
 <!--=== Start Page Banner Area ===-->
-<div class="page-banner-area position-relative">
-    <div class="container-fluid p-0">
-        <img src="<?php echo img_dir (); ?>/banner-bg-3.png" class="w-100" alt="banner-bg-3">
-        <?php get_template_part('/partials/stay-in-touch-tab'); ?>
-    </div>
+<div class="hero-slider-wrap position-relative">
+	<div class="hero-slider-area hero-slider owl-carousel-disabled owl-theme">
+		<div class="hero-slider-item bg-accrete">
+			<div class="container">
+				<div class="banner-seo">
+					<h1>Accrete D3</h1>
+					<h3>Calcium / Colecalciferol</h3>
+				</div>
+				<div class="banner-logo d-flex flex-row-reverse">
+					<img src="<?php echo svg_dir (); ?>accrete-logo.svg" alt="accrete">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<?php get_template_part('/partials/stay-in-touch-tab'); ?>
 </div>
 <!--=== End Page Banner Area ===-->
 

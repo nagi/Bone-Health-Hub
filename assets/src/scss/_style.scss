@@ -415,12 +415,22 @@ Banner Style
 .hero-slider-item {
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 	height: 100%;
 	padding-top: 225px;
 	padding-bottom: 225px;
 
-	&.bg-1 {
-		background-image: url(../img/banner-bg.jpg);
+	&.bg-home {
+		background-image: url(../img/banner-bg-home.jpg);
+	}
+	&.bg-fultium {
+		background-image: url(../img/banner-bg-fultium.jpg);
+	}
+	&.bg-accrete {
+		background-image: url(../img/banner-bg-accrete.jpg);
+	}
+	&.bg-binosto {
+		background-image: url(../img/banner-bg-binosto.jpg);
 	}
 }
 
@@ -445,6 +455,16 @@ Banner Style
 			line-height: 25px;
 		}
 	}
+}
+
+.banner-seo {
+	min-height: 12vw;
+	text-indent:-9999px;
+}
+
+.banner-logo {
+	position: relative;
+    top: 109px;
 }
 
 .hero-slider {

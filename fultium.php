@@ -11,12 +11,22 @@ $page_id = get_option( 'page_for_posts' );
 ?>
 
 <!--=== Start Page Banner Area ===-->
-<div class="page-banner-area position-relative">
-	<div class="container-fluid p-0">
-		<img src="<?php echo img_dir (); ?>/banner-bg-2.png" class="w-100" alt="banner-bg-2">
-
-		<?php get_template_part('/partials/stay-in-touch-tab'); ?>
+<div class="hero-slider-wrap position-relative">
+	<div class="hero-slider-area hero-slider owl-carousel-disabled owl-theme">
+		<div class="hero-slider-item bg-fultium">
+			<div class="container">
+				<div class="banner-seo">
+					<h1>Fultium D3</h1>
+					<h3>colecalciferol</h3>
+				</div>
+				<div class="banner-logo d-flex flex-row-reverse">
+					<img src="<?php echo svg_dir (); ?>fultium-logo.svg" alt="fultium d3">
+				</div>
+			</div>
+		</div>
 	</div>
+
+	<?php get_template_part('/partials/stay-in-touch-tab'); ?>
 </div>
 <!--=== End Page Banner Area ===-->
 

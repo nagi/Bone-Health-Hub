@@ -13,7 +13,7 @@ $page_id = get_option( 'page_for_posts' );
 	<!--=== Start Banner Area ===-->
 	<div class="hero-slider-wrap position-relative">
 		<div class="hero-slider-area hero-slider owl-carousel-disabled owl-theme">
-			<div class="hero-slider-item bg-1">
+			<div class="hero-slider-item bg-home">
 				<div class="container">
 					<div class="banner-content">
 						<h2>STADA Bone Health Hub</h2>

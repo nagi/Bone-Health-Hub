@@ -11,11 +11,22 @@ $page_id = get_option( 'page_for_posts' );
 ?>
 
 <!--=== Start Page Banner Area ===-->
-<div class="page-banner-area position-relative">
-    <div class="container-fluid p-0">
-        <img src="<?php echo img_dir (); ?>/banner-bg-4.png" class="w-100" alt="banner-bg-4">
-		<?php get_template_part('/partials/stay-in-touch-tab'); ?>
-    </div>
+<div class="hero-slider-wrap position-relative">
+	<div class="hero-slider-area hero-slider owl-carousel-disabled owl-theme">
+		<div class="hero-slider-item bg-binosto">
+			<div class="container">
+				<div class="banner-seo">
+					<h1>Binosto</h1>
+					<h3>Alendroni Acid</h3>
+				</div>
+				<div class="banner-logo d-flex flex-row-reverse">
+					<img src="<?php echo svg_dir (); ?>binosto-logo.svg" alt="binosto">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<?php get_template_part('/partials/stay-in-touch-tab'); ?>
 </div>
 <!--=== End Page Banner Area ===-->
 
