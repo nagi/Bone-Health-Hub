@@ -20,7 +20,7 @@ $page_id = get_option( 'page_for_posts' );
 					<h3>colecalciferol</h3>
 				</div>
 				<div class="banner-logo d-flex flex-row-reverse">
-					<img src="<?php echo svg_dir (); ?>fultium-logo.svg" alt="fultium d3">
+					<img src="<?php echo svg_dir (); ?>fultium-logo.svg" alt="Fultium D3">
 				</div>
 			</div>
 		</div>
@@ -36,8 +36,8 @@ $page_id = get_option( 'page_for_posts' );
 		<div class="row align-items-center">
 			<div class="col-xxl-6" data-cues="slideInLeft">
 				<div class="webinar-platform-content style-two">
-					<h2 class="c-black">Fultium-D3<sub>3</sub></h2>
-					<h4>The UK’s #1 prescribed licensed <br> vitamin D brand5</h4>
+					<h2 class="c-black">Fultium-D<sub>3</sub></h2>
+					<h4>The UK’s #1 prescribed licensed <br> vitamin D brand<sup>1</sup></h4>
 					<p>
 						Vitamin D is pivotal in the well-being of every individual.<sup>2</sup> During the winter, 
 						30–40% of the UK population have vitamin D levels that fall below those recommended, and 2-13% in the summer.<sup>2<sup>
