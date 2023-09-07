@@ -44,6 +44,11 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                         the cost/patient is 6x higher than with diabetes medication.<sup>3</sup> Flavour, texture, 
                         and pill burden can impact on adherence.<sup>4</sup>
                     </p>
+                    <p>
+                        Accrete is Indicated for the Prevention and treatment of vitamin D and calcium deficiency in 
+                        the elderly. Adjunct to specific osteoporosis treatment of patients at risk of vitamin D and 
+                        calcium deficiency.
+                    </p>
                     <a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
                 </div>
             </div>

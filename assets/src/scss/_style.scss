@@ -590,6 +590,7 @@ Banner Style
 Preventing Style
 <<<<======================================================>>>>*/
 .preventing-content {
+	padding-right: 25%;
 	h2 {
 		font-size: 68px;
 		line-height: 67px;
@@ -822,6 +823,10 @@ Platform Style
 		&.caution {
 			font-size: 18px;
 		}
+	}
+	
+	p.sale {
+		font-size: 17px;
 	}
 }
 

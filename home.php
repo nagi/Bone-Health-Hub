@@ -57,7 +57,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 							
 							<p class="semibold">Every minute, someone in the UK suffers a fragility fracture.<sup>1</sup>
 							    <br><br>
-								With direct healthcare costs already >£5 billion each year, the burden on the NHS is set to
+								With direct healthcare costs already £4.7 billion each year, the burden on the NHS is set to
 								increase markedly as the population ages.<sup>1,2</sup></p>
 							
 

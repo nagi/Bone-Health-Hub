@@ -53,7 +53,10 @@ $bone_health_job_number = "UK-MULT-130c(1)";
                     </p>
 
                     <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
-                    <p>* Price reduction live from July 2021.</p>
+                    <p class="sale pt-3">* Price reduction live from July 2021. Available at: 
+                        <a href="https://mims.co.uk/drugs/endocrine/osteoporosis-other-bone-disorders/binosto">mims.co.uk</a> 
+                        Accessed September 2023.
+                    </p>
                 </div>
             </div>
         </div>
@@ -97,7 +100,11 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             <div class="col-xxl-8" data-cues="slideInLeft">
                 <div class="request-cost-content">
                     <h2>Patient Guide download</h2>
-                    <p>Please register for an instant to download of the Binosto patient guide for more information on Binosto, how to take it, osteoporosis, tips to help manage the condition and links to further sources.</p>
+                    <p>
+                        Please register for an instant to download of the Binosto patient guide for more 
+                        information on Binosto, how to take it, osteoporosis, tips to help manage the condition
+                         and links to further sources.
+                    </p>
                 </div>
             </div>
             <div class="col-xxl-4" data-cues="slideInRight">
