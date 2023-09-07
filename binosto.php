@@ -47,8 +47,11 @@ $page_id = get_option( 'page_for_posts' );
                         While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
                          crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup>
                     </p>
+                    <p>
+                        Binosto is Indicated for the Treatment of postmenopausal osteoporosis. Reduces the risk of vertebral and hip fractures.
+                    </p>
 
-                    <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf">Binosto Prescribing Information</a>
+                    <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
                     <p>* Price reduction live from July 2021.</p>
                 </div>
             </div>
@@ -64,14 +67,14 @@ $page_id = get_option( 'page_for_posts' );
             <div class="row align-items-center">
                 <div class="col-xxl-6" data-cues="slideInLeft">
                     <div class="webinar-platform-content style-three ms-0">
-                        <p class="semibold">Fully soluble, buffered, Binosto enhances upper GI tolerability, supporting greater persistence.8,9</p>
+                        <p class="semibold">Fully soluble, buffered, Binosto enhances upper GI tolerability, supporting persistence.<sup>1,2</sup></p>
                         <ul>
-                            <li>Avoids solid bisphosphonate irritating the oesophageal mucosa26,27</li>
-                            <li>Buffering of gastric contents also diminishes damage potential if there is reflux26,27</li>
-                            <li>Upper GI adverse events reported in fewer than 1 in 10 patients26,27</li>
-                            <li>Significantly increased persistence vs conventional alendronate tablets9</li>
-                            <li>Persistence rate of 81% reported in real-world patients at 1 year9</li>
-                            <li>Dissolves in just half a glass of plain water (120 ml)28</li>
+                            <li>Avoids solid bisphosphonate irritating the oesophageal mucosa<sup>5,6</sup></li>
+                            <li>Gastric pH levels are rapidly buffered to >3, lessening the risk of damage if reflux occurs<sup>5,6</sup></li>
+                            <li>Upper GI adverse events reported in fewer than 1 in 10 patients<sup>1</sup></li>
+                            <li>Significantly increased persistence vs conventional alendronate tablets<sup>2</sup></li>
+                            <li>Persistence rate of 81% reported in real-world patients at 1 year<sup>2</sup></li>
+                            <li>Dissolves in just half a glass of plain water (120 ml)<sup>7</sup></li>
                         </ul>
                     </div>
                 </div>
