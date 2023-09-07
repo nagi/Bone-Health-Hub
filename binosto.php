@@ -8,6 +8,7 @@
 get_header();
 
 $page_id = get_option( 'page_for_posts' );
+$bone_health_job_number = "UK-MULT-130c(1)";
 ?>
 
 <!--=== Start Page Banner Area ===-->
@@ -39,9 +40,9 @@ $page_id = get_option( 'page_for_posts' );
                     <img src="<?php echo img_dir (); ?>/img-11.png" alt="img-9">
                 </div>
             </div>
-            <div class="col-xxl-6" data-cues="slideInLeft">
+            <div class="col-xxl-6 pt-xxl-5" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two mw-100">
-                    <h2 class="c-black">Binosto</h2>
+                    <h2 class="c-black pt-xl-5">Binosto</h2>
                     <h4>An effervescent alendronate formulation, with a 36% list price reduction to support the NHS<sup>1,2*</sup></h4>
                     <p>
                         While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is

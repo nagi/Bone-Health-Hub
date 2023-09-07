@@ -382,11 +382,6 @@ Main Navbar Style
 					}
 				}
 			}
-			.movy-tri {
-				font-size: 11px;
-				position: relative;
-				bottom: 8px;
-			}
 		}
 
 		.resources {
@@ -404,7 +399,6 @@ Main Navbar Style
 		box-shadow: $box-shadow;
 		background-color: $white-color  !important;
 	}
-
 
 	#burger {
 		border: none;
@@ -425,6 +419,13 @@ Main Navbar Style
 		opacity: 1;
 		transform: translateZ(0);
 	}
+}
+
+// Movymia triangle thing	
+.movy-tri {
+	font-size: 11px;
+	position: relative;
+	bottom: 8px;
 }
 
 /*
@@ -584,7 +585,7 @@ Preventing Style
 .preventing-content {
 	h2 {
 		font-size: 68px;
-		line-height: 96px;
+		line-height: 67px;
 	}
 	.tiny {
 		font-size: 16px;
@@ -721,6 +722,10 @@ Features Style
 
 		span {
 			color: $white-color;
+		}
+
+		.movy-tri {
+			bottom: 18px;
 		}
 
 		&.bg-ec691d {

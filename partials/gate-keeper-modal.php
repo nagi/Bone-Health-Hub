@@ -17,10 +17,10 @@
           <p class="">The information on our Healthcare Professional Website is solely intended for UK Healthcare 
             Professionals and contains promotional information. Click <a class="" href="https://www.thorntonross.com/">here</a> to return 
               to our main public site.</p>
-          <p class="">For information on our products please visit <a href="https://www.medicines.org.uk/emc/">EMC</a>,
+          <p class="">For information on our products please visit <a href="https://www.medicines.org.uk/emc/" target="_blank">EMC</a>,
             and search the product for a Summary of Product Characteristics</p>
           <p class="p-2 adverse">Adverse events should be reported. Reporting forms and information can be found at:
-            <a href="http://www.mhra.gov.uk/yellowcard">www.mhra.gov.uk/yellowcard</a>. Adverse events should also be reported to 
+            <a href="http://www.mhra.gov.uk/yellowcard" target="_blank">www.mhra.gov.uk/yellowcard</a>. Adverse events should also be reported to 
             Thornton and Ross Limited by emailing <a href="mailto:thorntonross@medinformation.co.uk">thorntonross@medinformation.co.uk</a> or by calling 
             <a href="tel:01484 848164">01484 848164</a>
           </p>

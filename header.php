@@ -3,7 +3,11 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<?php wp_head(); ?>
+<?php
+	wp_head();
+	global $bone_health_job_number;
+	$bone_health_job_number = "UK-MULT-130(1)";
+?>
 </head>
 
 <body <?php body_class(); ?>>
@@ -31,7 +35,7 @@
 					<!-- Disabled <?php wp_nav_menu( array( 'theme_location' => 'menu-main', 'menu_id' => 'menu-main' ) ); ?> -->
 
 					<li class="nav-item">
-						<a class="nav-link active" aria-current="page" href="fultium">Fultium</a>
+						<a class="nav-link" href="/fultium">Fultium</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="/accrete">Accrete</a>
