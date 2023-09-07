@@ -56,7 +56,7 @@ $page_id = get_option( 'page_for_posts' );
 							<p class="semibold">Every minute, someone in the UK suffers a fragility fracture.<sup>1</sup>
 							    <br><br>
 								With direct healthcare costs already >£5 billion each year, the burden on the NHS is set to
-								increase markedly as the population ages. <sup>1,2</sup></p>
+								increase markedly as the population ages.<sup>1,2</sup></p>
 							
 
 							
