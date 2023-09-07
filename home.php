@@ -46,8 +46,8 @@ $page_id = get_option( 'page_for_posts' );
 							<img src="<?php echo img_dir (); ?>/img-1.png" alt="img-1">
 						</div>
 					</div>
-					<div class="col-xxl-6">
-						<div class="preventing-content pb-lg-5" data-cues="slideInUp">
+					<div class="col-xxl-6 pt-5">
+						<div class="preventing-content pt-5 pb-lg-5" data-cues="slideInUp">
 							<h2>Preventing fractures. <br>
 							Preserving resources.</h2>
 							<p class="tiny">The STADA Bone Health Hub contains information and bone health resources that aim to support
