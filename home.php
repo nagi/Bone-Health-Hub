@@ -311,7 +311,7 @@ $page_id = get_option( 'page_for_posts' );
 				<div class="row align-items-center">
 					<div class="col-lg-6" data-cues="slideInLeft">
 						<div class="webinar-platform-content">
-							<h2>Webinar Platform </h2>
+							<h2>HCP Webinar Platform </h2>
 							<p>Access a curated series of educational sessions presented by experts in the field of bone
 								health, supporting your ongoing professional learning and development.</p>
 							<a href="https://www.stadahcp.co.uk/" target="_blank" class="main-btn">More Information</a>
