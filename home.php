@@ -177,7 +177,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-1.png" alt="right-1">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf">Fultium Prescribing Information</a>
+									<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -219,7 +219,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-2.png" alt="right-1">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf">Accrete Prescribing Information</a>
+									<a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -253,7 +253,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-3.png" alt="right-3">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf">Binosto Prescribing Information</a>
+									<a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -292,8 +292,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf">Movymia Prescribing Information</a>
-
+									<a href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">Movymia Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -346,7 +345,7 @@ $page_id = get_option( 'page_for_posts' );
 								questions to guide clinicians through a potential diagnosis of vitamin D deficiency and/or osteoporosis followed by 
 								a suggested treatment pathway. The aim is to optimise patient outcomes by delivering the appropriate treatment at the 
 								appropriate time in line with national NICE, SIGN and NOGG guidelines.</p>
-							<a href="https://bonehealth.rxdetail.io/" class="main-btn">Click Here</a>
+							<a href="https://bonehealth.rxdetail.io/"  target="_blank" class="main-btn">Click Here</a>
 						</div>
 					</div>
 				</div>
@@ -376,7 +375,7 @@ $page_id = get_option( 'page_for_posts' );
 					</div>
 				</div>
 				<div class="col-xl-2 col-sm-6 mt-3 mt-md-0">
-					<a href="https://theros.org.uk/" class="main-btn royal-bttn">Click Here</a>
+					<a href="https://theros.org.uk/"  target="_blank" class="main-btn royal-bttn">Click Here</a>
 				</div>
 			</div>
 		</div>

@@ -43,7 +43,7 @@ $page_id = get_option( 'page_for_posts' );
 						30–40% of the UK population have vitamin D levels that fall below those recommended, and 2-13% in the summer.<sup>2<sup>
 					</p>
 					<p>
-						<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf">Fultium Prescribing Information</a>
+						<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
 					</p>
 				</div>
 			</div>
