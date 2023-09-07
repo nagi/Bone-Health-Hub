@@ -177,7 +177,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-1.png" alt="right-1">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
+									<a class="pi semibold" href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -219,7 +219,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-2.png" alt="right-1">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
+									<a class="pi semibold" href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -253,7 +253,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-3.png" alt="right-3">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
+									<a class="pi semibold" href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
 								</div>
 							</div>
 						</div>
@@ -292,7 +292,7 @@ $page_id = get_option( 'page_for_posts' );
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
 									<br>
-									<a href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">Movymia Prescribing Information</a>
+									<a class="pi semibold" href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">Movymia Prescribing Information</a>
 								</div>
 							</div>
 						</div>

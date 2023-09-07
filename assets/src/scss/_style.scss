@@ -104,6 +104,10 @@ a {
 	transition: $transition;
 	color: black;
 
+	&.semibold {
+		font-weight: 600;
+	}
+
 	&:hover {
 		color: $main-color;
 	}
@@ -744,6 +748,12 @@ Features Style
 			line-height: 35px;
 			margin-bottom: 40px;
 			color: $heading-color;
+		}
+
+		a.pi {
+			font-size: 18px;
+			padding-top: 20px;
+			display: inline-block;
 		}
 	}
 
