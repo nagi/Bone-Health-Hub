@@ -35,9 +35,9 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 <div class="webinar-platform-area overflow-hidden top-shape">
 	<div class="container">
 		<div class="row align-items-center">
-			<div class="col-xxl-6" data-cues="slideInLeft">
+			<div class="col-xxl-6 pt-xl-5" data-cues="slideInLeft">
 				<div class="webinar-platform-content style-two">
-					<h2 class="c-black">Fultium-D<sub>3</sub></h2>
+					<h2 class="c-black pt-5">Fultium-D<sub>3</sub></h2>
 					<h4>The UK’s #1 prescribed licensed <br> vitamin D brand<sup>1</sup></h4>
 					<p>
 						Vitamin D is pivotal in the well-being of every individual.<sup>2</sup> During the winter, 
