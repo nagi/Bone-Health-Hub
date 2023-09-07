@@ -361,7 +361,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 		<div class="container">
 			<div class="row align-items-center" data-cues="slideInUp">
 				<div class="col-xl-2 col-sm-6">
-					<a href="https://theros.org.uk/">
+					<a href="https://theros.org.uk/" target="_blank">
 						<img src="<?php echo img_dir (); ?>/logo-3.png" alt="r.o.s logo">
 					</a>
 				</div>
