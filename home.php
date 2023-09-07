@@ -164,7 +164,7 @@ $page_id = get_option( 'page_for_posts' );
 				<div class="global-side-wrap-right">
 					<div class="row">
 						<div id="fulti" class="col-lg-5" data-cues="slideInLeft">
-							<div class="single-features pt-150 mb-30">
+							<div class="single-features pt-110 mb-30">
 								<div class="features-header">
 									<h3>Fultium-D <sub>3</sub></h3>
 									<span>Colecalciferol</span>
@@ -203,7 +203,7 @@ $page_id = get_option( 'page_for_posts' );
 							</div>
 						</div>
 						<div class="col-lg-5">
-							<div class="single-features ms-auto me-0 mt-4" data-cues="slideInRight">
+							<div class="single-features ms-auto mt-4" data-cues="slideInRight">
 								<div class="features-header bg-ec691d">
 									<h3>Accrete-D <sub>3</sub></h3>
 									<span>Calcium/Colecalciferol</span>
@@ -279,7 +279,7 @@ $page_id = get_option( 'page_for_posts' );
 							</div>						
 						</div>
 						<div class="col-lg-5" data-cues="slideInRight">
-							<div class="single-features ms-auto me-0 mt-4 mb-30">
+							<div class="single-features ms-auto mt-4 mb-30">
 								<div class="features-header bg-757ea0">
 									<h3>Movymia</h3>
 									<span>Teriparatide</span>
