@@ -19,7 +19,7 @@ $page_id = get_option( 'page_for_posts' );
 					<h1>Fultium D3</h1>
 					<h3>colecalciferol</h3>
 				</div>
-				<div class="banner-logo d-flex flex-row-reverse">
+				<div class="banner-logo d-flex x-flex-row-reverse fultium">
 					<img src="<?php echo svg_dir (); ?>fultium-logo.svg" alt="Fultium D3">
 				</div>
 			</div>

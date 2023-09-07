@@ -19,7 +19,7 @@ $page_id = get_option( 'page_for_posts' );
 					<h1>Accrete D3</h1>
 					<h3>Calcium / Colecalciferol</h3>
 				</div>
-				<div class="banner-logo d-flex flex-row-reverse">
+				<div class="banner-logo d-flex flex-row-reverse accrete">
 					<img src="<?php echo svg_dir (); ?>accrete-logo.svg" alt="accrete">
 				</div>
 			</div>

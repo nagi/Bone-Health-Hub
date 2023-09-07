@@ -19,7 +19,7 @@ $page_id = get_option( 'page_for_posts' );
 					<h1>Binosto</h1>
 					<h3>Alendroni Acid</h3>
 				</div>
-				<div class="banner-logo d-flex flex-row-reverse">
+				<div class="banner-logo d-flex x-flex-row-reverse binosto">
 					<img src="<?php echo svg_dir (); ?>binosto-logo.svg" alt="binosto">
 				</div>
 			</div>
