@@ -383,7 +383,7 @@ $page_id = get_option( 'page_for_posts' );
 	<!--=== End Royal Area ===-->
 
 	<!--=== Start References Area ===-->
-	<div class="references-area ptb-100">
+	<div class="references-area pt-5">
 		<div class="container">
 			<span class="d-block text-center references-title">References</span>
 			<div class="references-wrapper">

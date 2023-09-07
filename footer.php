@@ -2,20 +2,20 @@
 	<div class="information-area">
 		<div class="container">
 			<div class="information-content text-center" data-cues="slideInUp">
-				<span class="d-block title">Information</span>
+				<span class="d-block title semibold">Information</span>
 				<p class="dis-one">For information on our products please visit <a href="https://www.medicines.org.uk/emc/company/2554">EMC</a>
 					and search the product for a Summary of Product Characteristics</p>
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
 					emailing thorntonross@medinformation.co.uk or by calling 01484 848164</p>
-				<p class="dis-three">UK-MULT-130 | Date of Preparation August 2023</p>
+				<p class="dis-three pb-5">UK-MULT-130a(1) &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation September 2023</p>
 			</div>
 		</div>
 	</div>
 	<!--=== End Information Area ===-->
 
 	<!--=== Start Footer Area ===-->
-	<div class="footer-area bg-color-23185b pt-70 pb-70">
+	<div class="footer-area bg-color-f4f4f4 pt-70 pb-70">
 		<div class="container">
 			<div class="row align-items-center" data-cues="slideInUp">
 				<div class="col-lg-4 col-sm-6 col-md-4">
@@ -42,7 +42,7 @@
 				<div class="col-lg-4 col-sm-6 col-md-4">
 					<div class="single-footer py-4">
 						<a href="#" class="d-block text-md-center">
-							<img src="<?php echo img_dir (); ?>/footer-logo.png" alt="footer-logo">
+							<img src="<?php echo img_dir (); ?>/logo-4.png" alt="footer-logo">
 						</a>
 					</div>
 				</div>
