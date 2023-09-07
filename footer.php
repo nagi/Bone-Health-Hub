@@ -39,15 +39,15 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6 col-md-4">
+				<div class="col-lg-4 col-sm-12 col-md-4">
 					<div class="single-footer py-4">
 						<a href="#" class="d-block text-md-center">
 							<img src="<?php echo img_dir (); ?>/logo-4.png" alt="footer-logo">
 						</a>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-6 col-md-4">
-					<div class="single-footer d-sm-flex justify-content-end">
+				<div class="col-lg-4 col-sm-12 col-md-4">
+					<div class="single-footer d-sm-flex justify-content-lg-end">
 						<ul class="ps-0 mb-0">
 							<li>
 								<a href="https://www.thorntonross.com/privacy-policy">Privacy Policy</a>
