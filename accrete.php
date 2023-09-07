@@ -36,7 +36,7 @@ $page_id = get_option( 'page_for_posts' );
         <div class="row align-items-center">
             <div class="col-xxl-6" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two">
-                    <h2>Accrete-D<sub>3</sub></h2>
+                    <h2 class="c-black">Accrete-D<sub>3</sub></h2>
                     <h4>The least expensive calcium + vitamin 
                         D<sub>3</sub> brand offering a choice of swallowable and chewable tablets <sup>1,2</sup></h4>
                     <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; 
@@ -68,8 +68,8 @@ $page_id = get_option( 'page_for_posts' );
                 </div>
                 <div class="col-xxl-6" data-cues="slideInRight">
                     <div class="webinar-platform-content style-three">
-                        <p>Respecting patient preference is an important way to support treatment persistence.<sup>5</sup><br><br>
-                         With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
+                        <p class="semibold pb-1 mb-0">Respecting patient preference is an important way to support treatment persistence.<sup>5</sup></p>
+                        <p class="semibold"> With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
                         <ul>
                             <li>Twice-daily, film-coated, swallowable tablets<sup>6</sup></li>
                             <li>Once daily, orange-flavoured, chewable tablets<sup>7</sup></li>
@@ -100,7 +100,7 @@ $page_id = get_option( 'page_for_posts' );
                 <div class="request-cost-content">
                     <h2>Request Cost <br> Savings Report</h2>
                     <p>Accrete is the least expensive calcium + vitamin D<sub>3</sub> brand offering a choice of swallowable and chewable tablets.<sup>1</sup></p>
-                    <p>Please complete this form and a member of our team will contact you with specific cost-savings information for your locality.</p>
+                    <p class="semibold">Please complete this form and a member of our team will contact you with specific cost-savings information for your locality.</p>
                 </div>
             </div>
             <div class="col-xxl-5" data-cues="slideInLeft">

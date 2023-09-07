@@ -41,13 +41,15 @@ $page_id = get_option( 'page_for_posts' );
             </div>
             <div class="col-xxl-6" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two mw-100">
-                    <h2>Binosto</h2>
+                    <h2 class="c-black">Binosto</h2>
                     <h4>An effervescent alendronate formulation, with a 36% list price reduction to support the NHS<sup>1,2*</sup></h4>
-                    <p>While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
-                         crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup></p>
-                    <p>* Price reduction live from July 2021.</p>
-                    <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf">Binosto Prescribing Information</a>
+                    <p>
+                        While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
+                         crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup>
+                    </p>
 
+                    <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf">Binosto Prescribing Information</a>
+                    <p>* Price reduction live from July 2021.</p>
                 </div>
             </div>
         </div>
@@ -62,7 +64,7 @@ $page_id = get_option( 'page_for_posts' );
             <div class="row align-items-center">
                 <div class="col-xxl-6" data-cues="slideInLeft">
                     <div class="webinar-platform-content style-three ms-0">
-                        <p>Fully soluble, buffered, Binosto enhances upper GI tolerability, supporting greater persistence.8,9</p>
+                        <p class="semibold">Fully soluble, buffered, Binosto enhances upper GI tolerability, supporting greater persistence.8,9</p>
                         <ul>
                             <li>Avoids solid bisphosphonate irritating the oesophageal mucosa26,27</li>
                             <li>Buffering of gastric contents also diminishes damage potential if there is reflux26,27</li>
