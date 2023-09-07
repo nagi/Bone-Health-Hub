@@ -113,19 +113,19 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 							<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
 							<li>Calame W et al. Nutrients 2020; 12(6): 1868.</li>
 							<li> 
-								<a href="https://www.medicines.org.uk/emc/product/2813/smpc">Fultium-D3 800IU Capsules Summary of Product Characteristics</a>.
+								<a href="https://www.medicines.org.uk/emc/product/2813/smpc" target="_blank">Fultium-D3 800IU Capsules Summary of Product Characteristics</a>.
 								<br>Accessed: September 2023.
 							</li>
 							<li>
-								<a href="https://www.medicines.org.uk/emc/product/5355/smpc">Fultium-D3 3200IU Capsules Summary of Product Characteristics</a>
+								<a href="https://www.medicines.org.uk/emc/product/5355/smpc" target="_blank">Fultium-D3 3200IU Capsules Summary of Product Characteristics</a>
 								<br>Accessed: September 2023.
 							</li>
 							<li>
-								<a href="https://www.medicines.org.uk/emc/product/3659/smpc">Fultium-D3 20KIU Capsules Summary of Product Characteristics</a>
+								<a href="https://www.medicines.org.uk/emc/product/3659/smpc" target="_blank">Fultium-D3 20KIU Capsules Summary of Product Characteristics</a>
 								<br>Accessed: September 2023.
 							</li>
 							<li>
-								<a href="https://www.medicines.org.uk/emc/product/6861">Fultium-D3 Drops Summary of Product Characteristics</a>
+								<a href="https://www.medicines.org.uk/emc/product/6861" target="_blank">Fultium-D3 Drops Summary of Product Characteristics</a>
 								<br>Accessed: September 2023.
 							</li>
 							<li>Halal Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>

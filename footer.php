@@ -7,7 +7,7 @@
 		<div class="container">
 			<div class="information-content text-center" x-data-cues="slideInUp">
 				<span class="d-block title semibold">Information</span>
-				<p class="dis-one">For information on our products please visit <a href="https://www.medicines.org.uk/emc/company/2554">EMC</a>
+				<p class="dis-one">For information on our products please visit <a href="https://www.medicines.org.uk/emc/company/2554" target="_blank">EMC</a>
 					and search the product for a Summary of Product Characteristics</p>
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
@@ -35,10 +35,10 @@
 								<a href="/binosto">Binosto</a>
 							</li>
 							<li>
-								<a href="https://www.stadaspecialtybiosimilars.co.uk/movymia">Movymia<span class="movy-tri">▼</span></a>
+								<a href="https://www.stadaspecialtybiosimilars.co.uk/movymia" target="_blank">Movymia<span class="movy-tri">▼</span></a>
 							</li>
 							<li>
-								<a href="https://www.thorntonross.com/contact-us">Contact Us</a>
+								<a href="https://www.thorntonross.com/contact-us" target="_blank">Contact Us</a>
 							</li>
 						</ul>
 					</div>
@@ -54,19 +54,19 @@
 					<div class="single-footer d-sm-flex justify-content-lg-end">
 						<ul class="ps-0 mb-0">
 							<li>
-								<a href="https://www.thorntonross.com/privacy-policy">Privacy Policy</a>
+								<a href="https://www.thorntonross.com/privacy-policy" target="_blank">Privacy Policy</a>
 							</li>
 							<li>
-								<a href="https://www.linkedin.com/company/thornton-&-ross/">LinkedIn</a>
+								<a href="https://www.linkedin.com/company/thornton-&-ross/" target="_blank">LinkedIn</a>
 							</li>
 							<li>
-								<a href="https://www.thorntonross.com/data-protection-notice">Data Protection Notice</a>
+								<a href="https://www.thorntonross.com/data-protection-notice" target="_blank">Data Protection Notice</a>
 							</li>
 							<li>
-								<a href="https://www.thorntonross.com/terms-conditions">Terms and Conditions</a>
+								<a href="https://www.thorntonross.com/terms-conditions" target="_blank">Terms and Conditions</a>
 							</li>
 							<li>
-								<a href="https://www.thorntonross.com/adverse-event-reporting">Adverse Event Reporting</a>
+								<a href="https://www.thorntonross.com/adverse-event-reporting" target="_blank">Adverse Event Reporting</a>
 							</li>
 						</ul>
 					</div>

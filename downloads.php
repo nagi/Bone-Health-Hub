@@ -16,19 +16,19 @@ $page_id = get_option( 'page_for_posts' );
     </div>
     <div class="downloads row d-flex justify-content-center text-center">
         <div class="download col-md-4 my-5">
-            <a href="<?php echo docs_dir (); ?>Binosto-Patient-Download-Guide.pdf">
+            <a href="<?php echo docs_dir (); ?>Binosto-Patient-Download-Guide.pdf" target="_blank">
                 <img src="<?php echo img_dir (); ?>b-p_thumb.jpg" alt="">
             </a>
             <h3>Binosto Patient Guide</h3>
         </div>
         <div class="download col-md-4 my-5">
-            <a href="<?php echo docs_dir (); ?>Accrete-Patient-Download-Guide.pdf">
+            <a href="<?php echo docs_dir (); ?>Accrete-Patient-Download-Guide.pdf" target="_blank">
                 <img src="<?php echo img_dir (); ?>a-p_thumb.jpg" alt="">
             </a>
             <h3>Accrete Patient Guide</h3>
         </div>
         <div class="download col-md-4 my-5">
-            <a href="<?php echo docs_dir (); ?>Binosto-HCP-Download-Guide.pdf">
+            <a href="<?php echo docs_dir (); ?>Binosto-HCP-Download-Guide.pdf" target="_blank">
                 <img src="<?php echo img_dir (); ?>b-hcp_thumb.jpg" alt="">
             </a>
             <h3>Binosto HCP Guide</h3>
