@@ -8,7 +8,7 @@ $transition: all ease .5s;
 $border-radius: 4px;
 $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
-/* Max width 767px
+/* Max width 767px (up to Medium)
 <<<<=====================================================================>>>>*/
 @media only screen and (max-width: 767px) {
     body {
@@ -220,7 +220,7 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
     }
 }
 
-/* Min width 768px to Max width 991px 
+/* Min width 768px to Max width 991px  (md to large)
 <<<<=====================================================================>>>>*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     body {
@@ -437,7 +437,7 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
 }
 
-/* Min width 992px to Max width 1199px 
+/* Min width 992px to Max width 1199px (lg to xl)
 <<<<=====================================================================>>>>*/
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .global-side-wrap {
@@ -529,9 +529,43 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
     }
 }
 
-/* Min width 1200px to Max width 1320px 
+/* Min width 1200px to Max width 1550 (lx to 1550)
+<<<<=====================================================================>>>>*/
+@media only screen and (min-width: 992px) and (max-width: 1550px) {
+
+    .banner-content {
+        h2 {
+            font-size: 70px;
+            line-height: 56px;
+            max-width: 600px;
+            margin-bottom: 27px;
+        }
+    }
+
+    .scroll-down {
+        bottom:20px;
+        span {
+            font-size: 15px;
+        }
+    }
+}
+
+/* Min width 1200px to Max width 1550 (lx to 1550)
 <<<<=====================================================================>>>>*/
 @media only screen and (min-width: 1200px) and (max-width: 1550px) {
+
+    .banner-content {
+        h2 {
+            font-size: 70px;
+            line-height: 56px;
+            max-width: 600px;
+            margin-bottom: 27px;
+        }
+    }
+
+    .scroll-down {
+        bottom:20px;
+    }
 
     .navbar .navbar-nav .nav-item .nav-link {
         margin-left: 5px;
@@ -635,6 +669,7 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
 }
 
+/* (lg to xxl)
 @media only screen and (min-width: 1400px) and (max-width: 1550px) {
     .preventing-content h2 {
         font-size: 55px;
@@ -644,6 +679,26 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
 ===========================================================*/
 @media only screen and (max-width: 991px) {
+    .hero-slider-wrap {
+        .scroll-down {
+            bottom: 11px;
+        }
+    }
+
+    .banner-content {
+        max-width: 810px;
+        h2 {
+            max-width: 100%;
+        }
+        p {
+            font-size: 28px !important;
+        }
+    
+        p.blurb {
+            display: none;
+        }
+    }
+
     .navbar {
         padding-top: 10px;
         padding-bottom: 10px;
@@ -663,17 +718,14 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 }
 
 @media only screen and (min-width: 1401px) {
-
     .container {
         max-width: 1750px;
         padding-left: 30px;
         padding-right: 30px;
     } 
-
-
 }
+
 @media only screen and (min-width: 1500px) {
- 
     .dropdown {
         &-item {
             border-bottom: 2px solid #ddd !important;
@@ -722,6 +774,7 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
 }
 
+// Hide above card bar when cards break down
 @include media-breakpoint-up(lg) { 
     #elips {
         display: block !important;
