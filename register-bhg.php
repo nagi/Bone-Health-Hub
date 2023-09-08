@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: register
+ * Template Name: register-bhg
  * Description: Registration page.
  *
  */
