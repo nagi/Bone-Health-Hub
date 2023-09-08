@@ -111,7 +111,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             <?php if(isRegistered()) {
                     echo '<a class="btn btn-primary rounded-5" href="' . docs_dir () . 'Binosto-Patient-Download-Guide.pdf' . '" target="_blank">Download</a>';
                 } else {
-                    echo '<a href="/register?want=bpg" class="btn btn-primary rounded-5">Register to download</a>';
+                    echo '<a href="/register-bpg?want=bpg" class="btn btn-primary rounded-5">Register to download</a>';
                 }
             ?>
             </div>
@@ -134,7 +134,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             <?php if(isRegistered()) {
                     echo '<a class="btn btn-primary rounded-5" href="' . docs_dir () . 'Binosto-HCP-Download-Guide.pdf' . '" target="_blank">Download</a>';
                 } else {
-                    echo '<a href="/register?want=bhg" class="btn btn-primary rounded-5">Register to download</a>';
+                    echo '<a href="/register-bhg?want=bhg" class="btn btn-primary rounded-5">Register to download</a>';
                 }
             ?>
             </div>

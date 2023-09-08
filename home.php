@@ -250,7 +250,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 								<div class="features-content">
 									<p>A buffered, soluble, effervescent alendronate tablet formulation, 
 										enhancing GI tolerability and persistence<sup>12,13</sup></p>
-									<a href="/binosos" class="main-btn">
+									<a href="/binosto" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-3.png" alt="right-3">
 									</a>

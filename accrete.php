@@ -135,7 +135,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
             <?php if(isRegistered()) {
                     echo '<a class="btn btn-primary rounded-5" href="' . docs_dir () . 'Accrete-Patient-Download-Guide.pdf' . '" target="_blank">Download</a>';
                 } else {
-                    echo '<a href="/register?want=apg" class="btn btn-primary rounded-5">Register to download</a>';
+                    echo '<a href="/register-apg?want=apg" class="btn btn-primary rounded-5">Register to download</a>';
                 }
             ?>
             </div>
