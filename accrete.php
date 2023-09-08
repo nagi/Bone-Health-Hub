@@ -120,7 +120,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
 <!--=== End Request Area ===-->
 
 <!--=== Start Request Area ===-->
-<div class="request-cost-area pt-100">
+<div id="apg" class="request-cost-area pt-100">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xxl-5" data-cues="slideInLeft">
@@ -132,12 +132,12 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                 </div>
             </div>
             <div class="col-xxl-5" data-cues="slideInLeft">
-                <?php if(isRegistered()) {
-                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+            <?php if(isRegistered()) {
+                    echo '<a class="btn btn-primary rounded-5" href="' . docs_dir () . 'Accrete-Patient-Download-Guide.pdf' . '" target="_blank">Download</a>';
                 } else {
-                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                    echo '<a href="/register?want=apg" class="btn btn-primary rounded-5">Register to download</a>';
                 }
-                ?>
+            ?>
             </div>
         </div>
     </div>

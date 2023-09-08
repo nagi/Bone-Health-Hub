@@ -94,7 +94,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
 <!--=== End Webinar Platform Area ===-->
 
 <!--=== Start Request Area ===-->
-<div class="request-cost-area">
+<div id="bpg" class="request-cost-area">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xxl-8" data-cues="slideInLeft">
@@ -109,11 +109,11 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             </div>
             <div class="col-xxl-4" data-cues="slideInRight">
             <?php if(isRegistered()) {
-                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+                    echo '<a class="btn btn-primary rounded-5" href="' . docs_dir () . 'Binosto-Patient-Download-Guide.pdf' . '" target="_blank">Download</a>';
                 } else {
-                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                    echo '<a href="/register?want=bpg" class="btn btn-primary rounded-5">Register to download</a>';
                 }
-                ?>
+            ?>
             </div>
         </div>
     </div>
@@ -121,7 +121,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
 <!--=== End Request Area ===-->
 
 <!--=== Start Request Area ===-->
-<div class="request-cost-area pt-100">
+<div id="bhg" class="request-cost-area pt-100">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-xxl-8" data-cues="slideInRight">
@@ -131,12 +131,12 @@ $bone_health_job_number = "UK-MULT-130c(1)";
                 </div>
             </div>
             <div class="col-xxl-4" data-cues="slideInLeft">
-                <?php if(isRegistered()) {
-                    echo '<a href="/downloads" class="btn btn-primary rounded-5">Go to downloads</a>';
+            <?php if(isRegistered()) {
+                    echo '<a class="btn btn-primary rounded-5" href="' . docs_dir () . 'Binosto-HCP-Download-Guide.pdf' . '" target="_blank">Download</a>';
                 } else {
-                    echo '<a href="/register" class="btn btn-primary rounded-5">Register to download</a>';
+                    echo '<a href="/register?want=bhg" class="btn btn-primary rounded-5">Register to download</a>';
                 }
-                ?>
+            ?>
             </div>
         </div>
     </div>
