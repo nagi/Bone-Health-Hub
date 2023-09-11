@@ -441,7 +441,7 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
     .label {
         font-size: 16px;
     }
-    
+
     .information-content {    
         .dis-one {
 
@@ -692,6 +692,15 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 /* Medium devices (tablets, 768px and up) Only Mobil Menu
 ===========================================================*/
 @media only screen and (max-width: 991px) {
+    .single-features {
+
+        .features-header {
+    
+            .movy-tri {
+                bottom: 8px;
+            }
+        }
+    }
     .hero-slider-wrap {
         .scroll-down {
             bottom: 11px;
