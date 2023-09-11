@@ -161,9 +161,9 @@ $bone_health_job_number = "UK-MULT-130a(1)";
 						<ol class="references-list">
                             <li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: September 2023.</li>
                             <li>NHS List Price, Drug Tariff February 2023</li>
-                            <li>Cutler RL et al. BMJ Open 2018; 8(1): e016982.</li>
-							<li>Shariff Z et al. Pharmaceutics 2020; 12(10): 905.</li>
-							<li>Martin LR et al. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
+                            <li>Cutler RL <i>et al</i>. BMJ Open 2018; 8(1): e016982.</li>
+							<li>Shariff Z <i>et al</i>. Pharmaceutics 2020; 12(10): 905.</li>
+							<li>Martin LR <i>et al</i>. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
 							<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2766. Accessed: September 2023.</li>
 						</ol>
 					</div>
