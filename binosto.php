@@ -99,9 +99,9 @@ $bone_health_job_number = "UK-MULT-130c(1)";
                 <div class="request-cost-content">
                     <h2>Patient Guide download</h2>
                     <p>
-                        Please register for an instant to download of the Binosto patient guide for more 
-                        information on Binosto, how to take it, osteoporosis, tips to help manage the condition
-                         and links to further sources.
+                        Please register for an instant download of the Binosto Patient Guide. The guide will provide more 
+                        information for patients on Binosto, how to take it, osteoporosis and tips on how to manage their 
+                        condition.
                     </p>
                 </div>
             </div>
@@ -125,7 +125,9 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             <div class="col-xxl-8" data-cues="slideInRight">
                 <div class="request-cost-content">
                     <h2>HCP Information Guide download</h2>
-                    <p>Please register for instant access to our repository of guides, interactive materials and on-demand webinars, written by STADA Thornton & Ross experts and designed to offer education and training to HCPs on our treatment areas.</p>
+                    <p>Please register for an instant download of our Binosto HCP Information Guide. The guide offers
+                     information on key benefits, support and background for buffered, soluble, effervescent alendronate
+                      tablet formulation.<sup>1,2</sup></p>
                 </div>
             </div>
             <div class="col-xxl-4" data-cues="slideInLeft">
