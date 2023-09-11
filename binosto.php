@@ -21,7 +21,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
 					<h3>Alendroni Acid</h3>
 				</div>
 				<div class="banner-logo d-flex x-flex-row-reverse binosto">
-					<img src="<?php echo svg_dir (); ?>binosto-logo.svg" alt="binosto">
+					<img src="<?php echo img_dir (); ?>binosto-logo.png" alt="binosto">
 				</div>
 			</div>
 		</div>
@@ -43,7 +43,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             <div class="col-xxl-6 pt-xxl-5" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two mw-100">
                     <h2 class="c-black pt-xl-5">Binosto</h2>
-                    <h4>An effervescent alendronate formulation, with a 36% list price reduction to support the NHS<sup>1,2*</sup></h4>
+                    <h4>Binosto is indicated for the treatment of postmenopausal osteoporosis. It reduces the risk of vertebral and hip fractures.</h4>
                     <p>
                         While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
                          crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup>
