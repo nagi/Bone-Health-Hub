@@ -17,11 +17,11 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 		<div class="hero-slider-item bg-fultium">
 			<div class="container">
 				<div class="banner-seo">
-					<h1>Fultium D3</h1>
+					<h1>Fultium D<sub>3</sub></h1>
 					<h3>colecalciferol</h3>
 				</div>
 				<div class="banner-logo d-flex x-flex-row-reverse fultium">
-					<img src="<?php echo svg_dir (); ?>fultium-logo.svg" alt="Fultium D3">
+					<img src="<?php echo svg_dir (); ?>fultium-logo.svg" alt="Fultium D<sub>3</sub>">
 				</div>
 			</div>
 		</div>
@@ -49,7 +49,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 						 risk of vitamin D insufficiency.
 					</p>
 					<p>
-						<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
+						<a href="<?php echo docs_dir() ?>Fultium-D<sub>3</sub>-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
 					</p>
 				</div>
 			</div>
@@ -75,7 +75,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 				</div>
 				<div class="col-xxl-6" data-cues="slideInRight">
 					<div class="webinar-platform-content style-three">
-						<p class="semibold">Prescribe Fultium-D3 by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup>3-6</sup></p>
+						<p class="semibold">Prescribe Fultium-D<sub>3</sub> by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup>3-6</sup></p>
 						<ul>
 							<li>Range of loading and maintenance doses to support all patients<sup>3-6</sup></li>
 							<li>Daily drops (3 are equivalent to 200IU of colecalciferol) meet vegetarian standards<sup>6</sup>; they can be used from birth onwards</li>
@@ -117,22 +117,10 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 						<ol class="references-list">
 							<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
 							<li>Calame W et al. Nutrients 2020; 12(6): 1868.</li>
-							<li> 
-								<a href="https://www.medicines.org.uk/emc/product/2813/smpc" target="_blank">Fultium-D3 800IU Capsules Summary of Product Characteristics</a>.
-								<br>Accessed: September 2023.
-							</li>
-							<li>
-								<a href="https://www.medicines.org.uk/emc/product/5355/smpc" target="_blank">Fultium-D3 3200IU Capsules Summary of Product Characteristics</a>
-								<br>Accessed: September 2023.
-							</li>
-							<li>
-								<a href="https://www.medicines.org.uk/emc/product/3659/smpc" target="_blank">Fultium-D3 20KIU Capsules Summary of Product Characteristics</a>
-								<br>Accessed: September 2023.
-							</li>
-							<li>
-								<a href="https://www.medicines.org.uk/emc/product/6861" target="_blank">Fultium-D3 Drops Summary of Product Characteristics</a>
-								<br>Accessed: September 2023.
-							</li>
+							<li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: September 2023.</li>
+							<li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/5355/smpc. Accessed: September 2023.</li>
+							<li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/3659/smpc. Accessed: September 2023.</li>
+							<li>Fultium-D<sub>3</sub> Drops Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/6861. Accessed: September 2023.</li>
 							<li>Halal Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>
 							<li>Kosher Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>
 							<li>Wan M et al. Br J Clin Pharmacol 2021; 87(3): 1338-46.</li>
