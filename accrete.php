@@ -39,7 +39,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                 <div class="webinar-platform-content style-two">
                     <h2 class="c-black pt-5">Accrete-D<sub>3</sub></h2>
                     <h4>The least expensive calcium + vitamin 
-                        D<sub>3</sub> brand offering a choice of swallowable and chewable tablets <sup>1,2</sup></h4>
+                        D<sub>3</sub> brand offering a choice of swallowable and chewable tablets<sup>1,2</sup></h4>
                     <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; 
                         the cost/patient is 6x higher than with diabetes medication.<sup>3</sup> Flavour, texture, 
                         and pill burden can impact on adherence.<sup>4</sup>
