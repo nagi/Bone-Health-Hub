@@ -49,7 +49,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 						 risk of vitamin D insufficiency.
 					</p>
 					<p>
-						<a href="<?php echo docs_dir() ?>Fultium-D<sub>3</sub>-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
+						<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
 					</p>
 				</div>
 			</div>
