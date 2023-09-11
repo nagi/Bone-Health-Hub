@@ -57,7 +57,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 							
 							<p class="semibold">Every minute, someone in the UK suffers a fragility fracture.<sup>1</sup>
 							    <br><br>
-								With direct healthcare costs already £4.7 billion each year, the burden on the NHS is set to
+								With osteoporotic fracture costs already £4.7 billion each year, the burden on the NHS is set to
 								increase markedly as the population ages.<sup>1,2</sup></p>
 							
 
@@ -289,12 +289,12 @@ $bone_health_job_number = "UK-MULT-130(1)";
 								<div class="features-content">
 									<p>An affordable teriparatide biosimilar treatment,
 										minimising waste with a reusable, multi-dose pen<sup>8,14</sup></p>
-									<a href="http://www.stadaspecialtybiosimilars.co.uk/movymia" target="_blank" class="main-btn">
+									<a href="https://www.stadaspecialtybiosimilars.co.uk/movymia.html" target="_blank" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
 									<br>
-									<a class="pi semibold" href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">Movymia Prescribing Information</a>
+									<a id="movy-pi" class="pi semibold" href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">Movymia<span class="movy-tri">▼</span> Prescribing Information</a>
 								</div>
 							</div>
 						</div>

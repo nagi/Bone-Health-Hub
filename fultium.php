@@ -77,7 +77,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 					<div class="webinar-platform-content style-three">
 						<p class="semibold">Prescribe Fultium-D3 by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup>3-6</sup></p>
 						<ul>
-							<li>Range of loading and maintenance doses to support all patients<sup<>3-6</sup></li>
+							<li>Range of loading and maintenance doses to support all patients<sup>3-6</sup></li>
 							<li>Daily drops (3 are equivalent to 200IU of colecalciferol) meet vegetarian standards<sup>6</sup>; they can be used from birth onwards</li>
 							<li>Capsules come in 800IU, 3200IU and 20,000IU strengths offering flexible daily, weekly or monthly dosing<sup>3-5</sup></li>
 							<li>Colour coded to aid dosing<sup>3-5</sup>, capsules are halal and kosher certified<sup>7,8</sup>: they can be used from 12 years</li>
