@@ -315,7 +315,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 							<h2>HCP Webinar Portal</h2>
 							<p>Access a curated series of educational sessions presented by experts in the field of bone
 								health, supporting your ongoing professional learning and development.</p>
-							<a href="https://www.stadahcp.co.uk/" target="_blank" class="main-btn">More Information</a>
+							<a href="https://www.stadahcp.co.uk/webinars?topic=Bone%20Health" target="_blank" class="main-btn">More Information</a>
 						</div>
 					</div>
 					<div class="col-lg-6" data-cues="slideInRight">
