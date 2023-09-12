@@ -49,7 +49,7 @@ $bone_health_job_number = "UK-MULT-130c(1)";
                          crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup>
                     </p>
                     <p>
-                        Binosto is Indicated for the Treatment of postmenopausal osteoporosis. Reduces the risk of vertebral and hip fractures.
+                        Binosto is indicated for the treatment of postmenopausal osteoporosis. It reduces the risk of vertebral and hip fractures.
                     </p>
 
                     <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
