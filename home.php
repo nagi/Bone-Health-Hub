@@ -289,7 +289,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 								<div class="features-content">
 									<p>An affordable teriparatide biosimilar treatment,
 										minimising waste with a reusable, multi-dose pen<sup>8,14</sup></p>
-									<a href="https://www.stadaspecialtybiosimilars.co.uk/movymia.html" target="_blank" class="main-btn">
+									<a href="https://stadaspecialtybiosimilars.co.uk/movymia/" target="_blank" class="main-btn">
 										More information
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>

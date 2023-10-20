@@ -35,7 +35,7 @@
 								<a href="/binosto">Binosto</a>
 							</li>
 							<li>
-								<a href="https://www.stadaspecialtybiosimilars.co.uk/movymia.html" target="_blank">Movymia<span class="movy-tri">▼</span></a>
+								<a href="https://stadaspecialtybiosimilars.co.uk/movymia/" target="_blank">Movymia<span class="movy-tri">▼</span></a>
 							</li>
 							<li>
 								<a href="https://www.thorntonross.com/contact-us" target="_blank">Contact Us</a>

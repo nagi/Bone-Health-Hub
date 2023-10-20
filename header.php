@@ -48,7 +48,7 @@
 						<a class="nav-link" href="/binosto">Binosto</a>
 					</li>
 					<li class="nav-item">
-						<a href="http://www.stadaspecialtybiosimilars.co.uk/movymia.html" target="_blank" class="nav-link" href="/movymia">Movymia<span class="movy-tri">▼</span></a>
+						<a href="https://stadaspecialtybiosimilars.co.uk/movymia/" target="_blank" class="nav-link" href="/movymia">Movymia<span class="movy-tri">▼</span></a>
 					</li> 
 					<li class="dropdown nav-item">
 						<a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
