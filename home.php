@@ -44,7 +44,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 			<div class="global-side-wrap">
 				<div class="row align-items-center">
 					<div class="col-xxl-6" data-cues="slideInLeft">
-						<div class="preventing-img-1">
+						<div class="preventing-img">
 							<img src="<?php echo img_dir (); ?>/img-1.png" alt="img-1">
 						</div>
 					</div>

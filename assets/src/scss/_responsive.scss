@@ -8,6 +8,8 @@ $transition: all ease .5s;
 $border-radius: 4px;
 $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
+@media only screen and (max-width: 767px) {
+}
 /* Max width 767px (up to Medium)
 <<<<=====================================================================>>>>*/
 @media only screen and (max-width: 767px) {
@@ -748,6 +750,9 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 }
 
 @media only screen and (min-width: 1500px) {
+    .preventing-img {
+        margin-top: -117px;
+    }
     .dropdown {
         &-item {
             border-bottom: 2px solid #ddd !important;
