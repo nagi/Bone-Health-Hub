@@ -568,7 +568,6 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 /* Min width 1200px to Max width 1550 (lx to 1550)
 <<<<=====================================================================>>>>*/
 @media only screen and (min-width: 1200px) and (max-width: 1550px) {
-
     .banner-content {
         h2 {
             font-size: 70px;
@@ -681,7 +680,6 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
     .webinar-platform-content.style-three {
         margin-left: 0;
     }
-
 }
 
 /* (lg to xxl)
@@ -801,6 +799,40 @@ $box-shadow: 0 0 20px 3px rgba(0, 0, 0, 0.05);
 
 }
 
+//////////
+// CARDS
+//////////
+
+@media (max-width: 767.98px) { 
+    p.purpose {
+        line-height: 22px !important;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    p.purpose {
+        font-size: 14px;
+        min-height: 70px;
+        font-weight: 600;
+    }
+}
+@media only screen and (max-width: 1400px) {
+    p.purpose {
+        font-size: 16px;
+        min-height: 90px;
+        font-weight: 600;
+        line-height: 22px;
+    }
+}
+
+@media only screen and (max-width: 1500px) {
+    p.purpose {
+        font-size: 18px;
+        min-height: 110px;
+        font-weight: 600;
+        line-height: 22px;
+    }
+}
 // Hide above card bar when cards break down
 @include media-breakpoint-up(lg) { 
     #elips {

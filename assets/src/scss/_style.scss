@@ -605,8 +605,10 @@ Preventing Style
 		line-height: 67px;
 	}
 	.tiny {
-		font-size: 16px;
+		font-size: 15px;
+		font-weight: 600;
 		line-height: 25px;
+		margin-bottom: 32px;
 	}
 
 	p.semibold {
@@ -703,10 +705,14 @@ Prevention Style
 	}
 }
 
+#elips {
+	margin-bottom: 42px;
+}
+
 p.purpose {
-	font-size: 15px;
-    min-height: 67px;
-    line-height: 20px;
+	font-size: 25px;
+    min-height: 130px;
+	font-weight: 600;
 }
 
 /*
