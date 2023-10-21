@@ -207,8 +207,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 						<div class="col-lg-5">
 							<div class="single-features ms-auto mt-4" data-cues="slideInRight">
 								<div class="features-header bg-ec691d">
-									<h3>Accrete-D <sub>3</sub></h3>
-									<span>Calcium/Colecalciferol</span>
+									<img src="<?php echo svg_dir (); ?>accrete-logo.svg" alt="accrete">
 								</div>
 								<div class="features-content">
 									<p>
@@ -239,11 +238,8 @@ $bone_health_job_number = "UK-MULT-130(1)";
 							<div class="single-features pt-4">
 								<div class="features-header bg-74378c">
 									<div class="d-flex align-items-center">
-										<img src="<?php echo img_dir (); ?>/shape-2.png" alt="shape-2">
 										<div class="ms-2">
-											<span>Buffered</span>
-											<h3>Binosto</h3>
-											<span>Alendronic acid70 mg</span>
+											<img src="<?php echo img_dir (); ?>binosto-logo.png" alt="binosto">
 										</div>
 									</div>
 								</div>
@@ -294,7 +290,11 @@ $bone_health_job_number = "UK-MULT-130(1)";
 										<img src="<?php echo img_dir (); ?>/right-4.png" alt="right-4">
 									</a>
 									<br>
-									<a id="movy-pi" class="pi semibold" href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">Movymia<span class="movy-tri">▼</span> Prescribing Information</a>
+									<a id="movy-pi" class="pi semibold" href="<?php echo docs_dir() ?>Movymia-prescribing-information.pdf" target="_blank">
+										<span class="underline">Movymia</span> 
+										<span class="movy-tri no-underline">▼</span>
+										<span class="underline pi">Prescribing Information</span> 
+									</a>
 								</div>
 							</div>
 						</div>
@@ -414,7 +414,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 					<div class="col-lg-6">
 						<div class="references-content">
 							<ol class="references-list" start="8">
-								<li>Movymia Summary of Product Characteristics, January 2021: https://www.medicines.org.uk/emc/product/10780. Accesses September 2023.</li>
+								<li>Movymia Summary of Product Characteristics, January 2021: https://www.medicines.org.uk/emc/product/10780. Accessed: September 2023.</li>
 								<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
 								<li>360 days’ treatment & maintenance on Fultium-D3: 90x3200IU (£39.96) + 3x90x800IU (3x£8.85) = £39.96 + £26.55 = £66.51.
 									Source NHS DM+D, Accessed: September 2023. </li>

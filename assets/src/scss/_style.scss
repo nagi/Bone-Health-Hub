@@ -313,11 +313,11 @@ Main Btn Style
 	background-color: $main-color;
 	border: none;
 	color: $white-color;
-	font-size: 16px;
+	font-size: 33px;
 	font-weight: 600;
 	line-height: 1;
 	text-align: center;
-	padding: 20px 50px;
+	padding: 15px 29px;
 	transition: $transition;
 	text-decoration: none;
 	border-radius: 50px;
@@ -430,10 +430,20 @@ Main Navbar Style
 }
 
 #movy-pi {
-	span {
-		font-size: 9px;
+	text-decoration: none !important;
+	span.underline {
+		font-size: 18px;
+		text-decoration: underline !important;
 	}
-
+	.movy-tri {
+		right: 6px;
+		font-size: 9px;
+		text-decoration: none !important;
+	}
+	.pi {
+		position: relative;
+		right: 5px;
+	}
 }
 
 /*
@@ -821,11 +831,8 @@ Features Style
 Platform Style
 <<<<======================================================>>>>*/
 .webinar-platform-content {
-	max-width: 575px;
-
 	h2 {
 		font-size: 68px;
-		line-height: 90px;
 		margin-bottom: 40px;
 		color: $blue;
 		&.c-black {
@@ -834,6 +841,8 @@ Platform Style
 	}
 
 	p {
+		max-width: 575px;
+
 		margin-bottom: 45px;
 		&.caution {
 			font-size: 18px;
