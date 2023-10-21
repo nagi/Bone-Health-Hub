@@ -33,8 +33,7 @@ class GateKeeper {
 	}
 
 	setCookie() {
-		const inAWeek = 7;
-		Cookies.set('HCP', 'HCP', { expires: inAWeek });
+		Cookies.set('HCP', 'HCP');
 
 		this.gateLocked = false;
 		this.modalView.modal('hide');
