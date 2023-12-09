@@ -38,8 +38,8 @@ $bone_health_job_number = "UK-MULT-130a(1)";
             <div class="col-xxl-6 pt-xl-5" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two">
                     <h2 class="c-black pt-5 mt-5">Accrete-D<sub>3</sub></h2>
-                    <h4>The least expensive calcium + vitamin 
-                        D<sub>3</sub> brand offering a choice of swallowable and chewable tablets<sup>1,2</sup></h4>
+                    <h4>The least expensive calcium + vitamin D<sub>3</sub> brand offering a choice of swallowable 
+                        and chewable tablets<sup>1,2</sup></h4>
                     <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; 
                         the cost/patient is 6x higher than with diabetes medication.<sup>3</sup> Flavour, texture, 
                         and pill burden can impact on adherence.<sup>4</sup>
@@ -82,7 +82,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                             <li>The cost of 30 days treatment is just £2.95 (approximately £35.40 a year)</li>
                             <li>Provides savings of up to 24% compared with the market leading brand<sup>2,6-9</sup></li>
                         </ul>
-                        <p class="smallprint">
+                        <p class="smallprint upper mb-4 mt-4">
                             During pregnancy, daily dose should not exceed 1500 mg calcium and 600 IU vitamin D. See SMPC for more information.
                         </p>
                         <p class="smallprint">
