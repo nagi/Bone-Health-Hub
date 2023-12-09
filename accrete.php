@@ -126,7 +126,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
             <div class="col-xxl-5" data-cues="slideInLeft">
                 <div class="request-cost-content">
                     <h2>Patient Guide download</h2>
-                    <p>Please register for an instant to download of the Accrete patient guide for more 
+                    <p>Please register for an instant download of the Accrete patient guide for more 
                         information on the importance of a calcium-vitamin D treatment and tips on how to 
                         improve bone health alongside the treatment.</p>
                 </div>
