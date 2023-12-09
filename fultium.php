@@ -54,8 +54,8 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 				</div>
 			</div>
 			<div class="col-xxl-6" data-cues="slideInRight">
-				<div class="webinar-platform-img">
-					<img src="<?php echo img_dir (); ?>/img-7.png" alt="img-7">
+				<div class="webinar-platform-img mt-4">
+					<img src="<?php echo img_dir (); ?>img-7.png" alt="img-7">
 				</div>
 			</div>
 		</div>
@@ -70,7 +70,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 			<div class="row align-items-center">
 				<div class="col-xxl-6" data-cues="slideInLeft">
 					<div class="webinar-platform-img">
-						<img src="<?php echo img_dir (); ?>/img-8.png" alt="img-8">
+						<img src="<?php echo img_dir (); ?>img-8.png" alt="img-8">
 					</div>
 				</div>
 				<div class="col-xxl-6" data-cues="slideInRight">
