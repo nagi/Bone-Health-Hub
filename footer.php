@@ -7,7 +7,7 @@
 		<div class="container">
 			<div class="information-content text-center" x-data-cues="slideInUp">
 				<span class="d-block title semibold">Information</span>
-				<p class="dis-one text-center">For information on our products please visit <a href="https://www.medicines.org.uk/emc/company/2554" target="_blank">EMC</a>,
+				<p class="dis-one text-center mb-4">For information on our products please visit <a href="https://www.medicines.org.uk/emc/company/2554" target="_blank">EMC</a>,
 					https://www.medicines.org.uk/emc/ and search the product for a Summary of Product Characteristics</p>
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
