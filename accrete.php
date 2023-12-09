@@ -171,12 +171,12 @@ $bone_health_job_number = "UK-MULT-130a(1)";
 				<div class="col-lg-6">
 					<div class="references-content">
 						<ol class="references-list" start="7">
-                            <li>Accrete D3 One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/8506. Accessed: September 2023.</li>
+                            <li>Accrete D<sub>3</sub> One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/8506. Accessed: September 2023.</li>
                             <li>HSCIC IQVIA RXA Unit Sales ending December 2022.</li>
-                            <li>Adcal-D3® Chewable Tablets. Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/1356/smpc. Accessed: September 2023.</li>
+                            <li>Adcal-D<sub>3</sub>® Chewable Tablets. Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/1356/smpc. Accessed: September 2023.</li>
 
                             <li class="plain">
-                                Adcal-D3® is a registered trademark of Kyowa Kirin Services Ltd.
+                                Adcal-D<sub>3</sub>® is a registered trademark of Kyowa Kirin Services Ltd.
                             </li>
 						</ol>
 					</div>
