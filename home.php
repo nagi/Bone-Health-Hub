@@ -43,13 +43,13 @@ $bone_health_job_number = "UK-MULT-130(1)";
 		<div class="container">
 			<div class="global-side-wrap">
 				<div class="row align-items-center">
-					<div class="col-xxl-6" data-cues="slideInLeft">
+					<div class="col-md-6" data-cues="slideInLeft">
 						<div class="preventing-img">
-							<img src="<?php echo img_dir (); ?>/img-1.png" alt="img-1">
+							<img src="<?php echo img_dir (); ?>img-1.png" alt="img-1">
 						</div>
 					</div>
-					<div class="col-xxl-6 pt-5">
-						<div class="preventing-content pt-5 pb-lg-5" data-cues="slideInUp">
+					<div class="col-md-6 pt-5">
+						<div class="preventing-content pt-md-5 pb-lg-5" data-cues="slideInUp">
 							<h2>Preventing fractures. <br>
 							Preserving resources.</h2>
 							<p class="tiny">The STADA Bone Health Hub contains information and bone health resources that aim to support
