@@ -74,14 +74,60 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                 </div>
                 <div class="col-xxl-6" data-cues="slideInRight">
                     <div class="webinar-platform-content style-three">
-                        <p class="semibold pb-1 mb-0">Respecting patient preference is an important way to support treatment persistence.<sup>5</sup></p>
-                        <p class="semibold"> With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
-                        <ul>
-                            <li>Twice-daily, film-coated, swallowable tablets<sup>6</sup></li>
-                            <li>Once daily, orange-flavoured, chewable tablets<sup>7</sup></li>
-                            <li>The cost of 30 days treatment is just £2.95 (approximately £35.40 a year)</li>
-                            <li>Provides savings of up to 24% compared with the market leading brand<sup>2,6-9</sup></li>
-                        </ul>
+                        <div class="title">
+                            <p class="semibold pb-1 mb-0">Respecting patient preference is an important way to support treatment persistence.<sup>5</sup></p>
+                            <p class="semibold"> With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-5.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Twice-daily, film-coated, swallowable tablets<sup>5</sup>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-6.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    OR…
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-7.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Once-daily, orange-flavoured, chewable tablets<sup>6</sup>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-8.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    The cost of either treatment option is just £2.95 for 30 days, this is equivalent to approximately £35.40 per year.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-9.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Provides savings of up to 24% compared with the market leading brand<sup>2,5,6,8,9*</sup>
+                                </p>
+                            </div>
+                        </div>
                         <p class="smallprint upper mb-4 mt-4">
                             During pregnancy, daily dose should not exceed 1500 mg calcium and 600 IU vitamin D. See SMPC for more information.
                         </p>

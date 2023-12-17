@@ -69,15 +69,62 @@ $bone_health_job_number = "UK-MULT-130c(1)";
             <div class="row align-items-center">
                 <div class="col-xxl-6" data-cues="slideInLeft">
                     <div class="webinar-platform-content style-three ms-0">
-                        <p class="semibold">Fully soluble, buffered, Binosto enhances upper GI tolerability, supporting persistence.<sup>1,2</sup></p>
-                        <ul>
-                            <li>Avoids solid bisphosphonate irritating the oesophageal mucosa<sup>5,6</sup></li>
-                            <li>Gastric pH levels are rapidly buffered to >3, lessening the risk of damage if reflux occurs<sup>5,6</sup></li>
-                            <li>Upper GI adverse events reported in fewer than 1 in 10 patients<sup>1</sup></li>
-                            <li>Significantly increased persistence vs conventional alendronate tablets<sup>2</sup></li>
-                            <li>Persistence rate of 81% reported in real-world patients at 1 year<sup>2</sup></li>
-                            <li>Dissolves in just half a glass of plain water (120 ml)<sup>7</sup></li>
-                        </ul>
+                        <div class="title">
+                            <p class="semibold">Fully soluble, buffered, Binosto enhances upper GI tolerability, supporting persistence.<sup>1,2</sup></p>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-10.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Avoids solid bisphosphonate irritating the oesophageal mucosa<sup>6,7</sup>
+                                </p>
+                                <p>
+                                    Gastric pH levels are rapidly buffered to >3, lessening the risk of damage if reflux occurs<sup>6,7</sup>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-11.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Fewer patients discontinued treatment due to GI adverse events with Binosto than with conventional alendronate tablets<sup>2</sup>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-12.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Significantly increased persistence vs conventional alendronate tablets<sup>2</sup>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-13.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Persistence rate of 81% reported in real-world patients at 1 year<sup>2</sup>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="icon-list align-items-center">
+                            <div class="icon">
+                                <img src="<?php echo img_dir (); ?>c-thumb-14.png" alt="thumb">
+                            </div>
+                            <div class="text">
+                                <p>
+                                    Dissolves in just half a glass of plain water (120 ml)<sup>5</sup>
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-xxl-6" data-cues="slideInRight">

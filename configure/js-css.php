@@ -10,6 +10,7 @@ function _add_javascript() {
     wp_enqueue_script('address', "https://cdn.jsdelivr.net/npm/@ideal-postcodes/address-finder-bundled@4", null, null, true );
     wp_enqueue_script('scroll', get_template_directory_uri() . '/assets/vendor/scrollcue.js', null, null, true );
 	wp_enqueue_script('bone', get_template_directory_uri() . '/assets/dist/js/main.js', null, null, true );
+	wp_enqueue_script('bone-custom', get_template_directory_uri() . '/assets/dist/js/custom.js', null, null, true );
 }
 add_action('wp_enqueue_scripts', '_add_javascript', 100);
 
@@ -25,5 +26,6 @@ function _add_stylesheets() {
     // wp_enqueue_style('owl-theme', get_template_directory_uri() . '/assets/vendor/owl.theme.default.min.css', null, null, 'all' );    
     wp_enqueue_style('srollcue', get_template_directory_uri() . '/assets/vendor/scrollcue.css', null, null, 'all' );
 	wp_enqueue_style('theme', get_template_directory_uri() . '/assets/dist/css/main.css', null, null, 'all' );
+	wp_enqueue_style('theme-custom', get_template_directory_uri() . '/assets/dist/css/custom.css', null, null, 'all' );
 }
 add_action('wp_enqueue_scripts', '_add_stylesheets');
