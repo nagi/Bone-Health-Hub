@@ -88,6 +88,18 @@
 		<div class="container">
 			<p>Thornton & Ross is a member of the STADA Group <span class="ms-sm-5"> © Copyright Thornton & Ross 2023</span></p>
 		</div>
+		<div class="container">
+			<div class="dropdown">
+				<button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+					Patient Guides
+				</button>
+				<ul class="dropdown-menu">
+					<li><a class="dropdown-item" style="text-align:center;" href="/fultium-treatment-guide/">Fultium</a></li>
+					<li><a class="dropdown-item" style="text-align:center;" href="/accrete-treatment-guide/">Accrete</a></li>
+					<li><a class="dropdown-item" style="text-align:center;" href="/binosto-treatment-guide/">Binosto</a></li>
+				</ul>
+			</div>
+		</div>
 	</div>
 	<!--=== End Copyright Area ===-->
 

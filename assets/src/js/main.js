@@ -25,3 +25,19 @@ document.addEventListener('DOMContentLoaded', () => {
 	// eslint-disable-next-line no-undef
 	scrollCue.init();
 });
+
+/*
+setTimeout(function () {
+    $('#c-popup-section-1').addClass('active');
+}, 1000);
+
+$('.c-popup-section .c-close,.c-popup-section .c-popup-overlay').on('click', function (e) {
+    e.preventDefault();
+    $('.c-popup-section').removeClass('active');
+});
+
+$('.open-adverse').on('click', function (e) {
+    e.preventDefault();
+    $('#c-popup-section-2').addClass('active');
+});
+*/

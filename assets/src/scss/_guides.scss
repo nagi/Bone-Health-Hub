@@ -1,0 +1,476 @@
+.webinar-platform-content .title {
+    margin-bottom: 50px;
+}
+
+.webinar-platform-content .icon-list {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.webinar-platform-content .icon-list .icon {
+    width: 121px;
+    text-align: center;
+    flex: none;
+}
+
+.webinar-platform-content .icon-list .text {
+}
+
+.webinar-platform-content .icon-list .text p {
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.webinar-platform-content .icon-list .text p:last-child {
+    margin-bottom: 0;
+}
+
+.c-hero-slider-item {
+    padding-top: 350px;
+    padding-bottom: 50px;
+}
+
+.top-shape-50:before {
+    height: 50px;
+}
+
+.c-navbar-brand img {
+    max-width: 180px;
+}
+
+.chevron-down {
+    width: 10px;
+}
+
+.navbar-nav .c-dropdown-menu {
+    max-width: max-content;
+    width: max-content;
+}
+
+.navbar-nav .c-dropdown-menu .dropdown-item {
+    text-align: left;
+}
+
+.c-cta-section {
+    background: #0D5FB7;
+}
+
+.c-cta-content-wrap {
+    display: flex;
+    align-items: center;
+    gap: 20px 50px;
+}
+
+.c-cta-content-wrap .thumb {
+    width: 330px;
+    flex: none;
+}
+
+.c-cta-content-wrap .text {
+    flex: 1;
+}
+
+.c-cta-content-wrap-2 .text p,
+.c-cta-content-wrap .text p {
+    color: #fff;
+}
+
+.c-cta-content-wrap-2 {
+    display: flex;
+    align-items: center;
+    gap: 20px 50px;
+}
+
+.c-cta-content-wrap-2 .button-wrap {
+    flex: none;
+    width: 172px;
+}
+
+.c-cta-content-wrap-2 .button-wrap a {
+    display: inline-block;
+    text-align: center;
+    background: #fff;
+    color: #23185B;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.faq-section {
+}
+
+.faq-section .faq-item {
+    margin-bottom: 50px;
+}
+
+.faq-section .faq-item .faq-head {
+    position: relative;
+    z-index: 1;
+    font-size: 26px;
+    color: #fff;
+    background: #74378C;
+    width: 70%;
+    border-radius: 16px;
+    padding: 16px 30px;
+    padding-right: 65px;
+}
+
+.faq-section.faq-section-2 .faq-item .faq-head {
+    background: #EA691D;
+}
+
+.faq-section.faq-section-2 .faq-item .faq-head .icon svg path {
+    stroke: #EA691D;
+}
+
+.faq-section.faq-section-3 .faq-item .faq-head {
+    background: #FBC301;
+}
+
+.faq-section.faq-section-3 .faq-item .faq-head .icon svg path {
+    stroke: #FBC301;
+}
+
+.faq-section .faq-item .faq-head .icon {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    transition: all 0.3s;
+}
+
+.faq-section .faq-item.active .faq-head .icon {
+    transform: translateY(-50%) rotate(90deg);
+}
+
+.faq-section .faq-item .faq-body {
+    background: #F5F5F5;
+    border-radius: 12px;
+    padding: 50px 30px 30px;
+    margin-top: -35px;
+    font-size: 23px;
+    color: #000000;
+    display: none;
+}
+
+.faq-cta {
+    width: 70%;
+    background: #23185B;
+    padding: 40px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    border-radius: 10px;
+}
+
+.faq-cta .title {
+    font-size: 50px;
+    color: #fff;
+}
+
+.faq-cta .button-wrap {
+    flex: none;
+    width: 172px;
+    text-align: right;
+}
+
+.faq-cta .button-wrap a {
+    display: inline-block;
+    text-align: center;
+    background: #fff;
+    color: #23185B;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.feature-content {
+}
+
+.feature-content .title {
+    margin-bottom: 50px;
+}
+
+.feature-content .title h4 {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.feature-content .text p {
+    color: #000000;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.faq-body-thumb {
+    margin-right: 10px;
+    width: 100px;
+    text-align: center;
+    flex: none;
+}
+
+
+.c-popup-section {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.c-popup-wrapper {
+    overflow-y: auto;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+
+.c-popup-section.active {
+    visibility: visible;
+    opacity: 1;
+}
+
+.c-popup-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    z-index: -1;
+    background: #fff;
+    opacity: 0.9;
+    background: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.c-popup-content {
+    width: 100%;
+    max-width: 882px;
+    border-radius: 12px;
+    background: #fff;
+    padding: 40px 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.c-popup-content .c-close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 10;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.c-popup-content .p-logo {
+    margin-bottom: 30px;
+}
+
+.c-popup-content .p-logo img {
+    max-width: 270px;
+}
+
+.c-popup-content .item {
+    background: #F5F5F5;
+    border-radius: 12px;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+}
+
+.c-popup-content .item p {
+    color: #000;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.c-popup-content .item a {
+    display: inline-block;
+    padding: 15px 50px;
+    background: #23185B;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 100px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.c-popup-content .info p {
+    color: #000;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 0;
+}
+
+.c-popup-content .content-2{
+    text-align: left;
+    padding-top: 30px;
+}
+
+
+.c-popup-content .content-2 h4{
+    font-size: 44px;
+    color: #000;
+    font-weight: 600;
+}
+
+
+.c-popup-content .content-2 .read-more{
+    text-align: right;
+}
+
+.c-popup-content .content-2 .read-more a{
+    display: inline-block;
+    text-align: center;
+    background: #23185B;
+    color: #fff;
+    font-size: 25px;
+    padding: 15px 25px;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.c-popup-content .content-2 .read-more a svg{
+    margin-left: 10px;
+    height: 26px;
+}
+
+/* lg */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .faq-section .faq-item .faq-head,
+    .faq-cta {
+        width: 100%;
+    }
+
+    .c-popup-wrapper {
+        display: block;
+    }
+}
+
+
+/* md */
+@media (min-width: 768px) and (max-width: 991px) {
+    .faq-section .faq-item .faq-head,
+    .faq-cta {
+        width: 100%;
+    }
+
+    .faq-cta .title {
+        font-size: 32px;
+    }
+
+    .faq-cta .button-wrap a {
+        font-size: 18px;
+    }
+
+    .c-popup-wrapper {
+        display: block;
+    }
+}
+
+/* xs */
+@media (max-width: 767px) {
+    .webinar-platform-content .icon-list .icon {
+        width: 80px;
+        padding-top: 10px;
+    }
+
+    .webinar-platform-content .icon-list .icon img {
+        max-height: 100px;
+    }
+
+    .c-navbar-brand img {
+        max-width: 120px;
+    }
+
+    .c-cta-content-wrap-2,
+    .c-cta-content-wrap {
+        flex-wrap: wrap;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .c-cta-content-wrap-2 .button-wrap a {
+        font-size: 18px;
+    }
+
+    .faq-section .faq-item .faq-head,
+    .faq-cta {
+        width: 100%;
+    }
+
+    .faq-cta {
+        flex-direction: column;
+        text-align: center;
+        padding: 30px;
+    }
+
+    .faq-cta .title {
+        font-size: 32px;
+    }
+
+    .faq-cta .button-wrap {
+        text-align: center;
+    }
+
+    .faq-cta .button-wrap a {
+        font-size: 18px;
+    }
+
+    .faq-section .faq-item .faq-head {
+        font-size: 22px;
+    }
+
+    .faq-section .faq-item .faq-head .icon svg {
+        width: 24px;
+    }
+
+    .c-popup-wrapper {
+        display: block;
+    }
+
+    .c-popup-content .p-logo img {
+        max-width: 151px;
+    }
+
+    .c-popup-content {
+        padding: 30px 20px;
+    }
+
+    .c-popup-content .content-2 .read-more a svg{
+        display: none;
+    }
+
+    .c-popup-content .content-2 .read-more{
+        text-align: left;
+    }
+    .c-popup-content .content-2 .read-more a,
+    .c-popup-content .item a{
+        padding: 10px 20px;
+        border-radius: 10px;
+        font-size: 16px;
+    }
+    .c-popup-content .content-2 h4{
+        font-size: 22px;
+    }
+}

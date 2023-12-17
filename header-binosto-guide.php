@@ -6,7 +6,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="<?php echo get_template_directory_uri() ?>/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_template_directory_uri() ?>/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_template_directory_uri() ?>/favicon-16x16.png">
-    <link rel="manifest" href="<?php get_template_directory_uri() ?>/site.webmanifest">
 	<?php
 	wp_head();
 	global $bone_health_job_number;
@@ -143,8 +142,12 @@
                             Continue to site
                             <svg xmlns="http://www.w3.org/2000/svg" width="103.633" height="32.2" viewBox="0 0 103.633 32.2">
                                 <g id="Group_705" data-name="Group 705" transform="translate(-10799.698 -4740.176)">
-                                    <line id="Line_11" data-name="Line 11" x2="94.132" transform="translate(10801.698 4756.277)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
-                                    <path id="Path_436" data-name="Path 436" d="M0,0,13.175,15,26.554,0" transform="translate(10886.331 4769.554) rotate(-90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+                                    <line id="Line_11" data-name="Line 11" x2="94.132"
+                                          transform="translate(10801.698 4756.277)" fill="none" stroke="#fff"
+                                          stroke-linecap="round" stroke-width="4"/>
+                                    <path id="Path_436" data-name="Path 436" d="M0,0,13.175,15,26.554,0"
+                                          transform="translate(10886.331 4769.554) rotate(-90)" fill="none"
+                                          stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
                                 </g>
                             </svg>
                         </a>
