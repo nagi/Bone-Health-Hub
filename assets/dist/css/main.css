@@ -15698,6 +15698,7 @@ Footer Style
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
+  margin-top: 23px;
 }
 
 .navbar-nav .c-dropdown-menu .dropdown-item {

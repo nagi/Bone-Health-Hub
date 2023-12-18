@@ -60,7 +60,7 @@ global $bone_health_product;
 
                         <ul class="resources dropdown-menu c-dropdown-menu dropdown-menu-end"
                             aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://bonehealth.rxdetail.io/" target="_blank">Royal
+                            <li><a class="dropdown-item" href="https://theros.org.uk/" target="_blank">Royal
                                     Osteoporosis Society</a></li>
                             <li><a class="dropdown-item border-0"
                                    href="https://www.stadahcp.co.uk/webinars?topic=Bone%20Health" target="_blank">NHS
