@@ -118,15 +118,15 @@ get_header( 'patient-guide' );
                                     Fultium-D3 is used to prevent and treat vitamin D deficiency (that’s when the body
                                     does not have enough vitamin D). It is also prescribed in addition to specific
                                     osteoporosis treatment for people with vitamin D deficiency or at high risk of
-                                    vitamin D insufficiency (a milder form of low vitamin D).1-4
+                                    vitamin D insufficiency (a milder form of low vitamin D).<sup>1-4</sup>
                                 </p>
                                 <p>
                                     Fultium-D3 is a medicine containing colecalciferol, another name for vitamin D3. As
                                     well as promoting healthy functioning of our muscles and immune system, sufficient
                                     vitamin D plays a critical role in bone health at all stages of life by helping our
                                     body to absorb calcium and phosphate, which are vital for building and maintaining
-                                    strong bones.5,6 Getting enough vitamin D can help prevent bone conditions like
-                                    rickets in children, as well as osteomalacia and osteoporosis as we age. 5,6
+                                    strong bones.<sup>5,6</sup> Getting enough vitamin D can help prevent bone conditions like
+                                    rickets in children, as well as osteomalacia and osteoporosis as we age.<sup>5,6</sup>
                                 </p>
                             </div>
                         </div>
@@ -150,11 +150,11 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Rickets is a disease that disrupts bone growth in infants and young children. The
-                                    main cause of rickets is a vitamin D deficiency.7 When children do not get enough
+                                    main cause of rickets is a vitamin D deficiency.<sup>7</sup> When children do not get enough
                                     vitamin D, their bones can become soft, weak, and unable to support their weight.
                                     This can result in fractures with little or no trauma, bone and muscle pain, and
                                     bony deformities such as bowed legs, curves of the spine and a jutting out
-                                    breastbone.7
+                                    breastbone.<sup>7</sup>
                                 </p>
                             </div>
                         </div>
@@ -179,21 +179,21 @@ get_header( 'patient-guide' );
                                 <p>
                                     Osteomalacia is a bone-softening disease that occurs in adults. It results from a
                                     defect in the bone-building process and is usually caused by prolonged low levels of
-                                    vitamin D.8
+                                    vitamin D.<sup>8</sup>
                                 </p>
                                 <p>
                                     Bones are continuously being broken down and rebuilt. In osteomalacia, the bones are
                                     weakened because of a deficiency in the mineralisation phase of this process – the
-                                    part where new bone tissue is hardened.8
+                                    part where new bone tissue is hardened.<sup>8</sup>
                                 </p>
                                 <p>
                                     Osteomalacia can cause widespread aching bone pain, often in the hips, along with
                                     muscle weakness which makes movement such as rising from a chair or climbing stairs
-                                    difficult.8-10
+                                    difficult.<sup>8-10</sup>
                                 </p>
                                 <p>
                                     Bones affected by osteomalacia are more prone to fractures, especially with minor
-                                    injuries or stresses.6 In rare cases, bone deformities may also occur.8
+                                    injuries or stresses.6 In rare cases, bone deformities may also occur.<sup>8</sup>
                                 </p>
                             </div>
                         </div>
@@ -218,24 +218,24 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Osteoporosis is a condition where bones become weak and fragile, making them break
-                                    more easily.11
+                                    more easily.<sup>11</sup>
                                 </p>
                                 <p>
                                     Bone is living tissue that is constantly being broken down and replaced.
                                     Osteoporosis occurs when the creation of new bone doesn’t keep up with the loss of
-                                    your old bone.12,13
+                                    your old bone.<sup>12,13</sup>
                                 </p>
                                 <p>
                                     Imagine inside your bones is like a honeycomb. With osteoporosis, the holes in the
-                                    honeycomb gradually become larger, making your bones become weaker over time.13
+                                    honeycomb gradually become larger, making your bones become weaker over time.<sup>13</sup>
                                 </p>
                                 <p>
                                     Most people don’t know they have osteoporosis until it causes them to break a bone.
-                                    That’s why it is called a “silent disease”.13
+                                    That’s why it is called a “silent disease”.<sup>13</sup>
                                 </p>
                                 <p>
                                     Although fractures can occur in different parts of the body, the hip, wrist and
-                                    spine are the most commonly affected sites.14
+                                    spine are the most commonly affected sites.<sup>14</sup>
                                 </p>
                             </div>
                         </div>
@@ -261,10 +261,10 @@ get_header( 'patient-guide' );
                                 <p>
                                     If you don’t have enough vitamin D when you’re pregnant, it can affect the health of
                                     your baby. This might mean your baby could be smaller than expected; they could be
-                                    born too early; or they could have issues with bone and teeth growth.15 Rickets is
+                                    born too early; or they could have issues with bone and teeth growth.<sup>15</sup> Rickets is
                                     one example. Low vitamin D during pregnancy is a major risk factor for rickets in
-                                    babies.16 There’s also a higher chance babies of mums who have low vitamin D levels
-                                    will get an infection.15
+                                    babies.<sup>16</sup> There’s also a higher chance babies of mums who have low vitamin D levels
+                                    will get an infection.<sup>15</sup>
                                 </p>
                             </div>
                         </div>
@@ -289,10 +289,10 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Very few foods naturally contain vitamin D. Instead, the body makes its own when
-                                    skin is exposed to sun.5
+                                    skin is exposed to sun.<sup>5</sup>
                                 </p>
                                 <p>
-                                    How much vitamin D the skin makes depends on things like:17,18
+                                    How much vitamin D the skin makes depends on things like:<sup>17,18</sup>
                                 </p>
                                 <ul>
                                     <li>how much time you spend outside</li>
@@ -309,7 +309,7 @@ get_header( 'patient-guide' );
                                 </ul>
                                 <p>
                                     During the winter, something like 1 in 3 people in the UK have vitamin D levels
-                                    below those recommended; even in the summer, it is still as high as 1 in 10.19
+                                    below those recommended; even in the summer, it is still as high as 1 in 10.<sup>19</sup>
                                 </p>
                             </div>
                         </div>
@@ -334,7 +334,7 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Fultium-D3 is available as drops or capsules in a range of doses to support
-                                    different patients’ needs.1-4 So it is very important to follow your doctor’s
+                                    different patients’ needs.<sup>1-4</sup> So it is very important to follow your doctor’s
                                     instructions closely as they will know what dose is right for you or your child.
                                 </p>
                                 <div class="d-flex mb-3">
@@ -349,7 +349,7 @@ get_header( 'patient-guide' );
                                             the number of drops you or your child need on a spoon before taking them.
                                             Alternatively, you can add them to a small amount of food or a drink as long
                                             as it is cold or lukewarm, not hot. If you do that, it is very important
-                                            that all the food or drink is consumed.1
+                                            that all the food or drink is consumed.<sup>1</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -364,7 +364,7 @@ get_header( 'patient-guide' );
                                             up to 12 weeks depending on how low your vitamin D levels are and how you
                                             respond to treatment. Your doctor will then tell you to take 1-2 capsules
                                             daily to keep your vitamin D levels stable. The capsules should be swallowed
-                                            whole (not chewed) with water.2
+                                            whole (not chewed) with water.<sup>2</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -379,7 +379,7 @@ get_header( 'patient-guide' );
                                             a dose of 1 capsule daily for up to 12 weeks. If you are vitamin D deficient
                                             when you are pregnant or breast feeding, your doctor will usually prescribe
                                             1 capsule daily. The capsules should be swallowed whole (not chewed) with
-                                            water.3
+                                            water.<sup>3</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -396,7 +396,7 @@ get_header( 'patient-guide' );
                                             will be printed the label on your Fultium-D3 pack) as it will be different
                                             for different patients. If you are at all unsure, always check with your
                                             doctor or pharmacist. The capsule should be swallowed whole with water,
-                                            preferably with the main meal of the day.4
+                                            preferably with the main meal of the day.<sup>4</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -535,7 +535,7 @@ get_header( 'patient-guide' );
                                     <div class="text">
                                         <p>
                                             Drops and capsules: Fultium-D3 does not contain lactose, fructose, sucrose,
-                                            eggs, soya, gluten or nuts.1-4
+                                            eggs, soya, gluten or nuts.<sup>1-4</sup>
                                             Please check the Patient Information Leaflet for the full list of
                                             ingredients.
                                         </p>
@@ -571,7 +571,7 @@ get_header( 'patient-guide' );
                                             Drops: If you forget Fultium-D3 drops, they should be taken as soon as you
                                             remember. Do not take or give a double dose to make up for a forgotten dose.
                                             After that, the next drops should be taken according to the instructions
-                                            given to you by your doctor.20
+                                            given to you by your doctor.<sup>20</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -584,7 +584,7 @@ get_header( 'patient-guide' );
                                             Capsules: If you forget to take your capsules, take them as soon as you can.
                                             Do not take a double dose to make up for a forgotten dose. After that, take
                                             the next capsule according to the instructions given to you by your
-                                            doctor.21-23
+                                            doctor.<sup>21-23</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -620,7 +620,7 @@ get_header( 'patient-guide' );
                                             medical advice. Bring the drops and their packaging with you to show the
                                             doctor/pharmacist. Taking too many drops may result in feeling or being
                                             sick, becoming constipated or having stomach pains, weak muscles, tiredness,
-                                            a lack of appetite and feeling thirsty.1
+                                            a lack of appetite and feeling thirsty.<sup>1</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -636,7 +636,7 @@ get_header( 'patient-guide' );
                                             capsules and their packaging with you to show the doctor/pharmacist. If you
                                             take too many capsules you may feel or be sick, become constipated or have
                                             stomach pains, weak muscles, tiredness, a lack of appetite or feel
-                                            thirsty.2,3
+                                            thirsty.<sup>2,3</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -650,7 +650,7 @@ get_header( 'patient-guide' );
                                             capsules, seek immediate medical advice. Bring the capsules and their
                                             packaging with you to show the doctor/pharmacist. If you take too many
                                             capsules you may feel or be sick, become constipated or have stomach pains,
-                                            weak muscles, tiredness, a lack of appetite or feel thirsty.4
+                                            weak muscles, tiredness, a lack of appetite or feel thirsty.<sup>4</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -679,7 +679,7 @@ get_header( 'patient-guide' );
                                     If you notice anything different when you start to take Accrete-D3, like feeling
                                     sick or constipated, or if you suffer an allergic reaction (such as itching,
                                     wheezing, swelling of the tongue or throat or a skin rash) stop taking Accrete-D3
-                                    immediately and see your healthcare professional.16,17 They may ask you to come in
+                                    immediately and see your healthcare professional.<sup>16,17</sup> They may ask you to come in
                                     for regular check-ups to make sure that you are getting the right amount of
                                     medicine. This is normal for people who are taking calcium and vitamin D.
                                 </p>
