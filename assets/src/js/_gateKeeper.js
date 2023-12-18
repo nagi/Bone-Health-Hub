@@ -33,7 +33,11 @@ class GateKeeper {
 	}
 
 	setCookie() {
-		Cookies.set('HCP', 'HCP');
+    // For live; expires after session
+		// Cookies.set('HCP', 'HCP');
+
+    var inFifteenSeconds = new Date(new Date().getTime() + 15 * 1000);
+		Cookies.set('HCP', 'HCP', { expires: inFifteenSeconds });
 
 		this.gateLocked = false;
 		this.modalView.modal('hide');

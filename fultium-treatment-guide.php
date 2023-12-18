@@ -5,10 +5,11 @@
  *
  */
 
-get_header( 'fultium-guide' );
-
 $page_id                = get_option( 'page_for_posts' );
 $bone_health_job_number = "UK-FULT-90";
+$bone_health_product = "fultium";
+
+get_header( 'patient-guide' );
 ?>
 
     <!--=== Start Page Banner Area ===-->
@@ -17,8 +18,8 @@ $bone_health_job_number = "UK-FULT-90";
             <div class="hero-slider-item bg-fultium c-hero-slider-item">
                 <div class="container">
                     <div class="banner-seo">
-                        <h1>Binosto</h1>
-                        <h3>Alendroni Acid</h3>
+                        <h1>Fultium</h1>
+                        <h3>Colecalciferol</h3>
                     </div>
                     <div class="d-flex justify-content-end">
                         <img src="<?php echo img_dir(); ?>fultium-logo.png" alt="accrete">

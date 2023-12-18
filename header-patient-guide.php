@@ -1,3 +1,7 @@
+<?php
+global $bone_health_product;
+?>
+
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
@@ -8,8 +12,6 @@
     <link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_template_directory_uri() ?>/favicon-16x16.png">
 	<?php
 	wp_head();
-	global $bone_health_job_number;
-	$bone_health_job_number = "UK-MULT-130(1)";
 	?>
 </head>
 
@@ -22,8 +24,8 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand c-navbar-brand p-0" href="/">
-                <img class="d-md-none " src="<?php echo img_dir(); ?>/h-accrete-logo.png" alt="logo-2">
-                <img class="d-none d-md-block" src="<?php echo img_dir(); ?>/h-accrete-logo.png" alt="logo">
+                <img class="d-md-none " src="<?php echo img_dir(); ?>/h-<?php echo $bone_health_product?>-logo.png" alt="logo-2">
+                <img class="d-none d-md-block" src="<?php echo img_dir(); ?>/h-<?php echo $bone_health_product?>-logo.png" alt="logo">
             </a>
             <button id="burger" class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -73,51 +75,6 @@
         </div>
     </nav>
     <!--=== End Navbar Area ===-->
-
-    <div class="c-popup-section" id="c-popup-section-1">
-        <div class="c-popup-overlay"></div>
-        <div class="c-popup-wrapper">
-            <div class="c-popup-content">
-                <div class="c-close">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
-                         style="fill: rgba(0, 0, 0, 1);transform: ;msFilter:;">
-                        <path d="m16.192 6.344-4.243 4.242-4.242-4.242-1.414 1.414L10.535 12l-4.242 4.242 1.414 1.414 4.242-4.242 4.243 4.242 1.414-1.414L13.364 12l4.242-4.242z"></path>
-                    </svg>
-                </div>
-                <div class="p-logo">
-                    <img src="<?php echo img_dir(); ?>/h-accrete-logo.png" alt="logo">
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <p>
-                            The information on our patient website is solely intended for UK patients prescribed this
-                            medicine
-                            by a UK Healthcare Professional.
-                        </p>
-                    </div>
-                    <div class="read-more">
-                        <a href="#">I confirm I am a UK patient</a>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <p>
-                            Information for Healthcare Professionals is found on our dedicated Healthcare Professional
-                            site which is solely intended for UK Healthcare Professionals and contains promotional
-                            information.
-                        </p>
-                    </div>
-                    <div class="read-more">
-                        <a href="#">I confirm I am a UK Healthcare Professional</a>
-                    </div>
-                </div>
-                <div class="info">
-                    <p>All other visitors: Please view the Summary of Product Characteristics</p>
-                    <p>UK-BINO-37a | Date of Preparation December 2023</p>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div class="c-popup-section" id="c-popup-section-2">
         <div class="c-popup-overlay"></div>

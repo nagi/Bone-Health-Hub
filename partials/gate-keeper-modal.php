@@ -2,6 +2,7 @@
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content rounded-5 p-5">
       <div class="modal-body text-center">
+        
         <h5 class="modal-title p-5">This site is intended  to provide information to Healthcare Professionals on Thornton & Ross products.</h5>
 
         <p>I am a Healthcare Professional</p>

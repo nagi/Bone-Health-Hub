@@ -1,14 +1,15 @@
 <?php
 /**
  * Template Name: Accrete Treatment Guide
- * Description: Binosto product page.
+ * Description: Accrete patient page.
  *
  */
 
-get_header( 'accrete-guide' );
-
 $page_id                = get_option( 'page_for_posts' );
 $bone_health_job_number = "UK-ACCR-70";
+$bone_health_product = "accrete";
+
+get_header( 'patient-guide' );
 ?>
 
     <!--=== Start Page Banner Area ===-->
@@ -17,8 +18,8 @@ $bone_health_job_number = "UK-ACCR-70";
             <div class="hero-slider-item bg-accrete c-hero-slider-item">
                 <div class="container">
                     <div class="banner-seo">
-                        <h1>Binosto</h1>
-                        <h3>Alendroni Acid</h3>
+                        <h1>Accrete</h1>
+                        <h3>Calcium / Colecalciferol</h3>
                     </div>
                     <div class="d-flex justify-content-end">
                         <img src="<?php echo img_dir(); ?>accrete-logo.png" alt="accrete">

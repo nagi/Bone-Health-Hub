@@ -42,7 +42,7 @@
 					) ); ?> -->
 
                     <li class="nav-item">
-                        <a class="nav-link" href="http://bone-health-dev.nagisystems.com/accrete-treatment-guide/">Patient guide download</a>
+                        <a class="nav-link" href="#">Patient guide download</a>
                     </li>
                     <li class="dropdown nav-item">
                         <a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
@@ -66,7 +66,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://bone-health-dev.nagisystems.com/fultium-treatment-guide/">Healthcare Professionals</a>
+                        <a class="nav-link" href="/">Healthcare Professionals</a>
                     </li>
                 </ul>
             </div>

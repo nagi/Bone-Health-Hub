@@ -12,7 +12,7 @@
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
 					emailing thorntonross@medinformation.co.uk or by calling 01484 848164</p>
-				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation September 2023</p>
+				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation November 2023</p>
 			</div>
 		</div>
 	</div>

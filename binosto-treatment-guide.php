@@ -1,14 +1,15 @@
 <?php
 /**
  * Template Name: Binosto Treatment Guide
- * Description: Binosto product page.
+ * Description: Binosto patient page.
  *
  */
 
-get_header( 'binosto-guide' );
-
 $page_id                = get_option( 'page_for_posts' );
 $bone_health_job_number = "UK-BINO-37";
+$bone_health_product = "binosto";
+
+get_header( 'patient-guide' );
 ?>
 
     <!--=== Start Page Banner Area ===-->
