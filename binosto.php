@@ -37,13 +37,14 @@ $bone_health_job_number = "UK-MULT-130c(1)";
         <div class="row align-items-center">
             <div class="col-xxl-6" data-cues="slideInLeft">
                 <div class="webinar-platform-img">
-                    <img src="<?php echo img_dir (); ?>img-11.png" alt="img-9">
+                    <img src="<?php echo img_dir (); ?>img-13.png" alt="img-9">
                 </div>
             </div>
             <div class="col-xxl-6 pt-xxl-5" data-cues="slideInLeft">
                 <div class="webinar-platform-content style-two mw-100">
                     <h2 class="c-black pt-xl-5">Binosto</h2>
-                    <h4>An effervescent alendronate formulation, with a 36% list price reduction to support the NHS<sup>1,2*</sup></h4>
+                    <h4>Binosto is a buffered, soluble, effervescent alendronate tablet formulation that addresses 
+                        the challenges of gastrointestinal (GI) tolerability and patient adherence to bisphosphonates<sup>1,2*</sup></h4>
                     <p>
                         While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
                          crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup>
@@ -51,7 +52,9 @@ $bone_health_job_number = "UK-MULT-130c(1)";
                     <p>
                         Binosto is indicated for the treatment of postmenopausal osteoporosis. It reduces the risk of vertebral and hip fractures.
                     </p>
-
+                    <p>
+                        Additionally, Binosto benefited from a 36% list price reduction to support the NHS1,2*
+                    </p>
                     <a href="<?php echo docs_dir() ?>Binosto-prescribing-information.pdf" target="_blank">Binosto Prescribing Information</a>
                     <p class="sale pt-3">* Price reduction live from July 2021. Available at: amims.co.uk/drugs/endocrine/<br>osteoporosis-other-bone-disorders/binosto Accessed September 2023.
                     </p>

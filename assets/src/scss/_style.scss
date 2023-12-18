@@ -841,9 +841,8 @@ Platform Style
 	}
 
 	p {
-		max-width: 575px;
-
 		margin-bottom: 45px;
+		max-width: 80%;
 		&.caution {
 			font-size: 18px;
 			max-width: none;
@@ -968,6 +967,7 @@ Information Style
 		border: 1px solid $body-color;
 		padding: 14px;
 		margin-bottom: 20px;
+		line-height: 22px !important;
 	}
 
 	.dis-three {

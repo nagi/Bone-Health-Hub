@@ -44,9 +44,9 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 						30–40% of the UK population have vitamin D levels that fall below those recommended, and 2-13% in the summer.<sup>2<sup>
 					</p>
 					<p>
-						Fultium is indicated for the Prevention and treatment of vitamin D deficiency in adults and children,
-						 and as an adjunct to specific therapy for osteoporosis in patients with vitamin D deficiency or at
-						 risk of vitamin D insufficiency.
+						Fultium-D<sub>3</sub> is indicated for the prevention and treatment of vitamin D deficiency in adults and
+						children, and as an adjunct to specific therapy for osteoporosis in patients with vitamin D deficiency or
+						at risk of vitamin D insufficiency.<sup>3-6</sup>
 					</p>
 					<p>
 						<a href="<?php echo docs_dir() ?>Fultium-D3-prescribing-information.pdf" target="_blank">Fultium Prescribing Information</a>
@@ -74,7 +74,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 					</div>
 				</div>
 				<div class="col-xxl-6" data-cues="slideInRight">
-					<div class="webinar-platform-content style-three">
+					<div class="webinar-platform-content style-three mt-5">
 						<div class="title">
                             <p class="semibold">
                                 Prescribe Fultium-D3 by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup><small>3-6</small></sup>

@@ -53,7 +53,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                 </div>
             </div>
             <div class="col-xxl-6" data-cues="slideInRight">
-                <div class="webinar-platform-img">
+                <div class="webinar-platform-img mt-3">
                     <img src="<?php echo img_dir (); ?>/img-9.png" alt="img-9">
                 </div>
             </div>
@@ -73,7 +73,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                     </div>
                 </div>
                 <div class="col-xxl-6" data-cues="slideInRight">
-                    <div class="webinar-platform-content style-three">
+                    <div class="webinar-platform-content style-three mt-5 ">
                         <div class="title">
                             <p class="semibold pb-1 mb-0">Respecting patient preference is an important way to support treatment persistence.<sup>5</sup></p>
                             <p class="semibold"> With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
