@@ -748,7 +748,7 @@ get_header( 'patient-guide' );
                             </p>
                         </div>
                         <div class="button-wrap">
-                            <a href="https://theros.org.uk/risk-checker/">Click Here</a>
+                            <a class="outbound" href="https://theros.org.uk/risk-checker/">Click Here</a>
                         </div>
                     </div>
                 </div>

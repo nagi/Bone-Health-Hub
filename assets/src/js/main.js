@@ -13,8 +13,11 @@ class App {
 		function initGateKeeper() {
 			return new GateKeeper();
 		}
-		new OutboundLinks;
+		function initOutboundLinks() {
+			return new OutboundLinks();
+		}
 		initGateKeeper();
+		initOutboundLinks();
 		const generalScripts = new General();
 	}
 }

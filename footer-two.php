@@ -66,6 +66,7 @@
 
 	<!--=== Start Modals ===-->
 <?php get_template_part('partials/gate-keeper-modal-patient'); ?>
+<?php get_template_part('partials/outbound-warning-modal'); ?>
 <?php get_template_part('partials/crm-modal'); ?>
 	<!--=== End Modals ===-->
 

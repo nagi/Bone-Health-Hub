@@ -57,14 +57,7 @@
 								<a href="https://www.thorntonross.com/privacy-policy" target="_blank">Privacy Policy</a>
 							</li>
 							<li>
-								<a
-								class="outbound"
-								target="_blank"
-								href="https://www.linkedin.com/company/thornton-&-ross/"
-								data-id="#linkedIn"
-								data-toggle="modal"
-								data-big-text="This link is being provided strictly for you to read the privacy policy; it does not constitute an endorsement or promotion of any products."
-								data-target="#outbound-warning">OUTBOUND LinkedIn</a>
+								<a href="https://www.linkedin.com/company/thornton-&-ross/" target="_blank">LinkedIn</a>
 							</li>
 							<li>
 								<a href="https://www.thorntonross.com/data-protection-notice" target="_blank">Data Protection Notice</a>
