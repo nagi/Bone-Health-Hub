@@ -209,15 +209,15 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                             <li>NHS List Price, Drug Tariff February 2023</li>
                             <li>Cutler RL <i>et al</i>. BMJ Open 2018; 8(1): e016982.</li>
 							<li>Shariff Z <i>et al</i>. Pharmaceutics 2020; 12(10): 905.</li>
-							<li>Martin LR <i>et al</i>. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
 							<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2766. Accessed: September 2023.</li>
 						</ol>
 					</div>
 				</div>
 				<div class="col-lg-6">
 					<div class="references-content">
-						<ol class="references-list" start="7">
+						<ol class="references-list" start="6">
                             <li>Accrete D<sub>3</sub> One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/8506. Accessed: September 2023.</li>
+							<li>Martin LR <i>et al</i>. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
                             <li>HSCIC IQVIA RXA Unit Sales ending December 2022.</li>
                             <li>Adcal-D<sub>3</sub>® Chewable Tablets. Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/1356/smpc. Accessed: September 2023.</li>
 
