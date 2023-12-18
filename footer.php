@@ -1,4 +1,5 @@
 	<?php
+	global $bone_health_preperation_date;
 	global $bone_health_job_number;
 	?>
 
@@ -12,7 +13,7 @@
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
 					emailing thorntonross@medinformation.co.uk or by calling 01484 848164</p>
-				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation December 2023</p>
+				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation <?php echo $bone_health_preperation_date ?></p>
 			</div>
 		</div>
 	</div>
@@ -81,7 +82,7 @@
 		<div class="container">
 			<p>Thornton & Ross is a member of the STADA Group <span class="ms-sm-5"> © Copyright Thornton & Ross 2023</span></p>
 		</div>
-		<div class="container">
+		<!-- <div class="container">
 			<div class="dropdown">
 				<button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
 					Patient Guides
@@ -92,7 +93,7 @@
 					<li><a class="dropdown-item" style="text-align:center;" href="/binosto-treatment-guide/">Binosto</a></li>
 				</ul>
 			</div>
-		</div>
+		</div> -->
 	</div>
 	<!--=== End Copyright Area ===-->
 

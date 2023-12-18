@@ -9,6 +9,8 @@
 	<?php
 	wp_head();
 	global $bone_health_job_number;
+	global $bone_health_preperation_date;
+	$bone_health_preperation_date = "November 2023";
 	$bone_health_job_number = "UK-MULT-130(1)";
 	?>
 </head>

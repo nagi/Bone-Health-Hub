@@ -8,7 +8,8 @@
 get_header();
 
 $page_id = get_option( 'page_for_posts' );
-$bone_health_job_number = "UK-MULT-130a(1)";
+$bone_health_job_number = "UK-MULT-130a(2)";
+$bone_health_preperation_date = "December 2023";
 ?>
 
 <!--=== Start Page Banner Area ===-->
@@ -41,13 +42,13 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                     <h4>The least expensive calcium + vitamin D<sub>3</sub> brand offering a choice of swallowable 
                         and chewable tablets<sup>1,2</sup></h4>
                     <p>Non-adherence to osteoporosis therapy places a huge burden on healthcare systems; 
-                        the cost/patient is 6x higher than with diabetes medication.<sup>3</sup> Flavour, texture, 
+                        the cost/patient is six times higher than with diabetes medication.<sup>3</sup> Flavour, texture, 
                         and pill burden can impact on adherence.<sup>4</sup>
                     </p>
                     <p>
-                        Accrete is Indicated for the Prevention and treatment of vitamin D and calcium deficiency in 
-                        the elderly. Adjunct to specific osteoporosis treatment of patients at risk of vitamin D and 
-                        calcium deficiency.
+                        Accrete is Indicated for the prevention and treatment of vitamin D and calcium deficiency in 
+                        the elderly. Adjunct to specific osteoporosis treatment for patients at risk of vitamin D and 
+                        calcium deficiency.<sup>5,6</sup>
                     </p>
                     <a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
                 </div>
@@ -75,7 +76,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                 <div class="col-xxl-6" data-cues="slideInRight">
                     <div class="webinar-platform-content style-three mt-5 ">
                         <div class="title">
-                            <p class="semibold pb-1 mb-0">Respecting patient preference is an important way to support treatment persistence.<sup>5</sup></p>
+                            <p class="semibold pb-1 mb-0">Respecting patient preference is an important way to support treatment persistence.<sup>7</sup></p>
                             <p class="semibold"> With Accrete-D<sub>3</sub>, patients at risk of calcium and vitamin D<sub>3</sub> deficiency have a choice:</p>
                         </div>
                         <div class="icon-list align-items-center">
@@ -110,7 +111,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                         </div>
                         <div class="icon-list align-items-center">
                             <div class="icon">
-                                <img src="<?php echo img_dir (); ?>c-thumb-8.png" alt="thumb">
+                                <img id="price-tag" src="<?php echo img_dir (); ?>c-thumb-33.png" alt="thumb">
                             </div>
                             <div class="text">
                                 <p>
@@ -205,21 +206,24 @@ $bone_health_job_number = "UK-MULT-130a(1)";
 				<div class="col-lg-6">
 					<div class="references-content">
 						<ol class="references-list">
-                            <li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: September 2023.</li>
+                            <li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: December 2023.</li>
                             <li>NHS List Price, Drug Tariff February 2023</li>
                             <li>Cutler RL <i>et al</i>. BMJ Open 2018; 8(1): e016982.</li>
 							<li>Shariff Z <i>et al</i>. Pharmaceutics 2020; 12(10): 905.</li>
-							<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2766. Accessed: September 2023.</li>
+							<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics:
+                                https://www.medicines.org.uk/emc/product/2766. Accessed: November 2023.</li>
 						</ol>
 					</div>
 				</div>
 				<div class="col-lg-6">
 					<div class="references-content">
 						<ol class="references-list" start="6">
-                            <li>Accrete D<sub>3</sub> One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/8506. Accessed: September 2023.</li>
+                            <li>Accrete D<sub>3</sub> One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics:
+                            https://www.medicines.org.uk/emc/product/8506. Accessed: November 2023.</li>
 							<li>Martin LR <i>et al</i>. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
                             <li>HSCIC IQVIA RXA Unit Sales ending December 2022.</li>
-                            <li>Adcal-D<sub>3</sub>® Chewable Tablets. Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/1356/smpc. Accessed: September 2023.</li>
+                            <li>Adcal-D<sub>3</sub>® Chewable Tablets. Summary of Product Characteristics:
+                            https://www.medicines.org.uk/emc/product/1356/smpc. Accessed: November 2023.</li>
 
                             <li class="plain">
                                 Adcal-D<sub>3</sub>® is a registered trademark of Kyowa Kirin Services Ltd.

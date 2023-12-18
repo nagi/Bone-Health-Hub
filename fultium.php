@@ -8,7 +8,7 @@
 get_header();
 
 $page_id = get_option( 'page_for_posts' );
-$bone_health_job_number = "UK-MULT-130b(1)";
+$bone_health_job_number = "UK-MULT-130b(2)";
 ?>
 
 <!--=== Start Page Banner Area ===-->
@@ -77,7 +77,7 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 					<div class="webinar-platform-content style-three mt-5">
 						<div class="title">
                             <p class="semibold">
-                                Prescribe Fultium-D3 by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup><small>3-6</small></sup>
+                                Prescribe Fultium-D<sub>3</sub> by name for a simple approach to prevention and treatment of vitamin D deficiency:<sup><small>3-6</small></sup>
                             </p>
                         </div>
 						<div class="icon-list">
@@ -157,12 +157,12 @@ $bone_health_job_number = "UK-MULT-130b(1)";
 				<div class="col-lg-6">
 					<div class="references-content">
 						<ol class="references-list">
-							<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
+							<li>IQVIA. RXA Sales Dashboard – November 2023. Data on File, STADA UK, Thornton & Ross.</li>
 							<li>Calame W <i>et al</i>. Nutrients 2020; 12(6): 1868.</li>
-							<li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: September 2023.</li>
-							<li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/5355/smpc. Accessed: September 2023.</li>
-							<li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/3659/smpc. Accessed: September 2023.</li>
-							<li>Fultium-D<sub>3</sub> Drops Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/6861. Accessed: September 2023.</li>
+							<li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/5355/smpc. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/3659/smpc. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> Drops Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/6861. Accessed: November 2023.</li>
 							<li>Halal Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>
 							<li>Kosher Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>
 							<li>Wan M <i>et al</i>. Br J Clin Pharmacol 2021; 87(3): 1338-46.</li>

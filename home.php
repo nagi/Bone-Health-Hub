@@ -416,7 +416,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 							<ol class="references-list" start="8">
 								<li>Movymia Summary of Product Characteristics, January 2021: https://www.medicines.org.uk/emc/product/10780. Accessed: September 2023.</li>
 								<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
-								<li>360 days’ treatment & maintenance on Fultium-D3: 90x3200IU (£39.96) + 3x90x800IU (3x£8.85) = £39.96 + £26.55 = £66.51.
+								<li>360 days’ treatment & maintenance on Fultium-D<sub>3</sub>: 90x3200IU (£39.96) + 3x90x800IU (3x£8.85) = £39.96 + £26.55 = £66.51.
 									Source NHS DM+D, Accessed: September 2023. </li>
 								<li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: September 2023.</li>
 								<li>Minisola S <i>et al</i>. JBMR Plus 2021; 5(7): e10510.</li>
