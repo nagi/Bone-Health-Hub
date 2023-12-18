@@ -571,14 +571,14 @@ get_header( 'patient-guide' );
                             </div>
                         </div>
                     </div>
-                    <div class="faq-cta">
+                    <!-- <div class="faq-cta">
                         <div class="title">
                             Patient Guide Download
                         </div>
                         <div class="button-wrap">
                             <a href="#">Click Here</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

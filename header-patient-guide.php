@@ -43,9 +43,9 @@ global $bone_health_product;
 						'menu_id'        => 'menu-main'
 					) ); ?> -->
 
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="#">Patient guide download</a>
-                    </li>
+                    </li> -->
                     <li class="dropdown nav-item">
                         <a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
                            id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
