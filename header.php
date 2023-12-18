@@ -57,7 +57,7 @@
                         </a>
 
                         <ul class="resources dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="/binosto-treatment-guide/" target="_blank">Bone Health Algorithm</a></li>
+                            <li><a class="dropdown-item" href="https://bonehealth.rxdetail.io/" target="_blank">Bone Health Algorithm</a></li>
                             <li><a class="dropdown-item border-0" href="https://www.stadahcp.co.uk/webinars?topic=Bone%20Health"  target="_blank">Webinar Platform</a></li>
                         </ul>
                     </li>
