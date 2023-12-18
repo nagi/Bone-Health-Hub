@@ -132,7 +132,7 @@ $bone_health_job_number = "UK-MULT-130a(1)";
                             During pregnancy, daily dose should not exceed 1500 mg calcium and 600 IU vitamin D. See SMPC for more information.
                         </p>
                         <p class="smallprint">
-                            Savings of up to 24% with Accrete-D3 One a Day (1000mg/880IU) chewable tablets at £2.95 for 30 tablets vs Adcal-D3 (600mg/400IU)
+                            Savings of up to 24% with Accrete-D<sub>3</sub> One a Day (1000mg/880IU) chewable tablets at £2.95 for 30 tablets vs Adcal-D3 (600mg/400IU)
                             twice daily chewable tablets at £3.91, this is an equivalent cost for 30 days treatment. Adcal-D3 (600mg/400IU) twice daily chewable 
                             tablets are listed at £3.65 for 56 tablets
                         </p>

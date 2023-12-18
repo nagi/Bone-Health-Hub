@@ -659,7 +659,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Will I have any side effects with Accrete-D3?
+                                Will I have any side effects with Accrete-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32" transform="translate(0 44) rotate(-90)">
@@ -676,9 +676,9 @@ get_header( 'patient-guide' );
                                     chance of these effects if you take your medicine exactly as instructed.
                                 </p>
                                 <p>
-                                    If you notice anything different when you start to take Accrete-D3, like feeling
+                                    If you notice anything different when you start to take Accrete-D<sub>3</sub>, like feeling
                                     sick or constipated, or if you suffer an allergic reaction (such as itching,
-                                    wheezing, swelling of the tongue or throat or a skin rash) stop taking Accrete-D3
+                                    wheezing, swelling of the tongue or throat or a skin rash) stop taking Accrete-D<sub>3</sub>
                                     immediately and see your healthcare professional.<sup>16,17</sup> They may ask you to come in
                                     for regular check-ups to make sure that you are getting the right amount of
                                     medicine. This is normal for people who are taking calcium and vitamin D.

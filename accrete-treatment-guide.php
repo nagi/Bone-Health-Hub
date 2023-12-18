@@ -53,9 +53,9 @@ get_header( 'patient-guide' );
                 <div class="col-xl-6">
                     <div class="feature-content">
                         <div class="title">
-                            <h4>You have been prescribed Accrete-D3.</h4>
+                            <h4>You have been prescribed Accrete-D<sub>3</sub>.</h4>
                             <h4>
-                                This treatment guide explains what Accrete-D3 is, why you have
+                                This treatment guide explains what Accrete-D<sub>3</sub> is, why you have
                                 been prescribed it, and how to take it to treat your condition.
                             </h4>
                         </div>
@@ -71,7 +71,7 @@ get_header( 'patient-guide' );
                             </p>
                             <p>
                                 Please also be sure to read the patient information leaflet that comes in your
-                                Accrete-D3 pack for full details on how to take your treatment.
+                                Accrete-D<sub>3</sub> pack for full details on how to take your treatment.
                             </p>
                         </div>
                     </div>
@@ -87,7 +87,7 @@ get_header( 'patient-guide' );
                     <div class="faq-section faq-section-2">
                         <div class="faq-item">
                             <div class="faq-head">
-                                What is Accrete-D3?
+                                What is Accrete-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -104,7 +104,7 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Accrete-D3 is used to prevent and treat calcium and vitamin D deficiency in the
+                                    Accrete-D<sub>3</sub> is used to prevent and treat calcium and vitamin D deficiency in the
                                     elderly. It is also prescribed in addition to specific osteoporosis treatment for
                                     people at high risk of vitamin D and calcium deficiency.<sup>1,2</sup> Together, calcium and
                                     vitamin D are important for keeping bones strong and helping to prevent
@@ -217,7 +217,7 @@ get_header( 'patient-guide' );
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                Why have I been prescribed Accrete-D3?
+                                Why have I been prescribed Accrete-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -253,14 +253,14 @@ get_header( 'patient-guide' );
                                 <p>
                                     If you have low amounts of calcium and vitamin D in your body, or if you have broken
                                     a bone after a fall,
-                                    you might have osteoporosis or be at risk of fractures in the future. Accrete-D3 can
+                                    you might have osteoporosis or be at risk of fractures in the future. Accrete-D<sub>3</sub> can
                                     help your body to maintain healthy levels of both calcium and vitamin D.<sup>1</sup>
                                 </p>
                             </div>
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                How do I take Accrete-D3?
+                                How do I take Accrete-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -277,7 +277,7 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Accrete-D3 comes as either a film-coated tablet or a chewable tablet.<sup>1,2</sup>
+                                    Accrete-D<sub>3</sub> comes as either a film-coated tablet or a chewable tablet.<sup>1,2</sup>
                                 </p>
                                 <p class="d-flex">
                                     <span class="faq-body-thumb">
@@ -306,7 +306,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Can I take Accrete-D3 if I am vegetarian/vegan?
+                                Can I take Accrete-D<sub>3</sub> if I am vegetarian/vegan?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -342,7 +342,7 @@ get_header( 'patient-guide' );
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                Is Accrete-D3 okay for people with allergies/food sensitivities?
+                                Is Accrete-D<sub>3</sub> okay for people with allergies/food sensitivities?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -413,7 +413,7 @@ get_header( 'patient-guide' );
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                What should I do if I forget to take Accrete-D3?
+                                What should I do if I forget to take Accrete-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -457,7 +457,7 @@ get_header( 'patient-guide' );
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                What should I do if I take more Accrete-D3 than I should?
+                                What should I do if I take more Accrete-D<sub>3</sub> than I should?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -501,7 +501,7 @@ get_header( 'patient-guide' );
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                How do I know if Accrete-D3 is working?
+                                How do I know if Accrete-D<sub>3</sub> is working?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -519,7 +519,7 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     As calcium and vitamin D deficiency and osteoporosis are “silent” conditions that
-                                    you can’t feel, you won’t be able to sense Accrete-D3 working inside you. As such
+                                    you can’t feel, you won’t be able to sense Accrete-D<sub>3</sub> working inside you. As such
                                     it’s essential to take your medication exactly as your doctor recommends, otherwise
                                     it is likely your bones will get weaker over time increasing your risk of breaking a
                                     bone.<sup>18</sup>
@@ -528,7 +528,7 @@ get_header( 'patient-guide' );
                         </div>
                         <div class="faq-item">
                             <div class="faq-head">
-                                Will I have any side effects with Accrete-D3?
+                                Will I have any side effects with Accrete-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -550,9 +550,9 @@ get_header( 'patient-guide' );
                                     chance of these effects if you take your medicine exactly as instructed.
                                 </p>
                                 <p>
-                                    If you notice anything different when you start to take Accrete-D3, like feeling
+                                    If you notice anything different when you start to take Accrete-D<sub>3</sub>, like feeling
                                     sick or constipated, or if you suffer an allergic reaction (such as itching,
-                                    wheezing, swelling of the tongue or throat or a skin rash) stop taking Accrete-D3
+                                    wheezing, swelling of the tongue or throat or a skin rash) stop taking Accrete-D<sub>3</sub>
                                     immediately and see your healthcare professional.<sup>16,17</sup> They may ask you to come in
                                     for regular check-ups to make sure that you are getting the right amount of
                                     medicine. This is normal for people who are taking calcium and vitamin D.
