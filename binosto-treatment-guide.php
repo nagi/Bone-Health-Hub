@@ -22,7 +22,7 @@ get_header( 'patient-guide' );
                         <h3>Alendroni Acid</h3>
                     </div>
                     <div class="d-flex justify-content-end">
-                        <img src="<?php echo img_dir(); ?>binosto-gide-logo.png" alt="binosto">
+                        <img src="<?php echo img_dir(); ?>binosto-tagline.png" alt="binosto">
                     </div>
                 </div>
             </div>
@@ -91,7 +91,7 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Binosto is an established treatment to treat women who have osteoporosis after the
-                                    menopause to protect them from hip and spine fractures.1
+                                    menopause to protect them from hip and spine fractures.<sup>1</sup>
                                 </p>
                             </div>
                         </div>
@@ -115,24 +115,24 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Osteoporosis is a condition where bones become weak and fragile, making them break
-                                    more easily.1
+                                    more easily.<sup>1</sup>
                                 </p>
                                 <p>
                                     Bone is living tissue that is constantly being broken down and replaced.
                                     Osteoporosis occurs when the creation of new bone doesn’t keep up with the loss of
-                                    your old bone.2,3
+                                    your old bone.<sup>2,3</sup>
                                 </p>
                                 <p>
                                     Imagine inside your bones is like a honeycomb. With osteoporosis, the holes in the
-                                    honeycomb gradually become larger, making your bones become weaker over time.3
+                                    honeycomb gradually become larger, making your bones become weaker over time.<sup>3</sup>
                                 </p>
                                 <p>
                                     Most people don’t know they have osteoporosis until it causes them to break a bone.
-                                    That’s why it is called a “silent disease”.3
+                                    That’s why it is called a “silent disease”.<sup>3</sup>
                                 </p>
                                 <p>
                                     Although fractures can occur in different parts of the body, the hip, wrist and
-                                    spine are the most commonly affected sites.4
+                                    spine are the most commonly affected sites.<sup>4</sup>
                                 </p>
                             </div>
                         </div>
@@ -156,9 +156,9 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Women are at a higher risk for osteoporosis after the menopause because they have
-                                    lower levels of oestrogen, a hormone that helps your bones to stay strong.4 As many
+                                    lower levels of oestrogen, a hormone that helps your bones to stay strong.<sup>4</sup> As many
                                     as 1 in 3 women over 50 will suffer a bone fracture due to osteoporosis, so it is
-                                    fairly common.5
+                                    fairly common.<sup>5</sup>
                                 </p>
                             </div>
                         </div>
@@ -183,19 +183,19 @@ get_header( 'patient-guide' );
                                 <p>
                                     With enough force, anyone can break a bone. When you have osteoporosis, however,
                                     just a simple fall can result in a broken bone.6 While the hip, wrist and spine are
-                                    the most affected sites, fractures can occur in other parts of the body.4
+                                    the most affected sites, fractures can occur in other parts of the body.<sup>4</sup>
                                 </p>
                                 <p>
-                                    Spine fractures from osteoporosis typically happen in the lower or middle back.7
+                                    Spine fractures from osteoporosis typically happen in the lower or middle back.<sup>7</sup>
                                 </p>
                                 <p>
                                     Hip fractures are most common in people in their late 70s, but they can occur in
-                                    younger people too.8
+                                    younger people too.<sup>8</sup>
                                 </p>
                                 <p>
                                     By taking Binosto in the way your doctor has instructed you to, you can increase
                                     your bone density and so reduce your risk of suffering a hip or spine fracture in
-                                    the future.9,10
+                                    the future.<sup>9,10</sup>
                                 </p>
                             </div>
                         </div>
@@ -221,7 +221,7 @@ get_header( 'patient-guide' );
                                     As you age, your bone density tends to decrease because your body breaks down bone
                                     faster than it forms new bone. Binosto contains alendronate, which belongs to a
                                     group of medicines called bisphosphonates. They work by slowing down bone removal,
-                                    so that bone-forming cells have time to rebuild new bone.9 This helps strengthen
+                                    so that bone-forming cells have time to rebuild new bone.<sup>9</sup> This helps strengthen
                                     your bones and prevent future bone fractures.
                                 </p>
                             </div>
@@ -246,27 +246,27 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Binosto is a once-weekly effervescent tablet that you dissolve in water before
-                                    taking.10
+                                    taking.<sup>10</sup>
                                 </p>
                                 <p>
                                     When you get up in the morning on your chosen day, before you have anything to eat
                                     or drink dissolve one tablet in 120 ml of plain water. If need be, give it a stir to
-                                    make sure the tablet is completely dissolved.10
+                                    make sure the tablet is completely dissolved.<sup>10</sup>
                                 </p>
                                 <p>
                                     Drink all the Binosto mixture in one sitting, followed by at least 30 ml of plain
                                     water (you can drink more plain tap water if you’d like). Then wait at least 30
                                     minutes before having your first food or drink of the day and before taking other
                                     medication since other things in your stomach can stop Binosto from working
-                                    properly.9,10
+                                    properly.<sup>9,10</sup>
                                 </p>
                                 <p>
                                     For that half hour, it’s also important that you don’t lie down - you need to sit or
-                                    stand upright (or walk around) for the 30 minutes after you take Binosto.10
+                                    stand upright (or walk around) for the 30 minutes after you take Binosto.<sup>10</sup>
                                 </p>
                                 <p>
                                     This will help the medicine reach your stomach and reduce the risk of unpleasant
-                                    side effects or interactions with food or other medicines..11
+                                    side effects or interactions with food or other medicines.<sup>11</sup>
                                 </p>
                             </div>
                         </div>
@@ -291,12 +291,12 @@ get_header( 'patient-guide' );
                                 <p>
                                     Some people have problems swallowing tablets. If an alendronate tablet gets stuck on
                                     the way down, it can irritate or injure your oesophagus (the tube that connects your
-                                    throat to stomach).11 Because Binosto is dissolved in water, you can avoid the
-                                    problem of alendronate lodging in your oesophagus.11
+                                    throat to stomach).<sup>11</sup> Because Binosto is dissolved in water, you can avoid the
+                                    problem of alendronate lodging in your oesophagus.<sup>11</sup>
                                 </p>
                                 <p>
                                     Since you need to take Binosto on an empty stomach (see the next question), you
-                                    should not mix Binosto into any other drinks apart from plain water.10
+                                    should not mix Binosto into any other drinks apart from plain water.<sup>10</sup>
                                 </p>
                             </div>
                         </div>
@@ -319,9 +319,9 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Alendronate is not an easy medicine for your body to absorb.9 If you have food or
+                                    Alendronate is not an easy medicine for your body to absorb.<sup>9</sup> If you have food or
                                     drink other than plain water before taking alendronate, it can bind to the medicine
-                                    preventing it from getting to work for your bones.9 An empty stomach means that you
+                                    preventing it from getting to work for your bones.<sup>9</sup> An empty stomach means that you
                                     absorb as much of the drug as possible.
                                 </p>
                             </div>
@@ -347,7 +347,7 @@ get_header( 'patient-guide' );
                                 <p>
                                     Bisphosphonates can be irritating to the oesophagus and stomach because they are
                                     quite acidic. However, Binosto has a substance called a buffer added to make it less
-                                    acidic.11 The buffer doesn’t change the medicine’s main effects, it just makes it
+                                    acidic.<sup>11</sup> The buffer doesn’t change the medicine’s main effects, it just makes it
                                     less likely to cause irritation when you take it.
                                 </p>
                             </div>
@@ -440,7 +440,7 @@ get_header( 'patient-guide' );
                                 <p>
                                     If you miss a dose, don’t worry. Just take Binosto as you normally would on the
                                     morning after you remember. You can then return to taking Binosto on your original
-                                    chosen day. Do not take two tablets together.10
+                                    chosen day. Do not take two tablets together.<sup>10</sup>
                                 </p>
                             </div>
                         </div>
@@ -465,7 +465,7 @@ get_header( 'patient-guide' );
                                 <p>
                                     If you take too many Binosto tablets by mistake, drink a full glass of milk and
                                     contact your doctor as soon as possible. Do not make yourself sick, and do not lie
-                                    down.10
+                                    down.<sup>10</sup>
                                 </p>
                             </div>
                         </div>
@@ -492,7 +492,7 @@ get_header( 'patient-guide' );
                                     sense Binosto working inside you. But it’s essential to take the medicine exactly as
                                     your doctor recommends. There is a lot of evidence to show that if you do not take
                                     treatments like Binosto as instructed, your risk of suffering a fracture will
-                                    significantly increase.12 Over time, bone scans will show you the difference Binosto
+                                    significantly increase.<sup>12</sup> Over time, bone scans will show you the difference Binosto
                                     is making to the strength of your bones.
                                 </p>
                             </div>
@@ -524,7 +524,7 @@ get_header( 'patient-guide' );
                                     The main side effects of Binosto affect the digestive system, so you might
                                     experience stomach pain, wind or indigestion, acid reflux, or nausea. If you do
                                     notice any of these side effects, get in touch with your doctor or pharmacist for
-                                    their advice.10
+                                    their advice.<sup>10</sup>
                                 </p>
                                 <p>
                                     Be sure to read the Patient Information Leaflet that comes with your medication for

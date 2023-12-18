@@ -22,7 +22,7 @@ get_header( 'patient-guide' );
                         <h3>Calcium / Colecalciferol</h3>
                     </div>
                     <div class="d-flex justify-content-end">
-                        <img src="<?php echo img_dir(); ?>accrete-logo.png" alt="accrete">
+                        <img src="<?php echo img_dir(); ?>accrete-tagline.png" alt="accrete">
                     </div>
                 </div>
             </div>
@@ -106,9 +106,9 @@ get_header( 'patient-guide' );
                                 <p>
                                     Accrete-D3 is used to prevent and treat calcium and vitamin D deficiency in the
                                     elderly. It is also prescribed in addition to specific osteoporosis treatment for
-                                    people at high risk of vitamin D and calcium deficiency.1,2 Together, calcium and
+                                    people at high risk of vitamin D and calcium deficiency.<sup>1,2</sup> Together, calcium and
                                     vitamin D are important for keeping bones strong and helping to prevent
-                                    osteoporosis.3-5
+                                    osteoporosis.<sup>3-5</sup>
                                 </p>
                             </div>
                         </div>
@@ -133,7 +133,7 @@ get_header( 'patient-guide' );
                                 <p>
                                     If your body doesn’t have enough calcium and vitamin D, it is called a deficiency.
                                     When you are deficient, you may be at risk of breaking a bone and you may have
-                                    osteoporosis, or be at risk of developing this condition in the future.4,5
+                                    osteoporosis, or be at risk of developing this condition in the future.<sup>4,5</sup>
                                 </p>
                             </div>
                         </div>
@@ -157,24 +157,24 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     Osteoporosis is a condition where bones become weak and fragile, making them break
-                                    more easily.5
+                                    more easily.<sup>5</sup>
                                 </p>
                                 <p>
                                     Bone is living tissue that is constantly being broken down and replaced.
                                     Osteoporosis occurs when the creation of new bone doesn’t keep up with the loss of
-                                    your old bone.6,7
+                                    your old bone.<sup>6,7</sup>
                                 </p>
                                 <p>
                                     Imagine inside your bones is like a honeycomb. With osteoporosis, the holes in the
-                                    honeycomb gradually become larger, making your bones become weaker over time.7
+                                    honeycomb gradually become larger, making your bones become weaker over time.<sup>7</sup>
                                 </p>
                                 <p>
                                     Most people don’t know they have osteoporosis until it causes them to break a bone.
-                                    That’s why it is called a “silent disease”.7
+                                    That’s why it is called a “silent disease”.<sup>7</sup>
                                 </p>
                                 <p>
                                     Although fractures can occur in different parts of the body, the hip, wrist and
-                                    spine are the most commonly affected sites.8
+                                    spine are the most commonly affected sites.<sup>8</sup>
                                 </p>
                             </div>
                         </div>
@@ -199,19 +199,19 @@ get_header( 'patient-guide' );
                                 <p>
                                     With enough force, anyone can break a bone. When you have osteoporosis, however,
                                     just a simple fall can result in a broken bone.9 While the hip, wrist and spine are
-                                    the most affected sites, fractures can occur in other parts of the body.8
+                                    the most affected sites, fractures can occur in other parts of the body.<sup>8</sup>
                                 </p>
                                 <p>
-                                    Spine fractures from osteoporosis typically happen in the lower or middle back.10
+                                    Spine fractures from osteoporosis typically happen in the lower or middle back.<sup>10</sup>
                                 </p>
                                 <p>
                                     Hip fractures are most common in people in their late 70s, but they can occur in
-                                    younger people too.11
+                                    younger people too.<sup>11</sup>
                                 </p>
                                 <p>
                                     By taking your daily vitamin D and calcium treatment in the way your doctor has
                                     instructed you to, you can reduce the risk of suffering a hip fracture in the
-                                    future.12
+                                    future.<sup>12</sup>
                                 </p>
                             </div>
                         </div>
@@ -234,27 +234,27 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Most of the calcium in your body is in your bones.3 Your body doesn’t make this
-                                    calcium. Instead, it comes from the food you eat, especially dairy products.1 As
-                                    well as building bones, calcium also helps your muscles and heart to work properly.3
+                                    Most of the calcium in your body is in your bones.<sup>3</sup> Your body doesn’t make this
+                                    calcium. Instead, it comes from the food you eat, especially dairy products.<sup>1</sup> As
+                                    well as building bones, calcium also helps your muscles and heart to work properly.<sup>3</sup>
                                     If you do not have enough calcium in your diet, your body takes what it needs from
-                                    your bones.3 Over time, this can make your bones weaker.
+                                    your bones.<sup>3</sup> Over time, this can make your bones weaker.
                                 </p>
                                 <p>
                                     Unlike calcium, very few foods naturally contain vitamin D. Instead, your body makes
-                                    its own when your skin is exposed to sun.13 Vitamin D not only aids in calcium
+                                    its own when your skin is exposed to sun.<sup>13</sup> Vitamin D not only aids in calcium
                                     absorption to keep your bones healthy but also strengthens your muscles, which can
-                                    improve your balance and lower the chance of falls and broken bones.13 How much
+                                    improve your balance and lower the chance of falls and broken bones.<sup>13</sup> How much
                                     vitamin D your skin makes depends on things like how much time you spend outside,
-                                    what time of year it is and whether you are wearing sunscreen.14 As we age, our skin
+                                    what time of year it is and whether you are wearing sunscreen.<sup>14</sup> As we age, our skin
                                     loses its ability to generate vitamin D so many older people will not make enough
-                                    for their bodies’ needs.15
+                                    for their bodies’ needs.<sup>15</sup>
                                 </p>
                                 <p>
                                     If you have low amounts of calcium and vitamin D in your body, or if you have broken
                                     a bone after a fall,
                                     you might have osteoporosis or be at risk of fractures in the future. Accrete-D3 can
-                                    help your body to maintain healthy levels of both calcium and vitamin D.1
+                                    help your body to maintain healthy levels of both calcium and vitamin D.<sup>1</sup>
                                 </p>
                             </div>
                         </div>
@@ -277,7 +277,7 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Accrete-D3 comes as either a film-coated tablet or a chewable tablet.1,2
+                                    Accrete-D3 comes as either a film-coated tablet or a chewable tablet.<sup>1,2</sup>
                                 </p>
                                 <p class="d-flex">
                                     <span class="faq-body-thumb">
@@ -285,21 +285,21 @@ get_header( 'patient-guide' );
                                     </span>
                                     Film-coated tablets: You take these twice a day (one in the morning and one in the
                                     evening) within one and a half hours of a meal with a glass of water or juice
-                                    without chewing the tablet.1
+                                    without chewing the tablet.<sup>1</sup>
                                 </p>
                                 <p class="d-flex">
                                     <span class="faq-body-thumb">
                                         <img src="<?php echo img_dir(); ?>/c-thumb-21.png" alt="shape-3">
                                     </span>
                                     Chewable tablets: You chew and swallow a single orange-flavoured tablet once a day
-                                    at any time with or without food.2
+                                    at any time with or without food.<sup>2</sup>
                                 </p>
                                 <p>
                                     Some foods can make it harder for your body to absorb calcium supplements. These
                                     include spinach, rhubarb and sorrel (which are all high in something called oxalic
                                     acid) and whole cereals (which contain phosphate and phytic acid). It’s best not to
                                     eat foods rich in oxalic acid, phosphate or phytic acid for two hours before or
-                                    after your medicine, as they can make it less effective.1,2
+                                    after your medicine, as they can make it less effective.<sup>1,2</sup>
                                 </p>
                             </div>
                         </div>
@@ -365,12 +365,12 @@ get_header( 'patient-guide' );
                                     <div class="text">
                                         <p>
                                             Film-coated tablets: If you’re allergic to peanuts or soya, you should not
-                                            take these tablets because they contain hydrogenated soya oil.16
+                                            take these tablets because they contain hydrogenated soya oil.<sup>16</sup>
                                         </p>
                                         <p>
                                             They also contain sucrose (a type of sugar); if your doctor has told you
                                             that you have trouble digesting some sugars, talk to them before starting
-                                            treatment.16
+                                            treatment.<sup>16</sup>
                                         </p>
                                         <p>
                                             Please check the Patient Information Leaflet for the full list of
@@ -386,22 +386,22 @@ get_header( 'patient-guide' );
                                         <p>
                                             Chewable tablets: These tablets contain sodium, aspartame, sorbitol,
                                             isomalt, sucrose and benzyl alcohol. (That said, the amount of sodium they
-                                            contain is very low, so they can be considered sodium-free).17
+                                            contain is very low, so they can be considered sodium-free).<sup>17</sup>
                                         </p>
                                         <p>
                                             Each chewable tablet also contains aspartame which is a source of
                                             phenylalanine. It may be harmful if you have phenylketonuria (PKU), a rare
-                                            genetic disorder.17
+                                            genetic disorder.<sup>17</sup>
                                         </p>
                                         <p>
                                             This medicine contains sorbitol (a source of fructose), isomalt and sucrose.
                                             If your doctor has told you that you have trouble digesting some sugars, or
                                             if you have been diagnosed with hereditary fructose intolerance (HFI), talk
-                                            to them before starting treatment.17
+                                            to them before starting treatment.<sup>17</sup>
                                         </p>
                                         <p>
                                             Chewable tablets also contain benzyl alcohol which may cause allergic
-                                            reactions.17
+                                            reactions.<sup>17</sup>
                                         </p>
                                         <p>
                                             Please check the Patient Information Leaflet for the full list of
@@ -436,7 +436,7 @@ get_header( 'patient-guide' );
                                     <div class="text">
                                         <p>
                                             Film-coated tablets: Do not take a double dose to make up for a forgotten
-                                            dose. Take your next tablet at the usual time.16
+                                            dose. Take your next tablet at the usual time.<sup>16</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -449,7 +449,7 @@ get_header( 'patient-guide' );
                                             Chewable tablets: If you forget to take your daily tablet, take it as soon
                                             as you remember unless it is time for your next dose. In that case just take
                                             the next dose at the usual time. Do not take a double dose to make up for a
-                                            forgotten dose.17
+                                            forgotten dose.<sup>17</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -481,7 +481,7 @@ get_header( 'patient-guide' );
                                         <p>
                                             Film-coated tablets: If you take more tablets than you should, seek
                                             immediate medical advice. Bring the tablets and their packaging with you to
-                                            show the doctor/pharmacist.16
+                                            show the doctor/pharmacist.<sup>16</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -493,7 +493,7 @@ get_header( 'patient-guide' );
                                         <p>
                                             Chewable tablets: If you take more tablets than you should, seek immediate
                                             medical advice. Bring the tablets and their packaging with you to show the
-                                            doctor/pharmacist.17
+                                            doctor/pharmacist.<sup>17</sup>
                                         </p>
                                     </div>
                                 </div>
@@ -522,7 +522,7 @@ get_header( 'patient-guide' );
                                     you can’t feel, you won’t be able to sense Accrete-D3 working inside you. As such
                                     it’s essential to take your medication exactly as your doctor recommends, otherwise
                                     it is likely your bones will get weaker over time increasing your risk of breaking a
-                                    bone.18
+                                    bone.<sup>18</sup>
                                 </p>
                             </div>
                         </div>
@@ -553,7 +553,7 @@ get_header( 'patient-guide' );
                                     If you notice anything different when you start to take Accrete-D3, like feeling
                                     sick or constipated, or if you suffer an allergic reaction (such as itching,
                                     wheezing, swelling of the tongue or throat or a skin rash) stop taking Accrete-D3
-                                    immediately and see your healthcare professional.16,17 They may ask you to come in
+                                    immediately and see your healthcare professional.<sup>16,17</sup> They may ask you to come in
                                     for regular check-ups to make sure that you are getting the right amount of
                                     medicine. This is normal for people who are taking calcium and vitamin D.
                                 </p>
@@ -564,8 +564,7 @@ get_header( 'patient-guide' );
                                 <p>
                                     If you experience any side effects, talk to your Healthcare Professional. This
                                     includes any possible side effects not listed in the package leaflet. You can also
-                                    report side effects directly via the Yellow Card Scheme at
-                                    https://yellowcard.mhra.gov.uk.
+                                    report side effects directly via the Yellow Card Scheme at https://yellowcard.mhra.gov.uk.
                                 </p>
                             </div>
                         </div>

@@ -22,7 +22,7 @@ get_header( 'patient-guide' );
                         <h3>Colecalciferol</h3>
                     </div>
                     <div class="d-flex justify-content-end">
-                        <img src="<?php echo img_dir(); ?>fultium-logo.png" alt="accrete">
+                        <img src="<?php echo img_dir(); ?>fultium-tagline.png" alt="accrete">
                     </div>
                 </div>
             </div>
