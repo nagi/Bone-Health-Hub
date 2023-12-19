@@ -63,9 +63,9 @@ get_header( 'patient-guide' );
                 <div class="col-xl-6">
                     <div class="feature-content">
                         <div class="title">
-                            <h4>You (or your child) have been prescribed Fultium-D3.</h4>
+                            <h4>You (or your child) have been prescribed Fultium-D<sub>3</sub>.</h4>
                             <h4>
-                                This treatment guide explains what Fultium-D3 is,
+                                This treatment guide explains what Fultium-D<sub>3</sub> is,
                                 why you have been prescribed it, and how to take
                                 it to treat your condition.
                             </h4>
@@ -81,7 +81,7 @@ get_header( 'patient-guide' );
                                 Healthcare Professional tells you to do so.
                             </p>
                             <p>
-                                Please also be sure to read the patient information leaflet that comes in the Fultium-D3
+                                Please also be sure to read the patient information leaflet that comes in the Fultium-D<sub>3</sub>
                                 pack for full details on how to take the treatment.
                             </p>
                         </div>
@@ -98,7 +98,7 @@ get_header( 'patient-guide' );
                     <div class="faq-section faq-section-3">
                         <div class="faq-item">
                             <div class="faq-head">
-                                What is Fultium-D3?
+                                What is Fultium-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -115,13 +115,13 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Fultium-D3 is used to prevent and treat vitamin D deficiency (that’s when the body
+                                    Fultium-D<sub>3</sub> is used to prevent and treat vitamin D deficiency (that’s when the body
                                     does not have enough vitamin D). It is also prescribed in addition to specific
                                     osteoporosis treatment for people with vitamin D deficiency or at high risk of
                                     vitamin D insufficiency (a milder form of low vitamin D).<sup>1-4</sup>
                                 </p>
                                 <p>
-                                    Fultium-D3 is a medicine containing colecalciferol, another name for vitamin D3. As
+                                    Fultium-D<sub>3</sub> is a medicine containing colecalciferol, another name for vitamin D3. As
                                     well as promoting healthy functioning of our muscles and immune system, sufficient
                                     vitamin D plays a critical role in bone health at all stages of life by helping our
                                     body to absorb calcium and phosphate, which are vital for building and maintaining
@@ -271,7 +271,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Why has Fultium-D3 been prescribed?
+                                Why has Fultium-D<sub>3</sub> been prescribed?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -316,7 +316,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                How do you take Fultium-D3?
+                                How do you take Fultium-D<sub>3</sub>?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -333,7 +333,7 @@ get_header( 'patient-guide' );
                             </div>
                             <div class="faq-body">
                                 <p>
-                                    Fultium-D3 is available as drops or capsules in a range of doses to support
+                                    Fultium-D<sub>3</sub> is available as drops or capsules in a range of doses to support
                                     different patients’ needs.<sup>1-4</sup> So it is very important to follow your doctor’s
                                     instructions closely as they will know what dose is right for you or your child.
                                 </p>
@@ -390,10 +390,10 @@ get_header( 'patient-guide' );
                                     <div class="text">
                                         <p>
                                             20,000 IU (yellow-coloured) capsules: These can be used from 12 years
-                                            upwards (but unlike the other Fultium-D3 options, 20,000 IU capsules are not
+                                            upwards (but unlike the other Fultium-D<sub>3</sub> options, 20,000 IU capsules are not
                                             recommended if you are pregnant or breast feeding). Follow your doctor’s
                                             instructions very carefully regarding how frequently you take treatment (it
-                                            will be printed the label on your Fultium-D3 pack) as it will be different
+                                            will be printed the label on your Fultium-D<sub>3</sub> pack) as it will be different
                                             for different patients. If you are at all unsure, always check with your
                                             doctor or pharmacist. The capsule should be swallowed whole with water,
                                             preferably with the main meal of the day.<sup>4</sup>
@@ -405,7 +405,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Is Fultium-D3 suitable if you are vegetarian/vegan?
+                                Is Fultium-D<sub>3</sub> suitable if you are vegetarian/vegan?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -427,7 +427,7 @@ get_header( 'patient-guide' );
                                     </div>
                                     <div class="text">
                                         <p>
-                                            Drops: The vitamin D3 in Fultium-D3 comes from lanolin from the wool of
+                                            Drops: The vitamin D3 in Fultium-D<sub>3</sub> comes from lanolin from the wool of
                                             live, healthy sheep. So whether they’re okay for vegetarians depends on
                                             personal choice. Drops are not suitable for vegans because of this
                                             ingredient.
@@ -450,7 +450,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Is Fultium-D3 suitable for Kosher dietary requirements?
+                                Is Fultium-D<sub>3</sub> suitable for Kosher dietary requirements?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -481,7 +481,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Is Fultium-D3 suitable for Halal dietary requirements?
+                                Is Fultium-D<sub>3</sub> suitable for Halal dietary requirements?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -512,7 +512,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                Is Fultium-D3 okay for people with allergies/food sensitivities?
+                                Is Fultium-D<sub>3</sub> okay for people with allergies/food sensitivities?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -534,7 +534,7 @@ get_header( 'patient-guide' );
                                     </div>
                                     <div class="text">
                                         <p>
-                                            Drops and capsules: Fultium-D3 does not contain lactose, fructose, sucrose,
+                                            Drops and capsules: Fultium-D<sub>3</sub> does not contain lactose, fructose, sucrose,
                                             eggs, soya, gluten or nuts.<sup>1-4</sup>
                                             Please check the Patient Information Leaflet for the full list of
                                             ingredients.
@@ -546,7 +546,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                What should you do if you forget a Fultium-D3 dose?
+                                What should you do if you forget a Fultium-D<sub>3</sub> dose?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -568,7 +568,7 @@ get_header( 'patient-guide' );
                                     </div>
                                     <div class="text">
                                         <p>
-                                            Drops: If you forget Fultium-D3 drops, they should be taken as soon as you
+                                            Drops: If you forget Fultium-D<sub>3</sub> drops, they should be taken as soon as you
                                             remember. Do not take or give a double dose to make up for a forgotten dose.
                                             After that, the next drops should be taken according to the instructions
                                             given to you by your doctor.<sup>20</sup>
@@ -593,7 +593,7 @@ get_header( 'patient-guide' );
 
                         <div class="faq-item">
                             <div class="faq-head">
-                                What should you do if too much Fultium-D3 is taken by mistake?
+                                What should you do if too much Fultium-D<sub>3</sub> is taken by mistake?
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
                                         <g id="Component_8_32" data-name="Component 8 – 32"
@@ -771,10 +771,10 @@ get_header( 'patient-guide' );
                     <div class="col-lg-6">
                         <div class="references-content">
                             <ol class="references-list" start="1">
-                                <li>Fultium-D3 Drops Summary of Product</li>
-                                <li>Fultium-D3 800IU Capsules Summary of Product</li>
-                                <li>Fultium-D3 3200IU Capsules Summary of Product</li>
-                                <li>Fultium-D3 20KIU Capsules Summary of Product</li>
+                                <li>Fultium-D<sub>3</sub> Drops Summary of Product</li>
+                                <li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product</li>
+                                <li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product</li>
+                                <li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product</li>
                                 <li>National Institutes of Health. Available at: ods.od.nih.gov/factsheets/VitaminD-Consumer/Accessed on:</li>
                                 <li>Sizar O <i>et al</i>. StatPearls 2023. Available from: www.ncbi.nim.nih.gov/books/NBK532266/ Accessed on:</li>
                                 <li>Dahash BA, Sankararaman $. StatPearls 2023. Available from: www.ncbi.nlm.nih.gov/books/NBK562285/Accessed</li>
@@ -796,9 +796,9 @@ get_header( 'patient-guide' );
                                 <li>Tsiaras WG, Weinstock MA. Acta Derm Venereol 2011; 91(2):</li>
                                 <li>Bocheva G ot al. Int J Mol Sci 2021; 22(16):</li>
                                 <li>Calame W <i>et al</i>. Nutrients 2020: 12(6):</li>
-                                <li>Fultium-D3 drops. Patient Informaton Leaflet.</li>
-                                <li>Fultium-D3. 8001U capsules. Patient Information Leaflet.</li>
-                                <li>Fultium-D3. 3,200 Ul capsules. Patient Information Futium-D3. 20,000 Ul capsules. Patient Information</li>
+                                <li>Fultium-D<sub>3</sub> drops. Patient Informaton Leaflet.</li>
+                                <li>Fultium-D<sub>3</sub>. 8001U capsules. Patient Information Leaflet.</li>
+                                <li>Fultium-D<sub>3</sub>. 3,200 Ul capsules. Patient Information Futium-D3. 20,000 Ul capsules. Patient Information</li>
                             </ol>
                         </div>
                     </div>

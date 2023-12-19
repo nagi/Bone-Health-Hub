@@ -400,7 +400,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 								<li>Migliorini F <i>et al</i>. Medicina (Kaunas) 2021; 57(10): 1119.</li>
 								<li>Brown JP <i>et al</i>. BMC Musculoskelet Disord 2021; 22(1): 105.</li>
 								<li> 
-									Fultium-D3 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: September 2023.
+									Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: September 2023.
 								</li>
 								<li>
 									Accrete D3 Film-Coated Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2766. Accessed: September 2023.
