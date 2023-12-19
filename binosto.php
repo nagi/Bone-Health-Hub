@@ -44,13 +44,13 @@ $bone_health_job_number = "UK-MULT-130c(2)";
                 <div class="webinar-platform-content style-two mw-100">
                     <h2 class="c-black pt-xl-5">Binosto</h2>
                     <h4>Binosto is a buffered, soluble, effervescent alendronate tablet formulation that addresses 
-                        the challenges of gastrointestinal (GI) tolerability and patient adherence to bisphosphonates<sup>1,2*</sup></h4>
+                        the challenges of gastrointestinal (GI) tolerability and patient adherence to bisphosphonates<sup>1,2</sup></h4>
                     <p>
                         While oral bisphosphonates have broad-spectrum efficacy to reduce fragility fractures, persistence is
                          crucial.<sup>2,3</sup> 2 in 3 postmenopausal women in the UK discontinue oral bisphosphonate therapy within a year.<sup>4</sup>
                     </p>
                     <p>
-                        Binosto is indicated for the treatment of postmenopausal osteoporosis. It reduces the risk of vertebral and hip fractures.
+                        Binosto is indicated for the treatment of postmenopausal osteoporosis. It reduces the risk of vertebral and hip fractures.<sup>5</sup>
                     </p>
                     <p>
                         Additionally, Binosto benefited from a 36% list price reduction to support the NHS<sup>1,2*</sup>
