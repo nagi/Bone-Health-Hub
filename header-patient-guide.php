@@ -3,7 +3,7 @@ global $bone_health_product;
 ?>
 
 <!DOCTYPE html>
-<html <?php language_attributes(); ?>>
+<html <?php language_attributes(); ?> class="<?php echo $bone_health_product ?>-patient-page">
 <head>
     <meta charset="<?php bloginfo( 'charset' ); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -43,9 +43,12 @@ global $bone_health_product;
 						'menu_id'        => 'menu-main'
 					) ); ?> -->
 
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="#">Patient guide download</a>
-                    </li> -->
+                    <li class="nav-item">
+                        <a id="patient-guide-link" class="nav-link" href="<?php echo docs_dir (); ?><?php echo ucfirst($bone_health_product) ?>-Patient-Download-Guide.pdf" target="_blank">
+                            Patient guide download
+                        </a>
+                    </li>
+
                     <li class="dropdown nav-item">
                         <a class="nav-link d-flex align-items-center dropdown-toggle no-after" href="#" role="button"
                            id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">

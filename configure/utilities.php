@@ -40,3 +40,14 @@ function isRegistered() {
 		return False;
 	}
 }
+
+function smpc_path($product_name) {
+	switch ($product_name) {
+    case "fultium":
+    	return "2813/smpc";
+    case "accrete":
+    	return "2766";
+    case "binosto":
+    	return "7113";
+	}
+}

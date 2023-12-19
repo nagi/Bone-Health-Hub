@@ -45,7 +45,15 @@ global $bone_health_product;
                     </div>
                 </div>
                 <div class="info">
-                    <p>All other visitors: Please view the Summary of Product Characteristics</p>
+                    <p>
+                        All other visitors: Please view the
+                        <a class="not_outbound"
+                           target="_blank"
+                           href="https://www.medicines.org.uk/emc/product/<?php echo smpc_path($bone_health_product) ?>">
+                            Summary of Product Characteristics
+                        </a>
+                    </p>
+
                     <p><?php echo $bone_health_job_number ?>a | Date of Preparation December 2023</p>
                 </div>
             </div>

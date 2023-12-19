@@ -17,8 +17,8 @@
                         visitors but Thornton & Ross Limited is not responsible for the content or information on this
                         site.
                     </p>
-                    <div class="read-more">
-                        <a class="follow-link-anchor" href="">
+                    <div class="read-more mt-3">
+                        <a class="follow-link-anchor" xtarget="_blank" href="">
                             Continue to site
                             <svg xmlns="http://www.w3.org/2000/svg" width="103.633" height="32.2" viewBox="0 0 103.633 32.2">
                                 <g id="Group_705" data-name="Group 705" transform="translate(-10799.698 -4740.176)">
@@ -32,6 +32,9 @@
                             </svg>
                         </a>
                     </div>
+                </div>
+                <div class="info mt-5">
+                    <p>UK-STADA-323 &nbsp;&nbsp;| &nbsp;&nbsp;Date of Preparation November 2023</p>
                 </div>
             </div>
         </div>
