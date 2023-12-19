@@ -193,7 +193,7 @@ get_header( 'patient-guide' );
                                 </p>
                                 <p>
                                     Bones affected by osteomalacia are more prone to fractures, especially with minor
-                                    injuries or stresses.6 In rare cases, bone deformities may also occur.<sup>8</sup>
+                                    injuries or stresses.<sup>6</sup> In rare cases, bone deformities may also occur.<sup>8</sup>
                                 </p>
                             </div>
                         </div>
@@ -687,7 +687,7 @@ get_header( 'patient-guide' );
                                     Be sure to read the Patient Information Leaflet that comes with your medication for
                                     further details on possible side effects.
                                 </p>
-                                <p>
+                                <p class="adverse-box p-3 m-5">
                                     If you experience any side effects, talk to your Healthcare Professional. This
                                     includes any possible side effects not listed in the package leaflet. You can also
                                     report side effects directly via the Yellow Card Scheme at
