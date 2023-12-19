@@ -44,7 +44,7 @@ global $bone_health_product;
 					) ); ?> -->
 
                     <li class="nav-item">
-                        <a id="patient-guide-link" class="nav-link" href="<?php echo docs_dir (); ?><?php echo ucfirst($bone_health_product) ?>-Patient-Download-Guide.pdf" target="_blank">
+                        <a class="nav-link patient-guide-link" href="<?php echo docs_dir (); ?><?php echo ucfirst($bone_health_product) ?>-Patient-Download-Guide.pdf" target="_blank">
                             Patient guide download
                         </a>
                     </li>

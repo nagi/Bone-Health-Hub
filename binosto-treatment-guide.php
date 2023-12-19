@@ -182,7 +182,7 @@ get_header( 'patient-guide' );
                             <div class="faq-body">
                                 <p>
                                     With enough force, anyone can break a bone. When you have osteoporosis, however,
-                                    just a simple fall can result in a broken bone.6 While the hip, wrist and spine are
+                                    just a simple fall can result in a broken bone.<sup>6</sup> While the hip, wrist and spine are
                                     the most affected sites, fractures can occur in other parts of the body.<sup>4</sup>
                                 </p>
                                 <p>
@@ -531,7 +531,7 @@ get_header( 'patient-guide' );
                                     further details on possible side effects.
 
                                 </p>
-                                <p>
+                                <p class="adverse-box p-3 m-5">
                                     If you experience any side effects, talk to your Healthcare Professional. This
                                     includes any possible side effects not listed in the package leaflet. You can also
                                     report side effects directly via the Yellow Card Scheme at
@@ -571,14 +571,16 @@ get_header( 'patient-guide' );
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="faq-cta">
+                    <div class="faq-cta">
                         <div class="title">
                             Patient Guide Download
                         </div>
                         <div class="button-wrap">
-                            <a href="#">Click Here</a>
+                            <a class="buttons-wrap" href="<?php echo docs_dir (); ?><?php echo ucfirst($bone_health_product) ?>-Patient-Download-Guide.pdf" target="_blank">
+                                Click Here
+                            </a>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -640,7 +642,7 @@ get_header( 'patient-guide' );
                                     Accessed on: 06.11.23.
                                 </li>
                                 <li>Gopinath V. Med Clin North Am 2023; 107(2): 213-25.</li>
-                                <li>Sözen T et al. Eur J Rheumatol 2017; 4(1): 46-56.</li>
+                                <li>Sözen T <i>et al</i>. Eur J Rheumatol 2017; 4(1): 46-56.</li>
                                 <li>Royal Osteoporosis Society. Available at:
                                     theros.org.uk/information-and-support/osteoporosis/symptoms/ Accessed on: 06.11.23.
                                 </li>
@@ -650,14 +652,14 @@ get_header( 'patient-guide' );
                     <div class="col-lg-6">
                         <div class="references-content">
                             <ol class="references-list" start="7">
-                                <li>Donnally III CJ et al. Available at: www.ncbi.nlm.nih.gov/books/NBK448171/ Accessed
+                                <li>Donnally III CJ <i>et al</i>. Available at: www.ncbi.nlm.nih.gov/books/NBK448171/ Accessed
                                     on: 06.11.23.
                                 </li>
                                 <li>Johnell O, Kanis JA. Osteoporos Int 2006; 17(12): 1726-33.</li>
-                                <li>Kanis JA et al. Osteoporos Int 2019; 30(1): 3-44.</li>
+                                <li>Kanis JA <i>et al</i>. Osteoporos Int 2019; 30(1): 3-44.</li>
                                 <li>Binosto Summary of Product Characteristics</li>
-                                <li>Hodges LA et al. Int J Pharm 2012; 432(1-2): 57-62.</li>
-                                <li>Vytrisalova M et al. Climacteric 2015; 18(4): 608-16.</li>
+                                <li>Hodges LA <i>et al</i>. Int J Pharm 2012; 432(1-2): 57-62.</li>
+                                <li>Vytrisalova M <i>et al</i>. Climacteric 2015; 18(4): 608-16.</li>
                             </ol>
                         </div>
                     </div>

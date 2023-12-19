@@ -10,7 +10,7 @@
 				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
 					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
 					emailing thorntonross@medinformation.co.uk or by calling 01484 848164</p>
-				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation December 2023</p>
+				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation November 2023</p>
 			</div>
 		</div>
 	</div>
@@ -19,8 +19,8 @@
 	<!--=== Start Footer Area ===-->
 	<div class="footer-area bg-color-f4f4f4 pt-30 pb-30">
 		<div class="container">
-			<div class="row align-items-center" x-data-cues="slideInUp">
-				<div class="col-lg-4 col-sm-6 col-md-4">
+			<div class="row align-items-end" x-data-cues="slideInUp">
+				<div class="pb-3 col-lg-4 col-sm-6 col-md-4">
 					<div class="single-footer">
 						<ul class="ps-0 mb-0">
 							<li>
@@ -32,14 +32,14 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-12 col-md-4">
-					<div class="single-footer py-4">
+				<div class="pb-3 col-lg-4 col-sm-12 col-md-4">
+					<div class="single-footer pt-md-4 px-2">
 						<div href="#" class="d-block text-md-center">
-							<img src="<?php echo img_dir (); ?>/logo-4.png" alt="footer-logo">
+							<img class="footer-logo-patient" src="<?php echo img_dir (); ?>/logo-4.png" alt="footer-logo">
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-sm-12 col-md-4">
+				<div class="pb-3 col-lg-4 col-sm-12 col-md-4">
 					<div class="single-footer d-sm-flex justify-content-lg-end">
 						<ul class="ps-0 mb-0">
 							<li>

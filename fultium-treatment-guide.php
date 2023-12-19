@@ -776,7 +776,7 @@ get_header( 'patient-guide' );
                                 <li>Fultium-D3 3200IU Capsules Summary of Product</li>
                                 <li>Fultium-D3 20KIU Capsules Summary of Product</li>
                                 <li>National Institutes of Health. Available at: ods.od.nih.gov/factsheets/VitaminD-Consumer/Accessed on:</li>
-                                <li>Sizar O et al. StatPearls 2023. Available from: www.ncbi.nim.nih.gov/books/NBK532266/ Accessed on:</li>
+                                <li>Sizar O <i>et al</i>. StatPearls 2023. Available from: www.ncbi.nim.nih.gov/books/NBK532266/ Accessed on:</li>
                                 <li>Dahash BA, Sankararaman $. StatPearls 2023. Available from: www.ncbi.nlm.nih.gov/books/NBK562285/Accessed</li>
                                 <li>Zimmerman L, McKeon B. StatPearls 2022. Available from: www.ncbi.nlm.nih.gov/books/NBK551616/Accessed</li>
                                 <li>Uday S, Högler W. Indian J Med Res</li>
@@ -791,11 +791,11 @@ get_header( 'patient-guide' );
                             <ol class="references-list" start="13">
                                 <li>National Institute on Aging. Available at: www.nia.nih.gov/health/osteoporosis Accessed on:</li>
                                 <li>Gopinath V. Med Clin North Am 2023; 107(2):</li>
-                                <li>Karras SN et al. Ther Adv Musculoskelet Dis 2016;</li>
-                                <li>Kanike N et al. Nutrients. 2020; 12(7): 2085.</li>
+                                <li>Karras SN <i>et al</i>. Ther Adv Musculoskelet Dis 2016;</li>
+                                <li>Kanike N <i>et al</i>. Nutrients. 2020; 12(7): 2085.</li>
                                 <li>Tsiaras WG, Weinstock MA. Acta Derm Venereol 2011; 91(2):</li>
                                 <li>Bocheva G ot al. Int J Mol Sci 2021; 22(16):</li>
-                                <li>Calame W et al. Nutrients 2020: 12(6):</li>
+                                <li>Calame W <i>et al</i>. Nutrients 2020: 12(6):</li>
                                 <li>Fultium-D3 drops. Patient Informaton Leaflet.</li>
                                 <li>Fultium-D3. 8001U capsules. Patient Information Leaflet.</li>
                                 <li>Fultium-D3. 3,200 Ul capsules. Patient Information Futium-D3. 20,000 Ul capsules. Patient Information</li>
