@@ -8,7 +8,7 @@
 get_header();
 
 $page_id = get_option( 'page_for_posts' );
-$bone_health_job_number = "UK-MULT-130c(2)";
+$bone_health_job_number = "UK-MULT-130c(3)";
 ?>
 
 <!--=== Start Page Banner Area ===-->
@@ -206,13 +206,13 @@ $bone_health_job_number = "UK-MULT-130c(2)";
 		<span class="d-block text-center references-title">References</span>
 		<div class="references-wrapper">
 			<div class="row" data-cues="slideInUp">
-				<div class="col-lg-3">
+				<div class="col-lg-2">
 					<div class="references-content">
 						<ol class="references-list">
 						</ol>
 					</div>
 				</div>
-				<div class="col-lg-6">
+				<div class="col-lg-8">
 					<div class="references-content">
 						<ol class="references-list" start="1">
                             <li>Minisola S <i>et al</i>. JBMR Plus 2021; 5(7): e10510.</li>
@@ -226,7 +226,7 @@ $bone_health_job_number = "UK-MULT-130c(2)";
 						</ol>
 					</div>
 				</div>
-                <div class="col-lg-3">
+                <div class="col-lg-2">
 					<div class="references-content">
 						<ol class="references-list">
 						</ol>

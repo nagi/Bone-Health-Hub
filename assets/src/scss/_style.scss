@@ -946,7 +946,7 @@ References Style
 Information Style
 <<<<======================================================>>>>*/
 .information-content {
-	max-width: 720px;
+	max-width: 780px;
 	margin: auto;
 
 	.title {
@@ -955,11 +955,9 @@ Information Style
 	}
 
 	.dis-one {
-		font-size: 12px;
+		font-size: 12px !important;
 		color: $heading-color;
-		width: 69%;
-		margin: auto;
-		line-height: 14px;
+		line-height: 14px !important;
 	}
 
 	.dis-two {
