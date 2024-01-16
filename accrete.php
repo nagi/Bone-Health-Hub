@@ -50,7 +50,7 @@ $bone_health_preperation_date = "December 2023";
                         the elderly. Adjunct to specific osteoporosis treatment for patients at risk of vitamin D and 
                         calcium deficiency.<sup>5,6</sup>
                     </p>
-                    <a href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
+                    <a href="https://rxdetail.co.uk/accrete/Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
                 </div>
             </div>
             <div class="col-xxl-6" data-cues="slideInRight">

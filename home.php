@@ -220,7 +220,7 @@ $bone_health_job_number = "UK-MULT-130(1)";
 										<img src="<?php echo img_dir (); ?>/right-2.png" alt="right-1">
 									</a>
 									<br>
-									<a class="pi semibold" href="<?php echo docs_dir() ?>Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
+									<a href="https://rxdetail.co.uk/accrete/Accrete–prescribing-information.pdf" target="_blank">Accrete Prescribing Information</a>
 								</div>
 							</div>
 						</div>
