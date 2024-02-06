@@ -70,7 +70,7 @@ get_header( 'patient-guide' );
                                 Healthcare Professional tells you to do so.
                             </p>
                             <p>
-                                Please also be sure to read the patient information leaflet that comes in your
+                                Please also be sure to read the Patient Information Leaflet that comes in your
                                 Accrete-D<sub>3</sub> pack for full details on how to take your treatment.
                             </p>
                         </div>
@@ -525,7 +525,7 @@ get_header( 'patient-guide' );
                                     As calcium and vitamin D deficiency and osteoporosis are “silent” conditions that
                                     you can’t feel, you won’t be able to sense Accrete-D<sub>3</sub> working inside you. As such
                                     it’s essential to take your medication exactly as your doctor recommends, otherwise
-                                    it is likely your bones will get weaker over time increasing your risk of breaking a
+                                    it is likely your bones will get weaker over time, increasing your risk of breaking a
                                     bone.<sup>18</sup>
                                 </p>
                             </div>

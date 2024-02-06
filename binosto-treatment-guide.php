@@ -56,7 +56,7 @@ get_header( 'patient-guide' );
                                 Healthcare Professional tells you to do so.
                             </p>
                             <p>
-                                Please also be sure to read the patient information leaflet that comes in your Binosto
+                                Please also be sure to read the Patient Information Leaflet that comes in your Binosto
                                 pack for full details on how to take your treatment.
                             </p>
                         </div>
@@ -250,7 +250,7 @@ get_header( 'patient-guide' );
                                 </p>
                                 <p>
                                     When you get up in the morning on your chosen day, before you have anything to eat
-                                    or drink dissolve one tablet in 120 ml of plain water. If need be, give it a stir to
+                                    or drink, dissolve one tablet in 120 ml of plain water. If need be, give it a stir to
                                     make sure the tablet is completely dissolved.<sup>10</sup>
                                 </p>
                                 <p>

@@ -81,7 +81,7 @@ get_header( 'patient-guide' );
                                 Healthcare Professional tells you to do so.
                             </p>
                             <p>
-                                Please also be sure to read the patient information leaflet that comes in the Fultium-D<sub>3</sub>
+                                Please also be sure to read the Patient Information Leaflet that comes in the Fultium-D<sub>3</sub>
                                 pack for full details on how to take the treatment.
                             </p>
                         </div>

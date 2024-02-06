@@ -65,13 +65,13 @@ global $bone_health_product;
                             aria-labelledby="dropdownMenuLink">
                             <li><a class="dropdown-item outbound" href="https://theros.org.uk/" target="_blank">Royal
                                     Osteoporosis Society</a></li>
-                            <li><a class="dropdown-item border-0"
-                                   href="https://www.stadahcp.co.uk/webinars?topic=Bone%20Health" target="_blank">NHS
+                            <li><a class="dropdown-item border-0 outbound"
+                                   href="https://www.nhs.uk/conditions/osteoporosis/" target="_blank">NHS
                                     Osteoporosis Information</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Healthcare Professionals</a>
+                        <a class="nav-link" href="https://stadabonehealthhub.co.uk/">Healthcare Professionals</a>
                     </li>
                 </ul>
             </div>

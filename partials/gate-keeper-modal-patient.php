@@ -29,7 +29,7 @@ global $bone_health_product;
                         </p>
                     </div>
                     <div class="read-more">
-                        <a id="HCP">I confirm I am a UK patient</a>
+                        <a id="HCP" style="cursor:pointer;">I confirm I am a UK patient</a>
                     </div>
                 </div>
                 <div class="item">
@@ -41,7 +41,7 @@ global $bone_health_product;
                         </p>
                     </div>
                     <div class="read-more">
-                        <a href="/">I confirm I am a UK Healthcare Professional</a>
+                        <a href="https://stadabonehealthhub.co.uk/">I confirm I am a UK Healthcare Professional</a>
                     </div>
                 </div>
                 <div class="info">
