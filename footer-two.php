@@ -14,7 +14,7 @@
 					Scheme at <a href="https://yellowcard.mhra.gov.uk" target="_blank">https://yellowcard.mhra.gov.uk</a>.
 					By reporting side effects, you can help provide more information on the safety of this medicine.
 				</p>
-				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation November 2023</p>
+				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation February 2024</p>
 			</div>
 		</div>
 	</div>

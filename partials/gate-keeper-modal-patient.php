@@ -54,7 +54,7 @@ global $bone_health_product;
                         </a>
                     </p>
 
-                    <p><?php echo $bone_health_gate_keeper_job_number ?> | Date of Preparation February 2024</p>
+                    <p><?php echo $bone_health_gate_keeper_job_number ?> | Date of Preparation November 2023</p>
                 </div>
             </div>
         </div>
