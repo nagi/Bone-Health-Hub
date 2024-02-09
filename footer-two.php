@@ -7,9 +7,12 @@
 	<div class="information-area">
 		<div class="container">
 			<div class="information-content text-center" x-data-cues="slideInUp">
-				<p class="dis-two">Adverse events should be reported. Reporting forms and information can be found at:
-					www.mhra.gov.uk/yellowcard. Adverse events should also be reported to Thornton and Ross Limited by
-					emailing thorntonross@medinformation.co.uk or by calling 01484 848164</p>
+				<p class="dis-two">
+					<strong>Reporting of side effects</strong> If you get any side effects, talk to your doctor,
+					pharmacist or nurse. This includes any possible side effects not listed in the
+					package leaflet. You can also report side effects directly via the Yellow Card
+					Scheme at <a href="https://yellowcard.mhra.gov.uk" target="_blank">https://yellowcard.mhra.gov.uk</a>.
+				</p>
 				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation November 2023</p>
 			</div>
 		</div>
@@ -24,10 +27,7 @@
 					<div class="single-footer">
 						<ul class="ps-0 mb-0">
 							<li>
-                                <a href="https://www.thorntonross.com/privacy-policy" target="_blank">Privacy Policy</a>
-							</li>
-							<li>
-                                <a href="https://www.thorntonross.com/terms-conditions" target="_blank">Terms and Conditions</a>
+								<a href="https://www.thorntonross.com/privacy-policy" target="_blank">Privacy Policy</a>
 							</li>
 						</ul>
 					</div>
@@ -43,7 +43,7 @@
 					<div class="single-footer d-sm-flex justify-content-lg-end">
 						<ul class="ps-0 mb-0">
 							<li>
-								<a href="#" class="open-adverse">Adverse Event Reporting</a>
+								<a href="https://www.thorntonross.com/terms-conditions" target="_blank">Terms and Conditions</a>
 							</li>
 						</ul>
 					</div>

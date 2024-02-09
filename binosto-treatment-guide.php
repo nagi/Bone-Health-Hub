@@ -6,7 +6,7 @@
  */
 
 $page_id                = get_option( 'page_for_posts' );
-$bone_health_job_number = "UK-BINO-37";
+$bone_health_job_number = "UK-BINO-37(1)";
 $bone_health_product = "binosto";
 
 get_header( 'patient-guide' );

@@ -6,7 +6,7 @@
  */
 
 $page_id                = get_option( 'page_for_posts' );
-$bone_health_job_number = "UK-ACCR-70";
+$bone_health_job_number = "UK-ACCR-70(1)";
 $bone_health_product = "accrete";
 
 get_header( 'patient-guide' );
