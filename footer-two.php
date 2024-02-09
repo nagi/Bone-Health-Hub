@@ -12,6 +12,7 @@
 					pharmacist or nurse. This includes any possible side effects not listed in the
 					package leaflet. You can also report side effects directly via the Yellow Card
 					Scheme at <a href="https://yellowcard.mhra.gov.uk" target="_blank">https://yellowcard.mhra.gov.uk</a>.
+					By reporting side effects, you can help provide more information on the safety of this medicine.
 				</p>
 				<p class="dis-three pb-5"><?php echo $bone_health_job_number ?> &nbsp; &nbsp; | &nbsp; &nbsp;  Date of Preparation November 2023</p>
 			</div>

@@ -220,7 +220,7 @@ $bone_health_job_number = "UK-MULT-130c(3)";
                             <li>Bastounis A <i>et al</i>. Osteoporos Int 2022; 33(6): 1223-33.</li>
                             <li>Morley J <i>et al</i>. Osteoporos Int 2020; 31(3): 533-45.</li>
                             <li>Binosto 70 mg Effervescent Tablets Summary of Product Characteristics:
-                                https://www.medicines.org.uk/emc/product/7113. Accessed: November 2023.</li>
+                            <a href="https://www.medicines.org.uk/emc/product/7113" target="_blank">https://www.medicines.org.uk/emc/product/7113</a>. Accessed: November 2023.</li>
                             <li>Fuggle N <i>et al</i>. Aging Clin Exp Res 2022; 34(11): 2625-34.</li>
                             <li>Hodges LA <i>et al</i>. Int J Pharm 2012; 432(1-2): 57-62.</li>
 						</ol>

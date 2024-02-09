@@ -206,12 +206,13 @@ $bone_health_preperation_date = "December 2023";
 				<div class="col-lg-6">
 					<div class="references-content">
 						<ol class="references-list">
-                            <li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: December 2023.</li>
+                            <li>DM+D. Available at: 
+<a href="http://services.nhsbsa.nhs.uk/dmd-browser" target="_blank">services.nhsbsa.nhs.uk/dmd-browser</a> Accessed: December 2023.</li>
                             <li>NHS List Price, Drug Tariff February 2023</li>
                             <li>Cutler RL <i>et al</i>. BMJ Open 2018; 8(1): e016982.</li>
 							<li>Shariff Z <i>et al</i>. Pharmaceutics 2020; 12(10): 905.</li>
 							<li>Accrete D3 Film-Coated Tablets Summary of Product Characteristics:
-                                https://www.medicines.org.uk/emc/product/2766. Accessed: November 2023.</li>
+                            <a href="https://www.medicines.org.uk/emc/product/2766" target="_blank">https://www.medicines.org.uk/emc/product/2766</a>. Accessed: November 2023.</li>
 						</ol>
 					</div>
 				</div>
@@ -219,11 +220,11 @@ $bone_health_preperation_date = "December 2023";
 					<div class="references-content">
 						<ol class="references-list" start="6">
                             <li>Accrete D<sub>3</sub> One a Day 1000 mg / 880 IU Chewable Tablets Summary of Product Characteristics:
-                            https://www.medicines.org.uk/emc/product/8506. Accessed: November 2023.</li>
+                            <a href="https://www.medicines.org.uk/emc/product/8506" target="_blank">https://www.medicines.org.uk/emc/product/8506</a>. Accessed: November 2023.</li>
 							<li>Martin LR <i>et al</i>. Ther Clin Risk Manag 2005 Sep;1(3):189-99.</li>
                             <li>HSCIC IQVIA RXA Unit Sales ending December 2022.</li>
                             <li>Adcal-D<sub>3</sub>® Chewable Tablets. Summary of Product Characteristics:
-                            https://www.medicines.org.uk/emc/product/1356/smpc. Accessed: November 2023.</li>
+                            <a href="https://www.medicines.org.uk/emc/product/1356/smpc" target="_blank">https://www.medicines.org.uk/emc/product/1356/smpc</a>. Accessed: November 2023.</li>
 
                             <li class="plain">
                                 Adcal-D<sub>3</sub>® is a registered trademark of Kyowa Kirin Services Ltd.

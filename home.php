@@ -394,19 +394,21 @@ $bone_health_job_number = "UK-MULT-130(1)";
 						<div class="references-content">
 							<ol class="references-list">
 								<li>
-								International Osteoporosis Foundation. Available at: www.osteoporosis.foundation/sites/iofbonehealth/files/scope-2021/UK%20report.pdf Accessed on: 17.08.23.
+								International Osteoporosis Foundation. Available at: 
+								<a href="http://www.osteoporosis.foundation/sites/iofbonehealth/files/scope-2021/UK%20report.pdf" target="_blank">www.osteoporosis.foundation/sites/iofbonehealth/files/scope-2021/UK%20report.pdf</a>
+								Accessed on: 17.08.23.
 								</li>
 								<li>Odén A <i>et al</i>. Osteoporos Int 2015; 26(9): 2243-8.</li>
 								<li>Migliorini F <i>et al</i>. Medicina (Kaunas) 2021; 57(10): 1119.</li>
 								<li>Brown JP <i>et al</i>. BMC Musculoskelet Disord 2021; 22(1): 105.</li>
 								<li> 
-									Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: September 2023.
+									Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/2813/smpc" target="_blank">https://www.medicines.org.uk/emc/product/2813/smpc</a>. Accessed: September 2023.
 								</li>
 								<li>
-									Accrete D3 Film-Coated Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2766. Accessed: September 2023.
+									Accrete D3 Film-Coated Tablets Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/2766" target="_blank">https://www.medicines.org.uk/emc/product/2766</a>. Accessed: September 2023.
 								</li>
 								<li>
-									Binosto 70 mg Effervescent Tablets Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/7113. Accessed: September 2023.
+									Binosto 70 mg Effervescent Tablets Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/7113" target="_blank">https://www.medicines.org.uk/emc/product/7113</a>. Accessed: September 2023.
 								</li>
 							</ol>
 						</div>
@@ -414,14 +416,15 @@ $bone_health_job_number = "UK-MULT-130(1)";
 					<div class="col-lg-6">
 						<div class="references-content">
 							<ol class="references-list" start="8">
-								<li>Movymia Summary of Product Characteristics, January 2021: https://www.medicines.org.uk/emc/product/10780. Accessed: September 2023.</li>
+								<li>Movymia Summary of Product Characteristics, January 2021: <a href="https://www.medicines.org.uk/emc/product/10780" target="_blank">https://www.medicines.org.uk/emc/product/10780</a>. Accessed: September 2023.</li>
 								<li>IQVIA. RXA Sales Dashboard – September 2023. Data on File, STADA UK, Thornton & Ross.</li>
 								<li>360 days’ treatment & maintenance on Fultium-D<sub>3</sub>: 90x3200IU (£39.96) + 3x90x800IU (3x£8.85) = £39.96 + £26.55 = £66.51.
 									Source NHS DM+D, Accessed: September 2023. </li>
-								<li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser Accessed: September 2023.</li>
+								<li>DM+D. Available at: <a href="http://services.nhsbsa.nhs.uk/dmd-browser" target="_blank">services.nhsbsa.nhs.uk/dmd-browser</a> Accessed: September 2023.</li>
 								<li>Minisola S <i>et al</i>. JBMR Plus 2021; 5(7): e10510.</li>
 								<li>Giusti A <i>et al</i>. Aging Clin Exp Res 2021; 33(9): 2529-37.</li>
-								<li>DM+D. Available at: services.nhsbsa.nhs.uk/dmd-browser/amp/view/153616 and services.nhsbsa.nhs.uk/dmd-browser/amp/view/153615 Accessed: September 2023</li>
+								<li>DM+D. Available at: <a href="https://dmd-browser.nhsbsa.nhs.uk/amp/view/153616" target="_blank">services.nhsbsa.nhs.uk/dmd-browser/amp/view/153616</a> and 
+								<a href="https://dmd-browser.nhsbsa.nhs.uk/amp/view/153615" target="_blank">services.nhsbsa.nhs.uk/dmd-browser/amp/view/153615</a> Accessed: September 2023</li>
 							</ol>
 						</div>
 					</div>

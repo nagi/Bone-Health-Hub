@@ -153,16 +153,16 @@ $bone_health_job_number = "UK-MULT-130b(2)";
 						<ol class="references-list">
 							<li>IQVIA. RXA Sales Dashboard – November 2023. Data on File, STADA UK, Thornton & Ross.</li>
 							<li>Calame W <i>et al</i>. Nutrients 2020; 12(6): 1868.</li>
-							<li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/2813/smpc. Accessed: November 2023.</li>
-							<li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/5355/smpc. Accessed: November 2023.</li>
-							<li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/3659/smpc. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/2813/smpc" target="_blank">https://www.medicines.org.uk/emc/product/2813/smpc</a>. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/5355/smpc" target="_blank">https://www.medicines.org.uk/emc/product/5355/smpc</a>. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/3659/smpc" target="_blank">https://www.medicines.org.uk/emc/product/3659/smpc</a>. Accessed: November 2023.</li>
 						</ol>
 					</div>
 				</div>
                 <div class="col-lg-6">
 					<div class="references-content">
 						<ol class="references-list" start="6">
-							<li>Fultium-D<sub>3</sub> Drops Summary of Product Characteristics: https://www.medicines.org.uk/emc/product/6861. Accessed: November 2023.</li>
+							<li>Fultium-D<sub>3</sub> Drops Summary of Product Characteristics: <a href="https://www.medicines.org.uk/emc/product/6861" target="_blank">https://www.medicines.org.uk/emc/product/6861</a>. Accessed: November 2023.</li>
 							<li>Halal Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>
 							<li>Kosher Certification - Fultium.pdf. Data on File, STADA UK, Thornton & Ross. </li>
 							<li>Wan M <i>et al</i>. Br J Clin Pharmacol 2021; 87(3): 1338-46.</li>

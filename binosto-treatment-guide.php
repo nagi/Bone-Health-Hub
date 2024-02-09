@@ -636,16 +636,16 @@ get_header( 'patient-guide' );
                             <ol class="references-list" start="1">
                                 <li>Dimai HP, Fahrleitner-Pammer A. Best Pract Res Clin Rheumatol 2022; 36(3): 101780.
                                 </li>
-                                <li>Porter JL, Varacallo M. Available at: www.ncbi.nlm.nih.gov/books/NBK441901/ Accessed
+                                <li>Porter JL, Varacallo M. Available at: <a href="http://www.ncbi.nlm.nih.gov/books/NBK441901/" target="_blank">www.ncbi.nlm.nih.gov/books/NBK441901/</a> Accessed
                                     on: 06.11.23.
                                 </li>
-                                <li>National Institute on Aging. Available at: www.nia.nih.gov/health/osteoporosis
+                                <li>National Institute on Aging. Available at: <a href="http://www.nia.nih.gov/health/osteoporosis" target="_blank">www.nia.nih.gov/health/osteoporosis</a>
                                     Accessed on: 06.11.23.
                                 </li>
                                 <li>Gopinath V. Med Clin North Am 2023; 107(2): 213-25.</li>
                                 <li>Sözen T <i>et al</i>. Eur J Rheumatol 2017; 4(1): 46-56.</li>
                                 <li>Royal Osteoporosis Society. Available at:
-                                    theros.org.uk/information-and-support/osteoporosis/symptoms/ Accessed on: 06.11.23.
+                                    <a href="http://theros.org.uk/information-and-support/osteoporosis/symptoms/" target="_blank">theros.org.uk/information-and-support/osteoporosis/symptoms/</a> Accessed on: 06.11.23.
                                 </li>
                             </ol>
                         </div>
@@ -653,7 +653,7 @@ get_header( 'patient-guide' );
                     <div class="col-lg-6">
                         <div class="references-content">
                             <ol class="references-list" start="7">
-                                <li>Donnally III CJ <i>et al</i>. Available at: www.ncbi.nlm.nih.gov/books/NBK448171/ Accessed
+                                <li>Donnally III CJ <i>et al</i>. Available at: <a href="http://www.ncbi.nlm.nih.gov/books/NBK448171/" target="_blank">www.ncbi.nlm.nih.gov/books/NBK448171/</a> Accessed
                                     on: 06.11.23.
                                 </li>
                                 <li>Johnell O, Kanis JA. Osteoporos Int 2006; 17(12): 1726-33.</li>

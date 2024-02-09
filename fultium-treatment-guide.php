@@ -776,21 +776,21 @@ get_header( 'patient-guide' );
                                 <li>Fultium-D<sub>3</sub> 800IU Capsules Summary of Product</li>
                                 <li>Fultium-D<sub>3</sub> 3200IU Capsules Summary of Product</li>
                                 <li>Fultium-D<sub>3</sub> 20KIU Capsules Summary of Product</li>
-                                <li>National Institutes of Health. Available at: ods.od.nih.gov/factsheets/VitaminD-Consumer/Accessed on:</li>
-                                <li>Sizar O <i>et al</i>. StatPearls 2023. Available from: www.ncbi.nim.nih.gov/books/NBK532266/ Accessed on:</li>
-                                <li>Dahash BA, Sankararaman $. StatPearls 2023. Available from: www.ncbi.nlm.nih.gov/books/NBK562285/Accessed</li>
-                                <li>Zimmerman L, McKeon B. StatPearls 2022. Available from: www.ncbi.nlm.nih.gov/books/NBK551616/Accessed</li>
+                                <li>National Institutes of Health. Available at: <a href="http://ods.od.nih.gov/factsheets/VitaminD-Consumer/" target="_blank">ods.od.nih.gov/factsheets/VitaminD-Consumer/</a> Accessed on: 07.11.23.</li>
+                                <li>Sizar O <i>et al</i>. StatPearls 2023. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK552366/" target="_blank">www.ncbi.nlm.nih.gov/books/NBK552366/</a> Accessed on: 07.11.23.</li>
+                                <li>Dahash BA, Sankararaman $. StatPearls 2023. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK562285/" target="_blank">www.ncbi.nlm.nih.gov/books/NBK562285/</a> Accessed on: 07.11.23.</li>
+                                <li>Zimmerman L, McKeon B. StatPearls 2022. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK551616/" target="_blank">www.ncbi.nlm.nih.gov/books/NBK551616/</a> Accessed on: 07.11.23.</li>
                                 <li>Uday S, Högler W. Indian J Med Res</li>
-                                <li>National Library of Medicine (US) 2022. Available at: medlineplus.gov/ency/article/000376.htm Accessed on:</li>
+                                <li>National Library of Medicine (US) 2022. Available at: <a href="http://medlineplus.gov/ency/article/000376.htm" target="_blank">medlineplus.gov/ency/article/000376.htm</a> Accessed on: 07.11.23.</li>
                                 <li>Dimai HP, Fahrleitner-Pammer A. Best Pract (Res Clin Rheumatol 2022; 36(3):</li>
-                                <li>Porter JL, Varacallo M. Available at: www.ncbi.nim.nih.gov/books/NBK441901/ Accessed on:</li>
+                                <li>Porter JL, Varacallo M. Available at: <a href="https://www.ncbi.nlm.nih.gov/books/NBK441901/" target="_blank">www.ncbi.nlm.nih.gov/books/NBK441901//</a> Accessed on: 06.11.23.</li>
                             </ol>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="references-content">
                             <ol class="references-list" start="13">
-                                <li>National Institute on Aging. Available at: www.nia.nih.gov/health/osteoporosis Accessed on:</li>
+                                <li>National Institute on Aging. Available at: <a href="http://www.nia.nih.gov/health/osteoporosis" target="_blank">www.nia.nih.gov/health/osteoporosis</a> Accessed on: 06.11.23.</li>
                                 <li>Gopinath V. Med Clin North Am 2023; 107(2):</li>
                                 <li>Karras SN <i>et al</i>. Ther Adv Musculoskelet Dis 2016;</li>
                                 <li>Kanike N <i>et al</i>. Nutrients. 2020; 12(7): 2085.</li>
