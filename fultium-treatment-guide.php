@@ -7,6 +7,7 @@
 
 $page_id                = get_option( 'page_for_posts' );
 $bone_health_job_number = "UK-FULT-90(1)";
+$bone_health_gate_keeper_job_number = "UK-FULT-90a";
 $bone_health_product = "fultium";
 
 get_header( 'patient-guide' );

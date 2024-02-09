@@ -1,5 +1,5 @@
 <?php
-global $bone_health_job_number;
+global $bone_health_gate_keeper_job_number;
 global $bone_health_product;
 ?>
 
@@ -54,7 +54,7 @@ global $bone_health_product;
                         </a>
                     </p>
 
-                    <p><?php echo $bone_health_job_number ?>a | Date of Preparation December 2023</p>
+                    <p><?php echo $bone_health_gate_keeper_job_number ?> | Date of Preparation February 2024</p>
                 </div>
             </div>
         </div>
