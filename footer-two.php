@@ -8,7 +8,7 @@
 		<div class="container">
 			<div class="information-content text-center" x-data-cues="slideInUp">
 				<p class="dis-two">
-					<strong>Reporting of side effects</strong> If you get any side effects, talk to your doctor,
+					<strong>Reporting of side effects.</strong> If you get any side effects, talk to your doctor,
 					pharmacist or nurse. This includes any possible side effects not listed in the
 					package leaflet. You can also report side effects directly via the Yellow Card
 					Scheme at <a href="https://yellowcard.mhra.gov.uk" target="_blank">https://yellowcard.mhra.gov.uk</a>.
